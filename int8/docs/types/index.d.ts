@@ -21,9 +21,9 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import MAX = require( '@stdlib/constants/int8/max' );
-import MIN = require( '@stdlib/constants/int8/min' );
-import NUM_BYTES = require( '@stdlib/constants/int8/num-bytes' );
+import MAX = require( './../../../int8/max' );
+import MIN = require( './../../../int8/min' );
+import NUM_BYTES = require( './../../../int8/num-bytes' );
 
 /**
 * Interface describing the `int8` namespace.

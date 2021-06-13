@@ -44,7 +44,7 @@ var constants = {};
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/cbrt-eps}
 */
-setReadOnly( constants, 'CBRT_EPS', require( '@stdlib/constants/float32/cbrt-eps' ) );
+setReadOnly( constants, 'CBRT_EPS', require( './../../float32/cbrt-eps' ) );
 
 /**
 * @name EPS
@@ -54,7 +54,7 @@ setReadOnly( constants, 'CBRT_EPS', require( '@stdlib/constants/float32/cbrt-eps
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/eps}
 */
-setReadOnly( constants, 'EPS', require( '@stdlib/constants/float32/eps' ) );
+setReadOnly( constants, 'EPS', require( './../../float32/eps' ) );
 
 /**
 * @name EXPONENT_BIAS
@@ -64,7 +64,7 @@ setReadOnly( constants, 'EPS', require( '@stdlib/constants/float32/eps' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/exponent-bias}
 */
-setReadOnly( constants, 'EXPONENT_BIAS', require( '@stdlib/constants/float32/exponent-bias' ) );
+setReadOnly( constants, 'EXPONENT_BIAS', require( './../../float32/exponent-bias' ) );
 
 /**
 * @name MAX
@@ -74,7 +74,7 @@ setReadOnly( constants, 'EXPONENT_BIAS', require( '@stdlib/constants/float32/exp
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/max}
 */
-setReadOnly( constants, 'MAX', require( '@stdlib/constants/float32/max' ) );
+setReadOnly( constants, 'MAX', require( './../../float32/max' ) );
 
 /**
 * @name MAX_SAFE_INTEGER
@@ -84,7 +84,7 @@ setReadOnly( constants, 'MAX', require( '@stdlib/constants/float32/max' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/max-safe-integer}
 */
-setReadOnly( constants, 'MAX_SAFE_INTEGER', require( '@stdlib/constants/float32/max-safe-integer' ) );
+setReadOnly( constants, 'MAX_SAFE_INTEGER', require( './../../float32/max-safe-integer' ) );
 
 /**
 * @name MIN_SAFE_INTEGER
@@ -94,7 +94,7 @@ setReadOnly( constants, 'MAX_SAFE_INTEGER', require( '@stdlib/constants/float32/
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/min-safe-integer}
 */
-setReadOnly( constants, 'MIN_SAFE_INTEGER', require( '@stdlib/constants/float32/min-safe-integer' ) );
+setReadOnly( constants, 'MIN_SAFE_INTEGER', require( './../../float32/min-safe-integer' ) );
 
 /**
 * @name NINF
@@ -104,7 +104,7 @@ setReadOnly( constants, 'MIN_SAFE_INTEGER', require( '@stdlib/constants/float32/
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/ninf}
 */
-setReadOnly( constants, 'NINF', require( '@stdlib/constants/float32/ninf' ) );
+setReadOnly( constants, 'NINF', require( './../../float32/ninf' ) );
 
 /**
 * @name NUM_BYTES
@@ -114,7 +114,7 @@ setReadOnly( constants, 'NINF', require( '@stdlib/constants/float32/ninf' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/num-bytes}
 */
-setReadOnly( constants, 'NUM_BYTES', require( '@stdlib/constants/float32/num-bytes' ) );
+setReadOnly( constants, 'NUM_BYTES', require( './../../float32/num-bytes' ) );
 
 /**
 * @name PINF
@@ -124,7 +124,7 @@ setReadOnly( constants, 'NUM_BYTES', require( '@stdlib/constants/float32/num-byt
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/pinf}
 */
-setReadOnly( constants, 'PINF', require( '@stdlib/constants/float32/pinf' ) );
+setReadOnly( constants, 'PINF', require( './../../float32/pinf' ) );
 
 /**
 * @name PRECISION
@@ -134,7 +134,7 @@ setReadOnly( constants, 'PINF', require( '@stdlib/constants/float32/pinf' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/precision}
 */
-setReadOnly( constants, 'PRECISION', require( '@stdlib/constants/float32/precision' ) );
+setReadOnly( constants, 'PRECISION', require( './../../float32/precision' ) );
 
 /**
 * @name SMALLEST_NORMAL
@@ -144,7 +144,7 @@ setReadOnly( constants, 'PRECISION', require( '@stdlib/constants/float32/precisi
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/smallest-normal}
 */
-setReadOnly( constants, 'SMALLEST_NORMAL', require( '@stdlib/constants/float32/smallest-normal' ) );
+setReadOnly( constants, 'SMALLEST_NORMAL', require( './../../float32/smallest-normal' ) );
 
 /**
 * @name SMALLEST_SUBNORMAL
@@ -154,7 +154,7 @@ setReadOnly( constants, 'SMALLEST_NORMAL', require( '@stdlib/constants/float32/s
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/smallest-subnormal}
 */
-setReadOnly( constants, 'SMALLEST_SUBNORMAL', require( '@stdlib/constants/float32/smallest-subnormal' ) );
+setReadOnly( constants, 'SMALLEST_SUBNORMAL', require( './../../float32/smallest-subnormal' ) );
 
 /**
 * @name SQRT_EPS
@@ -164,7 +164,7 @@ setReadOnly( constants, 'SMALLEST_SUBNORMAL', require( '@stdlib/constants/float3
 * @type {number}
 * @see {@link module:@stdlib/constants/float32/sqrt-eps}
 */
-setReadOnly( constants, 'SQRT_EPS', require( '@stdlib/constants/float32/sqrt-eps' ) );
+setReadOnly( constants, 'SQRT_EPS', require( './../../float32/sqrt-eps' ) );
 
 
 // EXPORTS //

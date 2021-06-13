@@ -43,7 +43,7 @@ var ns = {};
 * @type {string}
 * @see {@link module:@stdlib/constants/path/delimiter}
 */
-setReadOnly( ns, 'DELIMITER', require( '@stdlib/constants/path/delimiter' ) );
+setReadOnly( ns, 'DELIMITER', require( './../../path/delimiter' ) );
 
 /**
 * @name DELIMITER_POSIX
@@ -52,7 +52,7 @@ setReadOnly( ns, 'DELIMITER', require( '@stdlib/constants/path/delimiter' ) );
 * @type {string}
 * @see {@link module:@stdlib/constants/path/delimiter-posix}
 */
-setReadOnly( ns, 'DELIMITER_POSIX', require( '@stdlib/constants/path/delimiter-posix' ) );
+setReadOnly( ns, 'DELIMITER_POSIX', require( './../../path/delimiter-posix' ) );
 
 /**
 * @name DELIMITER_WIN32
@@ -61,7 +61,7 @@ setReadOnly( ns, 'DELIMITER_POSIX', require( '@stdlib/constants/path/delimiter-p
 * @type {string}
 * @see {@link module:@stdlib/constants/path/delimiter-win32}
 */
-setReadOnly( ns, 'DELIMITER_WIN32', require( '@stdlib/constants/path/delimiter-win32' ) );
+setReadOnly( ns, 'DELIMITER_WIN32', require( './../../path/delimiter-win32' ) );
 
 /**
 * @name SEP
@@ -70,7 +70,7 @@ setReadOnly( ns, 'DELIMITER_WIN32', require( '@stdlib/constants/path/delimiter-w
 * @type {string}
 * @see {@link module:@stdlib/constants/path/sep}
 */
-setReadOnly( ns, 'SEP', require( '@stdlib/constants/path/sep' ) );
+setReadOnly( ns, 'SEP', require( './../../path/sep' ) );
 
 /**
 * @name SEP_POSIX
@@ -79,7 +79,7 @@ setReadOnly( ns, 'SEP', require( '@stdlib/constants/path/sep' ) );
 * @type {string}
 * @see {@link module:@stdlib/constants/path/sep-posix}
 */
-setReadOnly( ns, 'SEP_POSIX', require( '@stdlib/constants/path/sep-posix' ) );
+setReadOnly( ns, 'SEP_POSIX', require( './../../path/sep-posix' ) );
 
 /**
 * @name SEP_WIN32
@@ -88,7 +88,7 @@ setReadOnly( ns, 'SEP_POSIX', require( '@stdlib/constants/path/sep-posix' ) );
 * @type {string}
 * @see {@link module:@stdlib/constants/path/sep-win32}
 */
-setReadOnly( ns, 'SEP_WIN32', require( '@stdlib/constants/path/sep-win32' ) );
+setReadOnly( ns, 'SEP_WIN32', require( './../../path/sep-win32' ) );
 
 
 // EXPORTS //

@@ -24,8 +24,8 @@ var tape = require( 'tape' );
 var ln = require( '@stdlib/math/base/special/ln' );
 var sqrt = require( '@stdlib/math/base/special/sqrt' );
 var abs = require( '@stdlib/math/base/special/abs' );
-var TWO_PI = require( '@stdlib/constants/float64/two-pi' );
-var EPS = require( '@stdlib/constants/float64/eps' );
+var TWO_PI = require( './../../../float64/two-pi' );
+var EPS = require( './../../../float64/eps' );
 var LN_SQRT_TWO_PI = require( './../lib' );
 
 

@@ -44,7 +44,7 @@ var constants = {};
 * @type {number}
 * @see {@link module:@stdlib/constants/uint8/max}
 */
-setReadOnly( constants, 'MAX', require( '@stdlib/constants/uint8/max' ) );
+setReadOnly( constants, 'MAX', require( './../../uint8/max' ) );
 
 /**
 * @name NUM_BYTES
@@ -54,7 +54,7 @@ setReadOnly( constants, 'MAX', require( '@stdlib/constants/uint8/max' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/uint8/num-bytes}
 */
-setReadOnly( constants, 'NUM_BYTES', require( '@stdlib/constants/uint8/num-bytes' ) );
+setReadOnly( constants, 'NUM_BYTES', require( './../../uint8/num-bytes' ) );
 
 
 // EXPORTS //

@@ -21,8 +21,8 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import MAX_ARRAY_LENGTH = require( '@stdlib/constants/array/max-array-length' );
-import MAX_TYPED_ARRAY_LENGTH = require( '@stdlib/constants/array/max-typed-array-length' );
+import MAX_ARRAY_LENGTH = require( './../../../array/max-array-length' );
+import MAX_TYPED_ARRAY_LENGTH = require( './../../../array/max-typed-array-length' );
 
 /**
 * Interface describing the `array` namespace.

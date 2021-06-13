@@ -44,7 +44,7 @@ var ns = {};
 * @type {number}
 * @see {@link module:@stdlib/constants/time/hours-in-day}
 */
-setReadOnly( ns, 'HOURS_IN_DAY', require( '@stdlib/constants/time/hours-in-day' ) );
+setReadOnly( ns, 'HOURS_IN_DAY', require( './../../time/hours-in-day' ) );
 
 /**
 * @name HOURS_IN_WEEK
@@ -54,7 +54,7 @@ setReadOnly( ns, 'HOURS_IN_DAY', require( '@stdlib/constants/time/hours-in-day' 
 * @type {number}
 * @see {@link module:@stdlib/constants/time/hours-in-week}
 */
-setReadOnly( ns, 'HOURS_IN_WEEK', require( '@stdlib/constants/time/hours-in-week' ) );
+setReadOnly( ns, 'HOURS_IN_WEEK', require( './../../time/hours-in-week' ) );
 
 /**
 * @name MILLISECONDS_IN_DAY
@@ -64,7 +64,7 @@ setReadOnly( ns, 'HOURS_IN_WEEK', require( '@stdlib/constants/time/hours-in-week
 * @type {number}
 * @see {@link module:@stdlib/constants/time/milliseconds-in-day}
 */
-setReadOnly( ns, 'MILLISECONDS_IN_DAY', require( '@stdlib/constants/time/milliseconds-in-day' ) );
+setReadOnly( ns, 'MILLISECONDS_IN_DAY', require( './../../time/milliseconds-in-day' ) );
 
 /**
 * @name MILLISECONDS_IN_HOUR
@@ -74,7 +74,7 @@ setReadOnly( ns, 'MILLISECONDS_IN_DAY', require( '@stdlib/constants/time/millise
 * @type {number}
 * @see {@link module:@stdlib/constants/time/milliseconds-in-hour}
 */
-setReadOnly( ns, 'MILLISECONDS_IN_HOUR', require( '@stdlib/constants/time/milliseconds-in-hour' ) );
+setReadOnly( ns, 'MILLISECONDS_IN_HOUR', require( './../../time/milliseconds-in-hour' ) );
 
 /**
 * @name MILLISECONDS_IN_MINUTE
@@ -84,7 +84,7 @@ setReadOnly( ns, 'MILLISECONDS_IN_HOUR', require( '@stdlib/constants/time/millis
 * @type {number}
 * @see {@link module:@stdlib/constants/time/milliseconds-in-minute}
 */
-setReadOnly( ns, 'MILLISECONDS_IN_MINUTE', require( '@stdlib/constants/time/milliseconds-in-minute' ) );
+setReadOnly( ns, 'MILLISECONDS_IN_MINUTE', require( './../../time/milliseconds-in-minute' ) );
 
 /**
 * @name MILLISECONDS_IN_SECOND
@@ -94,7 +94,7 @@ setReadOnly( ns, 'MILLISECONDS_IN_MINUTE', require( '@stdlib/constants/time/mill
 * @type {number}
 * @see {@link module:@stdlib/constants/time/milliseconds-in-second}
 */
-setReadOnly( ns, 'MILLISECONDS_IN_SECOND', require( '@stdlib/constants/time/milliseconds-in-second' ) );
+setReadOnly( ns, 'MILLISECONDS_IN_SECOND', require( './../../time/milliseconds-in-second' ) );
 
 /**
 * @name MILLISECONDS_IN_WEEK
@@ -104,7 +104,7 @@ setReadOnly( ns, 'MILLISECONDS_IN_SECOND', require( '@stdlib/constants/time/mill
 * @type {number}
 * @see {@link module:@stdlib/constants/time/milliseconds-in-week}
 */
-setReadOnly( ns, 'MILLISECONDS_IN_WEEK', require( '@stdlib/constants/time/milliseconds-in-week' ) );
+setReadOnly( ns, 'MILLISECONDS_IN_WEEK', require( './../../time/milliseconds-in-week' ) );
 
 /**
 * @name MINUTES_IN_DAY
@@ -114,7 +114,7 @@ setReadOnly( ns, 'MILLISECONDS_IN_WEEK', require( '@stdlib/constants/time/millis
 * @type {number}
 * @see {@link module:@stdlib/constants/time/minutes-in-day}
 */
-setReadOnly( ns, 'MINUTES_IN_DAY', require( '@stdlib/constants/time/minutes-in-day' ) );
+setReadOnly( ns, 'MINUTES_IN_DAY', require( './../../time/minutes-in-day' ) );
 
 /**
 * @name MINUTES_IN_HOUR
@@ -124,7 +124,7 @@ setReadOnly( ns, 'MINUTES_IN_DAY', require( '@stdlib/constants/time/minutes-in-d
 * @type {number}
 * @see {@link module:@stdlib/constants/time/minutes-in-hour}
 */
-setReadOnly( ns, 'MINUTES_IN_HOUR', require( '@stdlib/constants/time/minutes-in-hour' ) );
+setReadOnly( ns, 'MINUTES_IN_HOUR', require( './../../time/minutes-in-hour' ) );
 
 /**
 * @name MINUTES_IN_WEEK
@@ -134,7 +134,7 @@ setReadOnly( ns, 'MINUTES_IN_HOUR', require( '@stdlib/constants/time/minutes-in-
 * @type {number}
 * @see {@link module:@stdlib/constants/time/minutes-in-week}
 */
-setReadOnly( ns, 'MINUTES_IN_WEEK', require( '@stdlib/constants/time/minutes-in-week' ) );
+setReadOnly( ns, 'MINUTES_IN_WEEK', require( './../../time/minutes-in-week' ) );
 
 /**
 * @name MONTHS_IN_YEAR
@@ -144,7 +144,7 @@ setReadOnly( ns, 'MINUTES_IN_WEEK', require( '@stdlib/constants/time/minutes-in-
 * @type {number}
 * @see {@link module:@stdlib/constants/time/months-in-year}
 */
-setReadOnly( ns, 'MONTHS_IN_YEAR', require( '@stdlib/constants/time/months-in-year' ) );
+setReadOnly( ns, 'MONTHS_IN_YEAR', require( './../../time/months-in-year' ) );
 
 /**
 * @name SECONDS_IN_DAY
@@ -154,7 +154,7 @@ setReadOnly( ns, 'MONTHS_IN_YEAR', require( '@stdlib/constants/time/months-in-ye
 * @type {number}
 * @see {@link module:@stdlib/constants/time/seconds-in-day}
 */
-setReadOnly( ns, 'SECONDS_IN_DAY', require( '@stdlib/constants/time/seconds-in-day' ) );
+setReadOnly( ns, 'SECONDS_IN_DAY', require( './../../time/seconds-in-day' ) );
 
 /**
 * @name SECONDS_IN_HOUR
@@ -164,7 +164,7 @@ setReadOnly( ns, 'SECONDS_IN_DAY', require( '@stdlib/constants/time/seconds-in-d
 * @type {number}
 * @see {@link module:@stdlib/constants/time/seconds-in-hour}
 */
-setReadOnly( ns, 'SECONDS_IN_HOUR', require( '@stdlib/constants/time/seconds-in-hour' ) );
+setReadOnly( ns, 'SECONDS_IN_HOUR', require( './../../time/seconds-in-hour' ) );
 
 /**
 * @name SECONDS_IN_MINUTE
@@ -174,7 +174,7 @@ setReadOnly( ns, 'SECONDS_IN_HOUR', require( '@stdlib/constants/time/seconds-in-
 * @type {number}
 * @see {@link module:@stdlib/constants/time/seconds-in-minute}
 */
-setReadOnly( ns, 'SECONDS_IN_MINUTE', require( '@stdlib/constants/time/seconds-in-minute' ) );
+setReadOnly( ns, 'SECONDS_IN_MINUTE', require( './../../time/seconds-in-minute' ) );
 
 /**
 * @name SECONDS_IN_WEEK
@@ -184,7 +184,7 @@ setReadOnly( ns, 'SECONDS_IN_MINUTE', require( '@stdlib/constants/time/seconds-i
 * @type {number}
 * @see {@link module:@stdlib/constants/time/seconds-in-week}
 */
-setReadOnly( ns, 'SECONDS_IN_WEEK', require( '@stdlib/constants/time/seconds-in-week' ) );
+setReadOnly( ns, 'SECONDS_IN_WEEK', require( './../../time/seconds-in-week' ) );
 
 
 // EXPORTS //

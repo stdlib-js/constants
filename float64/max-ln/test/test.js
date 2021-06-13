@@ -23,7 +23,7 @@
 var tape = require( 'tape' );
 var pow = require( '@stdlib/math/base/special/pow' );
 var ln = require( '@stdlib/math/base/special/ln' );
-var FLOAT64_MAX = require( '@stdlib/constants/float64/max' );
+var FLOAT64_MAX = require( './../../../float64/max' );
 var FLOAT64_MAX_LN = require( './../lib' );
 
 

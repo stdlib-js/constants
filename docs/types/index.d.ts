@@ -21,20 +21,20 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import array = require( '@stdlib/constants/array' );
-import complex64 = require( '@stdlib/constants/complex64' );
-import complex128 = require( '@stdlib/constants/complex128' );
-import float16 = require( '@stdlib/constants/float16' );
-import float32 = require( '@stdlib/constants/float32' );
-import float64 = require( '@stdlib/constants/float64' );
-import int8 = require( '@stdlib/constants/int8' );
-import int16 = require( '@stdlib/constants/int16' );
-import int32 = require( '@stdlib/constants/int32' );
-import string = require( '@stdlib/constants/string' );
-import time = require( '@stdlib/constants/time' );
-import uint8 = require( '@stdlib/constants/uint8' );
-import uint16 = require( '@stdlib/constants/uint16' );
-import uint32 = require( '@stdlib/constants/uint32' );
+import array = require( './../../array' );
+import complex64 = require( './../../complex64' );
+import complex128 = require( './../../complex128' );
+import float16 = require( './../../float16' );
+import float32 = require( './../../float32' );
+import float64 = require( './../../float64' );
+import int8 = require( './../../int8' );
+import int16 = require( './../../int16' );
+import int32 = require( './../../int32' );
+import string = require( './../../string' );
+import time = require( './../../time' );
+import uint8 = require( './../../uint8' );
+import uint16 = require( './../../uint16' );
+import uint32 = require( './../../uint32' );
 
 /**
 * Interface describing the `constants` namespace.

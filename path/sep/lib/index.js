@@ -41,8 +41,8 @@
 // MODULES //
 
 var IS_WINDOWS = require( '@stdlib/assert/is-windows' );
-var PATH_SEP_WIN32 = require( '@stdlib/constants/path/sep-win32' );
-var PATH_SEP_POSIX = require( '@stdlib/constants/path/sep-posix' );
+var PATH_SEP_WIN32 = require( './../../../path/sep-win32' );
+var PATH_SEP_POSIX = require( './../../../path/sep-posix' );
 
 
 // MAIN //

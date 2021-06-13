@@ -21,9 +21,9 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import MAX = require( '@stdlib/constants/int32/max' );
-import MIN = require( '@stdlib/constants/int32/min' );
-import NUM_BYTES = require( '@stdlib/constants/int32/num-bytes' );
+import MAX = require( './../../../int32/max' );
+import MIN = require( './../../../int32/min' );
+import NUM_BYTES = require( './../../../int32/num-bytes' );
 
 /**
 * Interface describing the `int32` namespace.

@@ -21,8 +21,8 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import MAX = require( '@stdlib/constants/unicode/max' );
-import MAX_BMP = require( '@stdlib/constants/unicode/max-bmp' );
+import MAX = require( './../../../unicode/max' );
+import MAX_BMP = require( './../../../unicode/max-bmp' );
 
 /**
 * Interface describing the `unicode` namespace.

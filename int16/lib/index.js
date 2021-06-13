@@ -44,7 +44,7 @@ var constants = {};
 * @type {number}
 * @see {@link module:@stdlib/constants/int16/max}
 */
-setReadOnly( constants, 'MAX', require( '@stdlib/constants/int16/max' ) );
+setReadOnly( constants, 'MAX', require( './../../int16/max' ) );
 
 /**
 * @name MIN
@@ -54,7 +54,7 @@ setReadOnly( constants, 'MAX', require( '@stdlib/constants/int16/max' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/int16/min}
 */
-setReadOnly( constants, 'MIN', require( '@stdlib/constants/int16/min' ) );
+setReadOnly( constants, 'MIN', require( './../../int16/min' ) );
 
 /**
 * @name NUM_BYTES
@@ -64,7 +64,7 @@ setReadOnly( constants, 'MIN', require( '@stdlib/constants/int16/min' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/int16/num-bytes}
 */
-setReadOnly( constants, 'NUM_BYTES', require( '@stdlib/constants/int16/num-bytes' ) );
+setReadOnly( constants, 'NUM_BYTES', require( './../../int16/num-bytes' ) );
 
 
 // EXPORTS //

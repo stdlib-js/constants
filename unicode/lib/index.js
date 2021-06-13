@@ -43,7 +43,7 @@ var ns = {};
 * @type {number}
 * @see {@link module:@stdlib/constants/unicode/max}
 */
-setReadOnly( ns, 'MAX', require( '@stdlib/constants/unicode/max' ) );
+setReadOnly( ns, 'MAX', require( './../../unicode/max' ) );
 
 /**
 * @name MAX_BMP
@@ -52,7 +52,7 @@ setReadOnly( ns, 'MAX', require( '@stdlib/constants/unicode/max' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/unicode/max-bmp}
 */
-setReadOnly( ns, 'MAX_BMP', require( '@stdlib/constants/unicode/max-bmp' ) );
+setReadOnly( ns, 'MAX_BMP', require( './../../unicode/max-bmp' ) );
 
 
 // EXPORTS //

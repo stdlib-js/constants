@@ -21,8 +21,8 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import MAX = require( '@stdlib/constants/uint32/max' );
-import NUM_BYTES = require( '@stdlib/constants/uint32/num-bytes' );
+import MAX = require( './../../../uint32/max' );
+import NUM_BYTES = require( './../../../uint32/num-bytes' );
 
 /**
 * Interface describing the `uint32` namespace.

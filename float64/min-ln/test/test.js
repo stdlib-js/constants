@@ -23,7 +23,7 @@
 var tape = require( 'tape' );
 var pow = require( '@stdlib/math/base/special/pow' );
 var ln = require( '@stdlib/math/base/special/ln' );
-var SMALLEST_NORMAL = require( '@stdlib/constants/float64/smallest-normal' );
+var SMALLEST_NORMAL = require( './../../../float64/smallest-normal' );
 var FLOAT64_MIN_LN = require( './../lib' );
 
 

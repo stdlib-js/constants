@@ -45,8 +45,8 @@
 // MODULES //
 
 var IS_WINDOWS = require( '@stdlib/assert/is-windows' );
-var PATH_DELIMITER_WIN32 = require( '@stdlib/constants/path/delimiter-win32' );
-var PATH_DELIMITER_POSIX = require( '@stdlib/constants/path/delimiter-posix' );
+var PATH_DELIMITER_WIN32 = require( './../../../path/delimiter-win32' );
+var PATH_DELIMITER_POSIX = require( './../../../path/delimiter-posix' );
 
 
 // MAIN //

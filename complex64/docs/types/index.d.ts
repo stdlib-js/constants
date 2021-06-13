@@ -21,7 +21,7 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import NUM_BYTES = require( '@stdlib/constants/complex64/num-bytes' );
+import NUM_BYTES = require( './../../../complex64/num-bytes' );
 
 /**
 * Interface describing the `complex64` namespace.

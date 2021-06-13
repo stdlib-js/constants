@@ -21,12 +21,12 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import DELIMITER = require( '@stdlib/constants/path/delimiter' );
-import DELIMITER_POSIX = require( '@stdlib/constants/path/delimiter-posix' );
-import DELIMITER_WIN32 = require( '@stdlib/constants/path/delimiter-win32' );
-import SEP = require( '@stdlib/constants/path/sep' );
-import SEP_POSIX = require( '@stdlib/constants/path/sep-posix' );
-import SEP_WIN32 = require( '@stdlib/constants/path/sep-win32' );
+import DELIMITER = require( './../../../path/delimiter' );
+import DELIMITER_POSIX = require( './../../../path/delimiter-posix' );
+import DELIMITER_WIN32 = require( './../../../path/delimiter-win32' );
+import SEP = require( './../../../path/sep' );
+import SEP_POSIX = require( './../../../path/sep-posix' );
+import SEP_WIN32 = require( './../../../path/sep-win32' );
 
 /**
 * Interface describing the `path` namespace.

@@ -44,7 +44,7 @@ var constants = {};
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/apery}
 */
-setReadOnly( constants, 'APERY', require( '@stdlib/constants/float64/apery' ) );
+setReadOnly( constants, 'APERY', require( './../../float64/apery' ) );
 
 /**
 * @name CATALAN
@@ -54,7 +54,7 @@ setReadOnly( constants, 'APERY', require( '@stdlib/constants/float64/apery' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/catalan}
 */
-setReadOnly( constants, 'CATALAN', require( '@stdlib/constants/float64/catalan' ) );
+setReadOnly( constants, 'CATALAN', require( './../../float64/catalan' ) );
 
 /**
 * @name CBRT_EPS
@@ -64,7 +64,7 @@ setReadOnly( constants, 'CATALAN', require( '@stdlib/constants/float64/catalan' 
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/cbrt-eps}
 */
-setReadOnly( constants, 'CBRT_EPS', require( '@stdlib/constants/float64/cbrt-eps' ) );
+setReadOnly( constants, 'CBRT_EPS', require( './../../float64/cbrt-eps' ) );
 
 /**
 * @name E
@@ -74,7 +74,7 @@ setReadOnly( constants, 'CBRT_EPS', require( '@stdlib/constants/float64/cbrt-eps
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/e}
 */
-setReadOnly( constants, 'E', require( '@stdlib/constants/float64/e' ) );
+setReadOnly( constants, 'E', require( './../../float64/e' ) );
 
 /**
 * @name EPS
@@ -84,7 +84,7 @@ setReadOnly( constants, 'E', require( '@stdlib/constants/float64/e' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/eps}
 */
-setReadOnly( constants, 'EPS', require( '@stdlib/constants/float64/eps' ) );
+setReadOnly( constants, 'EPS', require( './../../float64/eps' ) );
 
 /**
 * @name EULERGAMMA
@@ -94,7 +94,7 @@ setReadOnly( constants, 'EPS', require( '@stdlib/constants/float64/eps' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/eulergamma}
 */
-setReadOnly( constants, 'EULERGAMMA', require( '@stdlib/constants/float64/eulergamma' ) );
+setReadOnly( constants, 'EULERGAMMA', require( './../../float64/eulergamma' ) );
 
 /**
 * @name EXPONENT_BIAS
@@ -104,7 +104,7 @@ setReadOnly( constants, 'EULERGAMMA', require( '@stdlib/constants/float64/eulerg
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/exponent-bias}
 */
-setReadOnly( constants, 'EXPONENT_BIAS', require( '@stdlib/constants/float64/exponent-bias' ) );
+setReadOnly( constants, 'EXPONENT_BIAS', require( './../../float64/exponent-bias' ) );
 
 /**
 * @name FOURTH_PI
@@ -114,7 +114,7 @@ setReadOnly( constants, 'EXPONENT_BIAS', require( '@stdlib/constants/float64/exp
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/fourth-pi}
 */
-setReadOnly( constants, 'FOURTH_PI', require( '@stdlib/constants/float64/fourth-pi' ) );
+setReadOnly( constants, 'FOURTH_PI', require( './../../float64/fourth-pi' ) );
 
 /**
 * @name FOURTH_ROOT_EPS
@@ -124,7 +124,7 @@ setReadOnly( constants, 'FOURTH_PI', require( '@stdlib/constants/float64/fourth-
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/fourth-root-eps}
 */
-setReadOnly( constants, 'FOURTH_ROOT_EPS', require( '@stdlib/constants/float64/fourth-root-eps' ) );
+setReadOnly( constants, 'FOURTH_ROOT_EPS', require( './../../float64/fourth-root-eps' ) );
 
 /**
 * @name GAMMA_LANCZOS_G
@@ -134,7 +134,7 @@ setReadOnly( constants, 'FOURTH_ROOT_EPS', require( '@stdlib/constants/float64/f
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/gamma-lanczos-g}
 */
-setReadOnly( constants, 'GAMMA_LANCZOS_G', require( '@stdlib/constants/float64/gamma-lanczos-g' ) );
+setReadOnly( constants, 'GAMMA_LANCZOS_G', require( './../../float64/gamma-lanczos-g' ) );
 
 /**
 * @name GLAISHER
@@ -144,7 +144,7 @@ setReadOnly( constants, 'GAMMA_LANCZOS_G', require( '@stdlib/constants/float64/g
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/glaisher-kinkelin}
 */
-setReadOnly( constants, 'GLAISHER', require( '@stdlib/constants/float64/glaisher-kinkelin' ) );
+setReadOnly( constants, 'GLAISHER', require( './../../float64/glaisher-kinkelin' ) );
 
 /**
 * @name HALF_LN2
@@ -154,7 +154,7 @@ setReadOnly( constants, 'GLAISHER', require( '@stdlib/constants/float64/glaisher
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/half-ln-two}
 */
-setReadOnly( constants, 'HALF_LN2', require( '@stdlib/constants/float64/half-ln-two' ) );
+setReadOnly( constants, 'HALF_LN2', require( './../../float64/half-ln-two' ) );
 
 /**
 * @name HALF_PI
@@ -164,7 +164,7 @@ setReadOnly( constants, 'HALF_LN2', require( '@stdlib/constants/float64/half-ln-
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/half-pi}
 */
-setReadOnly( constants, 'HALF_PI', require( '@stdlib/constants/float64/half-pi' ) );
+setReadOnly( constants, 'HALF_PI', require( './../../float64/half-pi' ) );
 
 /**
 * @name HIGH_WORD_EXPONENT_MASK
@@ -174,7 +174,7 @@ setReadOnly( constants, 'HALF_PI', require( '@stdlib/constants/float64/half-pi' 
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/high-word-exponent-mask}
 */
-setReadOnly( constants, 'HIGH_WORD_EXPONENT_MASK', require( '@stdlib/constants/float64/high-word-exponent-mask' ) );
+setReadOnly( constants, 'HIGH_WORD_EXPONENT_MASK', require( './../../float64/high-word-exponent-mask' ) );
 
 /**
 * @name HIGH_WORD_SIGNIFICAND_MASK
@@ -184,7 +184,7 @@ setReadOnly( constants, 'HIGH_WORD_EXPONENT_MASK', require( '@stdlib/constants/f
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/high-word-significand-mask}
 */
-setReadOnly( constants, 'HIGH_WORD_SIGNIFICAND_MASK', require( '@stdlib/constants/float64/high-word-significand-mask' ) );
+setReadOnly( constants, 'HIGH_WORD_SIGNIFICAND_MASK', require( './../../float64/high-word-significand-mask' ) );
 
 /**
 * @name LN_HALF
@@ -194,7 +194,7 @@ setReadOnly( constants, 'HIGH_WORD_SIGNIFICAND_MASK', require( '@stdlib/constant
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/ln-half}
 */
-setReadOnly( constants, 'LN_HALF', require( '@stdlib/constants/float64/ln-half' ) );
+setReadOnly( constants, 'LN_HALF', require( './../../float64/ln-half' ) );
 
 /**
 * @name LN_PI
@@ -204,7 +204,7 @@ setReadOnly( constants, 'LN_HALF', require( '@stdlib/constants/float64/ln-half' 
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/ln-pi}
 */
-setReadOnly( constants, 'LN_PI', require( '@stdlib/constants/float64/ln-pi' ) );
+setReadOnly( constants, 'LN_PI', require( './../../float64/ln-pi' ) );
 
 /**
 * @name LN_SQRT_TWO_PI
@@ -214,7 +214,7 @@ setReadOnly( constants, 'LN_PI', require( '@stdlib/constants/float64/ln-pi' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/ln-sqrt-two-pi}
 */
-setReadOnly( constants, 'LN_SQRT_TWO_PI', require( '@stdlib/constants/float64/ln-sqrt-two-pi' ) );
+setReadOnly( constants, 'LN_SQRT_TWO_PI', require( './../../float64/ln-sqrt-two-pi' ) );
 
 /**
 * @name LN10
@@ -224,7 +224,7 @@ setReadOnly( constants, 'LN_SQRT_TWO_PI', require( '@stdlib/constants/float64/ln
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/ln-ten}
 */
-setReadOnly( constants, 'LN10', require( '@stdlib/constants/float64/ln-ten' ) );
+setReadOnly( constants, 'LN10', require( './../../float64/ln-ten' ) );
 
 /**
 * @name LN2
@@ -234,7 +234,7 @@ setReadOnly( constants, 'LN10', require( '@stdlib/constants/float64/ln-ten' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/ln-two}
 */
-setReadOnly( constants, 'LN2', require( '@stdlib/constants/float64/ln-two' ) );
+setReadOnly( constants, 'LN2', require( './../../float64/ln-two' ) );
 
 /**
 * @name LN_TWO_PI
@@ -244,7 +244,7 @@ setReadOnly( constants, 'LN2', require( '@stdlib/constants/float64/ln-two' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/ln-two-pi}
 */
-setReadOnly( constants, 'LN_TWO_PI', require( '@stdlib/constants/float64/ln-two-pi' ) );
+setReadOnly( constants, 'LN_TWO_PI', require( './../../float64/ln-two-pi' ) );
 
 /**
 * @name LOG2E
@@ -254,7 +254,7 @@ setReadOnly( constants, 'LN_TWO_PI', require( '@stdlib/constants/float64/ln-two-
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/log2-e}
 */
-setReadOnly( constants, 'LOG2E', require( '@stdlib/constants/float64/log2-e' ) );
+setReadOnly( constants, 'LOG2E', require( './../../float64/log2-e' ) );
 
 /**
 * @name LOG10E
@@ -264,7 +264,7 @@ setReadOnly( constants, 'LOG2E', require( '@stdlib/constants/float64/log2-e' ) )
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/log10-e}
 */
-setReadOnly( constants, 'LOG10E', require( '@stdlib/constants/float64/log10-e' ) );
+setReadOnly( constants, 'LOG10E', require( './../../float64/log10-e' ) );
 
 /**
 * @name MAX
@@ -274,7 +274,7 @@ setReadOnly( constants, 'LOG10E', require( '@stdlib/constants/float64/log10-e' )
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/max}
 */
-setReadOnly( constants, 'MAX', require( '@stdlib/constants/float64/max' ) );
+setReadOnly( constants, 'MAX', require( './../../float64/max' ) );
 
 /**
 * @name MAX_BASE2_EXPONENT
@@ -284,7 +284,7 @@ setReadOnly( constants, 'MAX', require( '@stdlib/constants/float64/max' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/max-base2-exponent}
 */
-setReadOnly( constants, 'MAX_BASE2_EXPONENT', require( '@stdlib/constants/float64/max-base2-exponent' ) );
+setReadOnly( constants, 'MAX_BASE2_EXPONENT', require( './../../float64/max-base2-exponent' ) );
 
 /**
 * @name MAX_BASE2_EXPONENT_SUBNORMAL
@@ -294,7 +294,7 @@ setReadOnly( constants, 'MAX_BASE2_EXPONENT', require( '@stdlib/constants/float6
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/max-base2-exponent-subnormal}
 */
-setReadOnly( constants, 'MAX_BASE2_EXPONENT_SUBNORMAL', require( '@stdlib/constants/float64/max-base2-exponent-subnormal' ) );
+setReadOnly( constants, 'MAX_BASE2_EXPONENT_SUBNORMAL', require( './../../float64/max-base2-exponent-subnormal' ) );
 
 /**
 * @name MAX_BASE10_EXPONENT
@@ -304,7 +304,7 @@ setReadOnly( constants, 'MAX_BASE2_EXPONENT_SUBNORMAL', require( '@stdlib/consta
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/max-base10-exponent}
 */
-setReadOnly( constants, 'MAX_BASE10_EXPONENT', require( '@stdlib/constants/float64/max-base10-exponent' ) );
+setReadOnly( constants, 'MAX_BASE10_EXPONENT', require( './../../float64/max-base10-exponent' ) );
 
 /**
 * @name MAX_BASE10_EXPONENT_SUBNORMAL
@@ -314,7 +314,7 @@ setReadOnly( constants, 'MAX_BASE10_EXPONENT', require( '@stdlib/constants/float
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/max-base10-exponent-subnormal}
 */
-setReadOnly( constants, 'MAX_BASE10_EXPONENT_SUBNORMAL', require( '@stdlib/constants/float64/max-base10-exponent-subnormal' ) );
+setReadOnly( constants, 'MAX_BASE10_EXPONENT_SUBNORMAL', require( './../../float64/max-base10-exponent-subnormal' ) );
 
 /**
 * @name MAX_LN
@@ -324,7 +324,7 @@ setReadOnly( constants, 'MAX_BASE10_EXPONENT_SUBNORMAL', require( '@stdlib/const
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/max-ln}
 */
-setReadOnly( constants, 'MAX_LN', require( '@stdlib/constants/float64/max-ln' ) );
+setReadOnly( constants, 'MAX_LN', require( './../../float64/max-ln' ) );
 
 /**
 * @name MAX_SAFE_FIBONACCI
@@ -334,7 +334,7 @@ setReadOnly( constants, 'MAX_LN', require( '@stdlib/constants/float64/max-ln' ) 
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/max-safe-fibonacci}
 */
-setReadOnly( constants, 'MAX_SAFE_FIBONACCI', require( '@stdlib/constants/float64/max-safe-fibonacci' ) );
+setReadOnly( constants, 'MAX_SAFE_FIBONACCI', require( './../../float64/max-safe-fibonacci' ) );
 
 /**
 * @name MAX_SAFE_INTEGER
@@ -344,7 +344,7 @@ setReadOnly( constants, 'MAX_SAFE_FIBONACCI', require( '@stdlib/constants/float6
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/max-safe-integer}
 */
-setReadOnly( constants, 'MAX_SAFE_INTEGER', require( '@stdlib/constants/float64/max-safe-integer' ) );
+setReadOnly( constants, 'MAX_SAFE_INTEGER', require( './../../float64/max-safe-integer' ) );
 
 /**
 * @name MAX_SAFE_LUCAS
@@ -354,7 +354,7 @@ setReadOnly( constants, 'MAX_SAFE_INTEGER', require( '@stdlib/constants/float64/
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/max-safe-lucas}
 */
-setReadOnly( constants, 'MAX_SAFE_LUCAS', require( '@stdlib/constants/float64/max-safe-lucas' ) );
+setReadOnly( constants, 'MAX_SAFE_LUCAS', require( './../../float64/max-safe-lucas' ) );
 
 /**
 * @name MAX_SAFE_NTH_FIBONACCI
@@ -364,7 +364,7 @@ setReadOnly( constants, 'MAX_SAFE_LUCAS', require( '@stdlib/constants/float64/ma
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/max-safe-nth-fibonacci}
 */
-setReadOnly( constants, 'MAX_SAFE_NTH_FIBONACCI', require( '@stdlib/constants/float64/max-safe-nth-fibonacci' ) );
+setReadOnly( constants, 'MAX_SAFE_NTH_FIBONACCI', require( './../../float64/max-safe-nth-fibonacci' ) );
 
 /**
 * @name MAX_SAFE_NTH_LUCAS
@@ -374,7 +374,7 @@ setReadOnly( constants, 'MAX_SAFE_NTH_FIBONACCI', require( '@stdlib/constants/fl
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/max-safe-nth-lucas}
 */
-setReadOnly( constants, 'MAX_SAFE_NTH_LUCAS', require( '@stdlib/constants/float64/max-safe-nth-lucas' ) );
+setReadOnly( constants, 'MAX_SAFE_NTH_LUCAS', require( './../../float64/max-safe-nth-lucas' ) );
 
 /**
 * @name MIN_BASE2_EXPONENT
@@ -384,7 +384,7 @@ setReadOnly( constants, 'MAX_SAFE_NTH_LUCAS', require( '@stdlib/constants/float6
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/min-base2-exponent}
 */
-setReadOnly( constants, 'MIN_BASE2_EXPONENT', require( '@stdlib/constants/float64/min-base2-exponent' ) );
+setReadOnly( constants, 'MIN_BASE2_EXPONENT', require( './../../float64/min-base2-exponent' ) );
 
 /**
 * @name MIN_BASE2_EXPONENT_SUBNORMAL
@@ -394,7 +394,7 @@ setReadOnly( constants, 'MIN_BASE2_EXPONENT', require( '@stdlib/constants/float6
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/min-base2-exponent-subnormal}
 */
-setReadOnly( constants, 'MIN_BASE2_EXPONENT_SUBNORMAL', require( '@stdlib/constants/float64/min-base2-exponent-subnormal' ) );
+setReadOnly( constants, 'MIN_BASE2_EXPONENT_SUBNORMAL', require( './../../float64/min-base2-exponent-subnormal' ) );
 
 /**
 * @name MIN_BASE10_EXPONENT
@@ -404,7 +404,7 @@ setReadOnly( constants, 'MIN_BASE2_EXPONENT_SUBNORMAL', require( '@stdlib/consta
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/min-base10-exponent}
 */
-setReadOnly( constants, 'MIN_BASE10_EXPONENT', require( '@stdlib/constants/float64/min-base10-exponent' ) );
+setReadOnly( constants, 'MIN_BASE10_EXPONENT', require( './../../float64/min-base10-exponent' ) );
 
 /**
 * @name MIN_BASE10_EXPONENT_SUBNORMAL
@@ -414,7 +414,7 @@ setReadOnly( constants, 'MIN_BASE10_EXPONENT', require( '@stdlib/constants/float
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/min-base10-exponent-subnormal}
 */
-setReadOnly( constants, 'MIN_BASE10_EXPONENT_SUBNORMAL', require( '@stdlib/constants/float64/min-base10-exponent-subnormal' ) );
+setReadOnly( constants, 'MIN_BASE10_EXPONENT_SUBNORMAL', require( './../../float64/min-base10-exponent-subnormal' ) );
 
 /**
 * @name MIN_LN
@@ -424,7 +424,7 @@ setReadOnly( constants, 'MIN_BASE10_EXPONENT_SUBNORMAL', require( '@stdlib/const
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/min-ln}
 */
-setReadOnly( constants, 'MIN_LN', require( '@stdlib/constants/float64/min-ln' ) );
+setReadOnly( constants, 'MIN_LN', require( './../../float64/min-ln' ) );
 
 /**
 * @name MIN_SAFE_INTEGER
@@ -434,7 +434,7 @@ setReadOnly( constants, 'MIN_LN', require( '@stdlib/constants/float64/min-ln' ) 
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/min-safe-integer}
 */
-setReadOnly( constants, 'MIN_SAFE_INTEGER', require( '@stdlib/constants/float64/min-safe-integer' ) );
+setReadOnly( constants, 'MIN_SAFE_INTEGER', require( './../../float64/min-safe-integer' ) );
 
 /**
 * @name NINF
@@ -444,7 +444,7 @@ setReadOnly( constants, 'MIN_SAFE_INTEGER', require( '@stdlib/constants/float64/
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/ninf}
 */
-setReadOnly( constants, 'NINF', require( '@stdlib/constants/float64/ninf' ) );
+setReadOnly( constants, 'NINF', require( './../../float64/ninf' ) );
 
 /**
 * @name NUM_BYTES
@@ -454,7 +454,7 @@ setReadOnly( constants, 'NINF', require( '@stdlib/constants/float64/ninf' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/num-bytes}
 */
-setReadOnly( constants, 'NUM_BYTES', require( '@stdlib/constants/float64/num-bytes' ) );
+setReadOnly( constants, 'NUM_BYTES', require( './../../float64/num-bytes' ) );
 
 /**
 * @name PHI
@@ -464,7 +464,7 @@ setReadOnly( constants, 'NUM_BYTES', require( '@stdlib/constants/float64/num-byt
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/phi}
 */
-setReadOnly( constants, 'PHI', require( '@stdlib/constants/float64/phi' ) );
+setReadOnly( constants, 'PHI', require( './../../float64/phi' ) );
 
 /**
 * @name PI
@@ -474,7 +474,7 @@ setReadOnly( constants, 'PHI', require( '@stdlib/constants/float64/phi' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/pi}
 */
-setReadOnly( constants, 'PI', require( '@stdlib/constants/float64/pi' ) );
+setReadOnly( constants, 'PI', require( './../../float64/pi' ) );
 
 /**
 * @name PI_SQUARED
@@ -484,7 +484,7 @@ setReadOnly( constants, 'PI', require( '@stdlib/constants/float64/pi' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/pi-squared}
 */
-setReadOnly( constants, 'PI_SQUARED', require( '@stdlib/constants/float64/pi-squared' ) );
+setReadOnly( constants, 'PI_SQUARED', require( './../../float64/pi-squared' ) );
 
 /**
 * @name PINF
@@ -494,7 +494,7 @@ setReadOnly( constants, 'PI_SQUARED', require( '@stdlib/constants/float64/pi-squ
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/pinf}
 */
-setReadOnly( constants, 'PINF', require( '@stdlib/constants/float64/pinf' ) );
+setReadOnly( constants, 'PINF', require( './../../float64/pinf' ) );
 
 /**
 * @name PRECISION
@@ -504,7 +504,7 @@ setReadOnly( constants, 'PINF', require( '@stdlib/constants/float64/pinf' ) );
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/precision}
 */
-setReadOnly( constants, 'PRECISION', require( '@stdlib/constants/float64/precision' ) );
+setReadOnly( constants, 'PRECISION', require( './../../float64/precision' ) );
 
 /**
 * @name SMALLEST_NORMAL
@@ -514,7 +514,7 @@ setReadOnly( constants, 'PRECISION', require( '@stdlib/constants/float64/precisi
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/smallest-normal}
 */
-setReadOnly( constants, 'SMALLEST_NORMAL', require( '@stdlib/constants/float64/smallest-normal' ) );
+setReadOnly( constants, 'SMALLEST_NORMAL', require( './../../float64/smallest-normal' ) );
 
 /**
 * @name SMALLEST_SUBNORMAL
@@ -524,7 +524,7 @@ setReadOnly( constants, 'SMALLEST_NORMAL', require( '@stdlib/constants/float64/s
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/smallest-subnormal}
 */
-setReadOnly( constants, 'SMALLEST_SUBNORMAL', require( '@stdlib/constants/float64/smallest-subnormal' ) );
+setReadOnly( constants, 'SMALLEST_SUBNORMAL', require( './../../float64/smallest-subnormal' ) );
 
 /**
 * @name SQRT_EPS
@@ -534,7 +534,7 @@ setReadOnly( constants, 'SMALLEST_SUBNORMAL', require( '@stdlib/constants/float6
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/sqrt-eps}
 */
-setReadOnly( constants, 'SQRT_EPS', require( '@stdlib/constants/float64/sqrt-eps' ) );
+setReadOnly( constants, 'SQRT_EPS', require( './../../float64/sqrt-eps' ) );
 
 /**
 * @name SQRT_HALF
@@ -544,7 +544,7 @@ setReadOnly( constants, 'SQRT_EPS', require( '@stdlib/constants/float64/sqrt-eps
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/sqrt-half}
 */
-setReadOnly( constants, 'SQRT_HALF', require( '@stdlib/constants/float64/sqrt-half' ) );
+setReadOnly( constants, 'SQRT_HALF', require( './../../float64/sqrt-half' ) );
 
 /**
 * @name SQRT_HALF_PI
@@ -554,7 +554,7 @@ setReadOnly( constants, 'SQRT_HALF', require( '@stdlib/constants/float64/sqrt-ha
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/sqrt-half-pi}
 */
-setReadOnly( constants, 'SQRT_HALF_PI', require( '@stdlib/constants/float64/sqrt-half-pi' ) );
+setReadOnly( constants, 'SQRT_HALF_PI', require( './../../float64/sqrt-half-pi' ) );
 
 /**
 * @name SQRT_PHI
@@ -564,7 +564,7 @@ setReadOnly( constants, 'SQRT_HALF_PI', require( '@stdlib/constants/float64/sqrt
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/sqrt-phi}
 */
-setReadOnly( constants, 'SQRT_PHI', require( '@stdlib/constants/float64/sqrt-phi' ) );
+setReadOnly( constants, 'SQRT_PHI', require( './../../float64/sqrt-phi' ) );
 
 /**
 * @name SQRT_PI
@@ -574,7 +574,7 @@ setReadOnly( constants, 'SQRT_PHI', require( '@stdlib/constants/float64/sqrt-phi
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/sqrt-pi}
 */
-setReadOnly( constants, 'SQRT_PI', require( '@stdlib/constants/float64/sqrt-pi' ) );
+setReadOnly( constants, 'SQRT_PI', require( './../../float64/sqrt-pi' ) );
 
 /**
 * @name SQRT_THREE
@@ -584,7 +584,7 @@ setReadOnly( constants, 'SQRT_PI', require( '@stdlib/constants/float64/sqrt-pi' 
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/sqrt-three}
 */
-setReadOnly( constants, 'SQRT_THREE', require( '@stdlib/constants/float64/sqrt-three' ) );
+setReadOnly( constants, 'SQRT_THREE', require( './../../float64/sqrt-three' ) );
 
 /**
 * @name SQRT_TWO
@@ -594,7 +594,7 @@ setReadOnly( constants, 'SQRT_THREE', require( '@stdlib/constants/float64/sqrt-t
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/sqrt-two}
 */
-setReadOnly( constants, 'SQRT_TWO', require( '@stdlib/constants/float64/sqrt-two' ) );
+setReadOnly( constants, 'SQRT_TWO', require( './../../float64/sqrt-two' ) );
 
 /**
 * @name SQRT_TWO_PI
@@ -604,7 +604,7 @@ setReadOnly( constants, 'SQRT_TWO', require( '@stdlib/constants/float64/sqrt-two
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/sqrt-two-pi}
 */
-setReadOnly( constants, 'SQRT_TWO_PI', require( '@stdlib/constants/float64/sqrt-two-pi' ) );
+setReadOnly( constants, 'SQRT_TWO_PI', require( './../../float64/sqrt-two-pi' ) );
 
 /**
 * @name TWO_PI
@@ -614,7 +614,7 @@ setReadOnly( constants, 'SQRT_TWO_PI', require( '@stdlib/constants/float64/sqrt-
 * @type {number}
 * @see {@link module:@stdlib/constants/float64/two-pi}
 */
-setReadOnly( constants, 'TWO_PI', require( '@stdlib/constants/float64/two-pi' ) );
+setReadOnly( constants, 'TWO_PI', require( './../../float64/two-pi' ) );
 
 
 // EXPORTS //

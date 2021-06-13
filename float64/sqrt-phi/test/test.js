@@ -22,7 +22,7 @@
 
 var tape = require( 'tape' );
 var sqrt = require( '@stdlib/math/base/special/sqrt' );
-var PHI = require( '@stdlib/constants/float64/phi' );
+var PHI = require( './../../../float64/phi' );
 var SQRT_PHI = require( './../lib' );
 
 

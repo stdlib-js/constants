@@ -44,7 +44,7 @@ var ns = {};
 * @type {number}
 * @see {@link module:@stdlib/constants/array/max-array-length}
 */
-setReadOnly( ns, 'MAX_ARRAY_LENGTH', require( '@stdlib/constants/array/max-array-length' ) );
+setReadOnly( ns, 'MAX_ARRAY_LENGTH', require( './../../array/max-array-length' ) );
 
 /**
 * @name MAX_TYPED_ARRAY_LENGTH
@@ -54,7 +54,7 @@ setReadOnly( ns, 'MAX_ARRAY_LENGTH', require( '@stdlib/constants/array/max-array
 * @type {number}
 * @see {@link module:@stdlib/constants/array/max-typed-array-length}
 */
-setReadOnly( ns, 'MAX_TYPED_ARRAY_LENGTH', require( '@stdlib/constants/array/max-typed-array-length' ) );
+setReadOnly( ns, 'MAX_TYPED_ARRAY_LENGTH', require( './../../array/max-typed-array-length' ) );
 
 
 // EXPORTS //

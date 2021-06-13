@@ -21,9 +21,9 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import MAX = require( '@stdlib/constants/int16/max' );
-import MIN = require( '@stdlib/constants/int16/min' );
-import NUM_BYTES = require( '@stdlib/constants/int16/num-bytes' );
+import MAX = require( './../../../int16/max' );
+import MIN = require( './../../../int16/min' );
+import NUM_BYTES = require( './../../../int16/num-bytes' );
 
 /**
 * Interface describing the `int16` namespace.

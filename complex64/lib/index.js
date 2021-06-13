@@ -44,7 +44,7 @@ var constants = {};
 * @type {number}
 * @see {@link module:@stdlib/constants/complex64/num-bytes}
 */
-setReadOnly( constants, 'NUM_BYTES', require( '@stdlib/constants/complex64/num-bytes' ) );
+setReadOnly( constants, 'NUM_BYTES', require( './../../complex64/num-bytes' ) );
 
 
 // EXPORTS //

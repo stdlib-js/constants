@@ -21,21 +21,21 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import HOURS_IN_DAY = require( '@stdlib/constants/time/hours-in-day' );
-import HOURS_IN_WEEK = require( '@stdlib/constants/time/hours-in-week' );
-import MILLISECONDS_IN_DAY = require( '@stdlib/constants/time/milliseconds-in-day' );
-import MILLISECONDS_IN_HOUR = require( '@stdlib/constants/time/milliseconds-in-hour' );
-import MILLISECONDS_IN_MINUTE = require( '@stdlib/constants/time/milliseconds-in-minute' );
-import MILLISECONDS_IN_SECOND = require( '@stdlib/constants/time/milliseconds-in-second' );
-import MILLISECONDS_IN_WEEK = require( '@stdlib/constants/time/milliseconds-in-week' );
-import MINUTES_IN_DAY = require( '@stdlib/constants/time/minutes-in-day' );
-import MINUTES_IN_HOUR = require( '@stdlib/constants/time/minutes-in-hour' );
-import MINUTES_IN_WEEK = require( '@stdlib/constants/time/minutes-in-week' );
-import MONTHS_IN_YEAR = require( '@stdlib/constants/time/months-in-year' );
-import SECONDS_IN_DAY = require( '@stdlib/constants/time/seconds-in-day' );
-import SECONDS_IN_HOUR = require( '@stdlib/constants/time/seconds-in-hour' );
-import SECONDS_IN_MINUTE = require( '@stdlib/constants/time/seconds-in-minute' );
-import SECONDS_IN_WEEK = require( '@stdlib/constants/time/seconds-in-week' );
+import HOURS_IN_DAY = require( './../../../time/hours-in-day' );
+import HOURS_IN_WEEK = require( './../../../time/hours-in-week' );
+import MILLISECONDS_IN_DAY = require( './../../../time/milliseconds-in-day' );
+import MILLISECONDS_IN_HOUR = require( './../../../time/milliseconds-in-hour' );
+import MILLISECONDS_IN_MINUTE = require( './../../../time/milliseconds-in-minute' );
+import MILLISECONDS_IN_SECOND = require( './../../../time/milliseconds-in-second' );
+import MILLISECONDS_IN_WEEK = require( './../../../time/milliseconds-in-week' );
+import MINUTES_IN_DAY = require( './../../../time/minutes-in-day' );
+import MINUTES_IN_HOUR = require( './../../../time/minutes-in-hour' );
+import MINUTES_IN_WEEK = require( './../../../time/minutes-in-week' );
+import MONTHS_IN_YEAR = require( './../../../time/months-in-year' );
+import SECONDS_IN_DAY = require( './../../../time/seconds-in-day' );
+import SECONDS_IN_HOUR = require( './../../../time/seconds-in-hour' );
+import SECONDS_IN_MINUTE = require( './../../../time/seconds-in-minute' );
+import SECONDS_IN_WEEK = require( './../../../time/seconds-in-week' );
 
 /**
 * Interface describing the `time` namespace.

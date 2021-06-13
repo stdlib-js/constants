@@ -23,7 +23,7 @@
 var tape = require( 'tape' );
 var sqrt = require( '@stdlib/math/base/special/sqrt' );
 var float64ToFloat32 = require( '@stdlib/number/float64/base/to-float32' );
-var FLOAT32_EPSILON = require( '@stdlib/constants/float32/eps' );
+var FLOAT32_EPSILON = require( './../../../float32/eps' );
 var FLOAT32_SQRT_EPSILON = require( './../lib' );
 
 

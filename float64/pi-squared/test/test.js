@@ -23,8 +23,8 @@
 var tape = require( 'tape' );
 var pow = require( '@stdlib/math/base/special/pow' );
 var abs = require( '@stdlib/math/base/special/abs' );
-var EPS = require( '@stdlib/constants/float64/eps' );
-var PI = require( '@stdlib/constants/float64/pi' );
+var EPS = require( './../../../float64/eps' );
+var PI = require( './../../../float64/pi' );
 var PI_SQUARED = require( './../lib' );
 
 

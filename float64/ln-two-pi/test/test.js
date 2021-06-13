@@ -23,8 +23,8 @@
 var tape = require( 'tape' );
 var ln = require( '@stdlib/math/base/special/ln' );
 var abs = require( '@stdlib/math/base/special/abs' );
-var EPS = require( '@stdlib/constants/float64/eps' );
-var PI = require( '@stdlib/constants/float64/pi' );
+var EPS = require( './../../../float64/eps' );
+var PI = require( './../../../float64/pi' );
 var LN_TWO_PI = require( './../lib' );
 
 

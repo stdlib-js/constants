@@ -21,19 +21,19 @@
 /* tslint:disable:max-line-length */
 /* tslint:disable:max-file-line-count */
 
-import CBRT_EPS = require( '@stdlib/constants/float32/cbrt-eps' );
-import EPS = require( '@stdlib/constants/float32/eps' );
-import EXPONENT_BIAS = require( '@stdlib/constants/float32/exponent-bias' );
-import MAX = require( '@stdlib/constants/float32/max' );
-import MAX_SAFE_INTEGER = require( '@stdlib/constants/float32/max-safe-integer' );
-import MIN_SAFE_INTEGER = require( '@stdlib/constants/float32/min-safe-integer' );
-import NINF = require( '@stdlib/constants/float32/ninf' );
-import NUM_BYTES = require( '@stdlib/constants/float32/num-bytes' );
-import PINF = require( '@stdlib/constants/float32/pinf' );
-import PRECISION = require( '@stdlib/constants/float32/precision' );
-import SMALLEST_NORMAL = require( '@stdlib/constants/float32/smallest-normal' );
-import SMALLEST_SUBNORMAL = require( '@stdlib/constants/float32/smallest-subnormal' );
-import SQRT_EPS = require( '@stdlib/constants/float32/sqrt-eps' );
+import CBRT_EPS = require( './../../../float32/cbrt-eps' );
+import EPS = require( './../../../float32/eps' );
+import EXPONENT_BIAS = require( './../../../float32/exponent-bias' );
+import MAX = require( './../../../float32/max' );
+import MAX_SAFE_INTEGER = require( './../../../float32/max-safe-integer' );
+import MIN_SAFE_INTEGER = require( './../../../float32/min-safe-integer' );
+import NINF = require( './../../../float32/ninf' );
+import NUM_BYTES = require( './../../../float32/num-bytes' );
+import PINF = require( './../../../float32/pinf' );
+import PRECISION = require( './../../../float32/precision' );
+import SMALLEST_NORMAL = require( './../../../float32/smallest-normal' );
+import SMALLEST_SUBNORMAL = require( './../../../float32/smallest-subnormal' );
+import SQRT_EPS = require( './../../../float32/sqrt-eps' );
 
 /**
 * Interface describing the `float32` namespace.
