@@ -30,11 +30,12 @@ import float64 = require( './../../float64' );
 import int8 = require( './../../int8' );
 import int16 = require( './../../int16' );
 import int32 = require( './../../int32' );
-import string = require( './../../string' );
+import path = require( './../../path' );
 import time = require( './../../time' );
 import uint8 = require( './../../uint8' );
 import uint16 = require( './../../uint16' );
 import uint32 = require( './../../uint32' );
+import unicode = require( './../../unicode' );
 
 /**
 * Interface describing the `constants` namespace.
@@ -86,9 +87,9 @@ interface Namespace {
 	int32: typeof int32;
 
 	/**
-	* Standard string constants.
+	* Standard string path constants.
 	*/
-	string: typeof string;
+	path: typeof path;
 
 	/**
 	* Time constants.
@@ -109,6 +110,11 @@ interface Namespace {
 	* 32-bit unsigned integer mathematical constants.
 	*/
 	uint32: typeof uint32;
+
+	/**
+	* Standard string unicode constants.
+	*/
+	unicode: typeof unicode;
 }
 
 /**
