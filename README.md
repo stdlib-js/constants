@@ -64,11 +64,12 @@ The constants that are part of this package live in the following sub-namespaces
 -   <span class="signature">[`int16`][@stdlib/constants/int16]</span><span class="delimiter">: </span><span class="description">16-bit signed integer mathematical constants.</span>
 -   <span class="signature">[`int32`][@stdlib/constants/int32]</span><span class="delimiter">: </span><span class="description">32-bit signed integer mathematical constants.</span>
 -   <span class="signature">[`int8`][@stdlib/constants/int8]</span><span class="delimiter">: </span><span class="description">8-bit signed integer mathematical constants.</span>
--   <span class="signature">[`string`][@stdlib/constants/string]</span><span class="delimiter">: </span><span class="description">standard library string constants.</span>
+-   <span class="signature">[`path`][@stdlib/constants/path]</span><span class="delimiter">: </span><span class="description">standard library string path constants.</span>
 -   <span class="signature">[`time`][@stdlib/constants/time]</span><span class="delimiter">: </span><span class="description">time constants.</span>
 -   <span class="signature">[`uint16`][@stdlib/constants/uint16]</span><span class="delimiter">: </span><span class="description">16-bit unsigned integer mathematical constants.</span>
 -   <span class="signature">[`uint32`][@stdlib/constants/uint32]</span><span class="delimiter">: </span><span class="description">32-bit unsigned integer mathematical constants.</span>
 -   <span class="signature">[`uint8`][@stdlib/constants/uint8]</span><span class="delimiter">: </span><span class="description">8-bit unsigned integer mathematical constants.</span>
+-   <span class="signature">[`unicode`][@stdlib/constants/unicode]</span><span class="delimiter">: </span><span class="description">standard library string unicode constants.</span>
 
 </div>
 
@@ -173,7 +174,7 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/constants/int8]: https://github.com/stdlib-js/constants/tree/main/int8
 
-[@stdlib/constants/string]: https://github.com/stdlib-js/constants/tree/main/string
+[@stdlib/constants/path]: https://github.com/stdlib-js/constants/tree/main/path
 
 [@stdlib/constants/time]: https://github.com/stdlib-js/constants/tree/main/time
 
@@ -182,6 +183,8 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 [@stdlib/constants/uint32]: https://github.com/stdlib-js/constants/tree/main/uint32
 
 [@stdlib/constants/uint8]: https://github.com/stdlib-js/constants/tree/main/uint8
+
+[@stdlib/constants/unicode]: https://github.com/stdlib-js/constants/tree/main/unicode
 
 <!-- </toc-links> -->
 
