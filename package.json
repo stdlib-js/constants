@@ -35,10 +35,10 @@
     "url": "https://github.com/stdlib-js/stdlib/issues"
   },
   "dependencies": {
-    "@stdlib/array": "github:stdlib-js/array",
-    "@stdlib/assert": "github:stdlib-js/assert",
-    "@stdlib/number": "github:stdlib-js/number",
-    "@stdlib/utils": "github:stdlib-js/utils"
+    "@stdlib/array": "github:stdlib-js/array#main",
+    "@stdlib/assert": "github:stdlib-js/assert#main",
+    "@stdlib/number": "github:stdlib-js/number#main",
+    "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
     "@stdlib/math": "github:stdlib-js/math",

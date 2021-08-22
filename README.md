@@ -58,7 +58,9 @@ The constants that are part of this package live in the following sub-namespaces
 <div class="namespace-toc">
 
 -   <span class="signature">[`array`][@stdlib/constants/array]</span><span class="delimiter">: </span><span class="description">array constants.</span>
+-   <span class="signature">[`complex128`][@stdlib/constants/complex128]</span><span class="delimiter">: </span><span class="description">128-bit complex number mathematical constant.</span>
 -   <span class="signature">[`complex64`][@stdlib/constants/complex64]</span><span class="delimiter">: </span><span class="description">half-precision floating-point mathematical constants.</span>
+-   <span class="signature">[`float16`][@stdlib/constants/float16]</span><span class="delimiter">: </span><span class="description">half-precision floating-point mathematical constants.</span>
 -   <span class="signature">[`float32`][@stdlib/constants/float32]</span><span class="delimiter">: </span><span class="description">single-precision floating-point mathematical constants.</span>
 -   <span class="signature">[`float64`][@stdlib/constants/float64]</span><span class="delimiter">: </span><span class="description">double-precision floating-point mathematical constants.</span>
 -   <span class="signature">[`int16`][@stdlib/constants/int16]</span><span class="delimiter">: </span><span class="description">16-bit signed integer mathematical constants.</span>
@@ -162,7 +164,11 @@ Copyright &copy; 2016-2021. The Stdlib [Authors][stdlib-authors].
 
 [@stdlib/constants/array]: https://github.com/stdlib-js/constants/tree/main/array
 
+[@stdlib/constants/complex128]: https://github.com/stdlib-js/constants/tree/main/complex128
+
 [@stdlib/constants/complex64]: https://github.com/stdlib-js/constants/tree/main/complex64
+
+[@stdlib/constants/float16]: https://github.com/stdlib-js/constants/tree/main/float16
 
 [@stdlib/constants/float32]: https://github.com/stdlib-js/constants/tree/main/float32
 
