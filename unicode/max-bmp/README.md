@@ -68,9 +68,31 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/unicode/max`][@stdlib/constants/unicode/max]: https://github.com/stdlib-js/constants/tree/main/unicode/max`][@stdlib/constants/unicode/max
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [unicode]: https://en.wikipedia.org/wiki/Unicode
+
+<!-- <related-links> -->
+
+[@stdlib/constants/unicode/max]: https://github.com/stdlib-js/constants/tree/main/unicode/max
+
+<!-- </related-links> -->
 
 </section>
 

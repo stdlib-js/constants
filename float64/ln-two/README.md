@@ -62,9 +62,31 @@ console.log( LN2 );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float64/ln-ten`][@stdlib/constants/float64/ln-ten]: https://github.com/stdlib-js/constants/tree/main/float64/ln-ten`][@stdlib/constants/float64/ln-ten
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [@stdlib/math/base/special/ln]: https://github.com/stdlib-js/math-base-special-ln
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float64/ln-ten]: https://github.com/stdlib-js/constants/tree/main/float64/ln-ten
+
+<!-- </related-links> -->
 
 </section>
 

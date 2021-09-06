@@ -62,7 +62,32 @@ console.log( COMPLEX128_NUM_BYTES );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/complex64/num-bytes`][@stdlib/constants/complex64/num-bytes]: https://github.com/stdlib-js/constants/tree/main/complex64/num-bytes`][@stdlib/constants/complex64/num-bytes
+-   [`@stdlib/constants/float64/num-bytes`][@stdlib/constants/float64/num-bytes]: https://github.com/stdlib-js/constants/tree/main/float64/num-bytes`][@stdlib/constants/float64/num-bytes
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
+
+<!-- <related-links> -->
+
+[@stdlib/constants/complex64/num-bytes]: https://github.com/stdlib-js/constants/tree/main/complex64/num-bytes
+
+[@stdlib/constants/float64/num-bytes]: https://github.com/stdlib-js/constants/tree/main/float64/num-bytes
+
+<!-- </related-links> -->
 
 </section>
 

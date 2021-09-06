@@ -68,9 +68,37 @@ console.log( FLOAT64_MIN_BASE10_EXPONENT );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float64/max-base10-exponent`][@stdlib/constants/float64/max-base10-exponent]: https://github.com/stdlib-js/constants/tree/main/float64/max-base10-exponent`][@stdlib/constants/float64/max-base10-exponent
+-   [`@stdlib/constants/float64/min-base10-exponent-subnormal`][@stdlib/constants/float64/min-base10-exponent-subnormal]: https://github.com/stdlib-js/constants/tree/main/float64/min-base10-exponent-subnormal`][@stdlib/constants/float64/min-base10-exponent-subnormal
+-   [`@stdlib/constants/float64/min-base2-exponent`][@stdlib/constants/float64/min-base2-exponent]: https://github.com/stdlib-js/constants/tree/main/float64/min-base2-exponent`][@stdlib/constants/float64/min-base2-exponent
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float64/max-base10-exponent]: https://github.com/stdlib-js/constants/tree/main/float64/max-base10-exponent
+
+[@stdlib/constants/float64/min-base10-exponent-subnormal]: https://github.com/stdlib-js/constants/tree/main/float64/min-base10-exponent-subnormal
+
+[@stdlib/constants/float64/min-base2-exponent]: https://github.com/stdlib-js/constants/tree/main/float64/min-base2-exponent
+
+<!-- </related-links> -->
 
 </section>
 

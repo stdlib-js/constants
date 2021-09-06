@@ -74,11 +74,39 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float16/max-safe-integer`][@stdlib/constants/float16/max-safe-integer]: https://github.com/stdlib-js/constants/tree/main/float16/max-safe-integer`][@stdlib/constants/float16/max-safe-integer
+-   [`@stdlib/constants/float32/min-safe-integer`][@stdlib/constants/float32/min-safe-integer]: https://github.com/stdlib-js/constants/tree/main/float32/min-safe-integer`][@stdlib/constants/float32/min-safe-integer
+-   [`@stdlib/constants/float64/min-safe-integer`][@stdlib/constants/float64/min-safe-integer]: https://github.com/stdlib-js/constants/tree/main/float64/min-safe-integer`][@stdlib/constants/float64/min-safe-integer
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [safe-integers]: http://www.2ality.com/2013/10/safe-integers.html
 
 [half-precision-floating-point-format]: https://en.wikipedia.org/wiki/Half-precision_floating-point_format
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float16/max-safe-integer]: https://github.com/stdlib-js/constants/tree/main/float16/max-safe-integer
+
+[@stdlib/constants/float32/min-safe-integer]: https://github.com/stdlib-js/constants/tree/main/float32/min-safe-integer
+
+[@stdlib/constants/float64/min-safe-integer]: https://github.com/stdlib-js/constants/tree/main/float64/min-safe-integer
+
+<!-- </related-links> -->
 
 </section>
 

@@ -91,9 +91,31 @@ out = hi | FLOAT64_HIGH_WORD_EXPONENT_MASK; // => 0 11111111111 0111000000000000
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float64/high-word-significand-mask`][@stdlib/constants/float64/high-word-significand-mask]: https://github.com/stdlib-js/constants/tree/main/float64/high-word-significand-mask`][@stdlib/constants/float64/high-word-significand-mask
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [ieee754]: http://en.wikipedia.org/wiki/IEEE_754-1985
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float64/high-word-significand-mask]: https://github.com/stdlib-js/constants/tree/main/float64/high-word-significand-mask
+
+<!-- </related-links> -->
 
 </section>
 

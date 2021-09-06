@@ -68,9 +68,37 @@ console.log( FLOAT16_SMALLEST_SUBNORMAL );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float16/smallest-normal`][@stdlib/constants/float16/smallest-normal]: https://github.com/stdlib-js/constants/tree/main/float16/smallest-normal`][@stdlib/constants/float16/smallest-normal
+-   [`@stdlib/constants/float32/smallest-subnormal`][@stdlib/constants/float32/smallest-subnormal]: https://github.com/stdlib-js/constants/tree/main/float32/smallest-subnormal`][@stdlib/constants/float32/smallest-subnormal
+-   [`@stdlib/constants/float64/smallest-subnormal`][@stdlib/constants/float64/smallest-subnormal]: https://github.com/stdlib-js/constants/tree/main/float64/smallest-subnormal`][@stdlib/constants/float64/smallest-subnormal
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [half-precision-floating-point-format]: https://en.wikipedia.org/wiki/Half-precision_floating-point_format
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float16/smallest-normal]: https://github.com/stdlib-js/constants/tree/main/float16/smallest-normal
+
+[@stdlib/constants/float32/smallest-subnormal]: https://github.com/stdlib-js/constants/tree/main/float32/smallest-subnormal
+
+[@stdlib/constants/float64/smallest-subnormal]: https://github.com/stdlib-js/constants/tree/main/float64/smallest-subnormal
+
+<!-- </related-links> -->
 
 </section>
 

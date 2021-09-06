@@ -62,11 +62,33 @@ console.log( FLOAT64_MAX_LN );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float64/min-ln`][@stdlib/constants/float64/min-ln]: https://github.com/stdlib-js/constants/tree/main/float64/min-ln`][@stdlib/constants/float64/min-ln
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [ieee754]: http://en.wikipedia.org/wiki/IEEE_754-1985
 
 [natural-logarithm]: https://en.wikipedia.org/wiki/Natural_logarithm
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float64/min-ln]: https://github.com/stdlib-js/constants/tree/main/float64/min-ln
+
+<!-- </related-links> -->
 
 </section>
 

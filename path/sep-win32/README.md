@@ -68,7 +68,32 @@ parts = path.split( PATH_SEP_WIN32 );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/path/sep`][@stdlib/constants/path/sep]: https://github.com/stdlib-js/constants/tree/main/path/sep`][@stdlib/constants/path/sep
+-   [`@stdlib/constants/path/sep-posix`][@stdlib/constants/path/sep-posix]: https://github.com/stdlib-js/constants/tree/main/path/sep-posix`][@stdlib/constants/path/sep-posix
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
+
+<!-- <related-links> -->
+
+[@stdlib/constants/path/sep]: https://github.com/stdlib-js/constants/tree/main/path/sep
+
+[@stdlib/constants/path/sep-posix]: https://github.com/stdlib-js/constants/tree/main/path/sep-posix
+
+<!-- </related-links> -->
 
 </section>
 

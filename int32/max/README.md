@@ -62,9 +62,31 @@ console.log( INT32_MAX );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/int32/min`][@stdlib/constants/int32/min]: https://github.com/stdlib-js/constants/tree/main/int32/min`][@stdlib/constants/int32/min
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [max-int32]: http://en.wikipedia.org/wiki/2147483647
+
+<!-- <related-links> -->
+
+[@stdlib/constants/int32/min]: https://github.com/stdlib-js/constants/tree/main/int32/min
+
+<!-- </related-links> -->
 
 </section>
 

@@ -108,9 +108,29 @@ try {
 
 <!-- /.references -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/array/max-typed-array-length`][@stdlib/constants/array/max-typed-array-length]: https://github.com/stdlib-js/constants/tree/main/array/max-typed-array-length`][@stdlib/constants/array/max-typed-array-length
+
+</section>
+
+<!-- /.related -->
+
 <!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
 
 <section class="links">
+
+<!-- <related-links> -->
+
+[@stdlib/constants/array/max-typed-array-length]: https://github.com/stdlib-js/constants/tree/main/array/max-typed-array-length
+
+<!-- </related-links> -->
 
 </section>
 

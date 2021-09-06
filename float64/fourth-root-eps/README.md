@@ -60,11 +60,31 @@ var out = FLOAT64_FOURTH_ROOT_EPS;
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float64/eps`][@stdlib/constants/float64/eps]: https://github.com/stdlib-js/constants/tree/main/float64/eps`][@stdlib/constants/float64/eps
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [nth-root]: https://en.wikipedia.org/wiki/Nth_root
 
+<!-- <related-links> -->
+
 [@stdlib/constants/float64/eps]: https://github.com/stdlib-js/constants/tree/main/float64/eps
+
+<!-- </related-links> -->
 
 </section>
 

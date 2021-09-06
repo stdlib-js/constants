@@ -62,13 +62,33 @@ console.log( LN_SQRT_TWO_PI );
 
 <!-- /.examples -->
 
-<section class="links">
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
 
-[@stdlib/constants/float64/pi]: https://github.com/stdlib-js/constants/tree/main/float64/pi
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float64/pi`][@stdlib/constants/float64/pi]: https://github.com/stdlib-js/constants/tree/main/float64/pi`][@stdlib/constants/float64/pi
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
+<section class="links">
 
 [@stdlib/math/base/special/ln]: https://github.com/stdlib-js/math-base-special-ln
 
 [@stdlib/math/base/special/sqrt]: https://github.com/stdlib-js/math-base-special-sqrt
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float64/pi]: https://github.com/stdlib-js/constants/tree/main/float64/pi
+
+<!-- </related-links> -->
 
 </section>
 

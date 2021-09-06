@@ -61,9 +61,34 @@ console.log( FLOAT32_PINF );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float32/ninf`][@stdlib/constants/float32/ninf]: https://github.com/stdlib-js/constants/tree/main/float32/ninf`][@stdlib/constants/float32/ninf
+-   [`@stdlib/constants/float64/pinf`][@stdlib/constants/float64/pinf]: https://github.com/stdlib-js/constants/tree/main/float64/pinf`][@stdlib/constants/float64/pinf
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float32/ninf]: https://github.com/stdlib-js/constants/tree/main/float32/ninf
+
+[@stdlib/constants/float64/pinf]: https://github.com/stdlib-js/constants/tree/main/float64/pinf
+
+<!-- </related-links> -->
 
 </section>
 

@@ -88,6 +88,23 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float64/max-safe-fibonacci`][@stdlib/constants/float64/max-safe-fibonacci]: https://github.com/stdlib-js/constants/tree/main/float64/max-safe-fibonacci`][@stdlib/constants/float64/max-safe-fibonacci
+-   [`@stdlib/constants/float64/max-safe-nth-lucas`][@stdlib/constants/float64/max-safe-nth-lucas]: https://github.com/stdlib-js/constants/tree/main/float64/max-safe-nth-lucas`][@stdlib/constants/float64/max-safe-nth-lucas
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [safe-integers]: http://www.2ality.com/2013/10/safe-integers.html
@@ -95,6 +112,14 @@ for ( i = 0; i < 100; i++ ) {
 [lucas-number]: https://en.wikipedia.org/wiki/Lucas_number
 
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float64/max-safe-fibonacci]: https://github.com/stdlib-js/constants/tree/main/float64/max-safe-fibonacci
+
+[@stdlib/constants/float64/max-safe-nth-lucas]: https://github.com/stdlib-js/constants/tree/main/float64/max-safe-nth-lucas
+
+<!-- </related-links> -->
 
 </section>
 

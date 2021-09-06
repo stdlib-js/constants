@@ -62,11 +62,36 @@ console.log( FLOAT32_PRECISION );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float16/precision`][@stdlib/constants/float16/precision]: https://github.com/stdlib-js/constants/tree/main/float16/precision`][@stdlib/constants/float16/precision
+-   [`@stdlib/constants/float64/precision`][@stdlib/constants/float64/precision]: https://github.com/stdlib-js/constants/tree/main/float64/precision`][@stdlib/constants/float64/precision
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
 
 [significand]: https://en.wikipedia.org/wiki/Significand
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float16/precision]: https://github.com/stdlib-js/constants/tree/main/float16/precision
+
+[@stdlib/constants/float64/precision]: https://github.com/stdlib-js/constants/tree/main/float64/precision
+
+<!-- </related-links> -->
 
 </section>
 

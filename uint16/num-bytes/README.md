@@ -62,7 +62,35 @@ console.log( UINT16_NUM_BYTES );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/int16/num-bytes`][@stdlib/constants/int16/num-bytes]: https://github.com/stdlib-js/constants/tree/main/int16/num-bytes`][@stdlib/constants/int16/num-bytes
+-   [`@stdlib/constants/uint32/num-bytes`][@stdlib/constants/uint32/num-bytes]: https://github.com/stdlib-js/constants/tree/main/uint32/num-bytes`][@stdlib/constants/uint32/num-bytes
+-   [`@stdlib/constants/uint8/num-bytes`][@stdlib/constants/uint8/num-bytes]: https://github.com/stdlib-js/constants/tree/main/uint8/num-bytes`][@stdlib/constants/uint8/num-bytes
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
+
+<!-- <related-links> -->
+
+[@stdlib/constants/int16/num-bytes]: https://github.com/stdlib-js/constants/tree/main/int16/num-bytes
+
+[@stdlib/constants/uint32/num-bytes]: https://github.com/stdlib-js/constants/tree/main/uint32/num-bytes
+
+[@stdlib/constants/uint8/num-bytes]: https://github.com/stdlib-js/constants/tree/main/uint8/num-bytes
+
+<!-- </related-links> -->
 
 </section>
 

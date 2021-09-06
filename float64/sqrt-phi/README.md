@@ -62,9 +62,29 @@ console.log( SQRT_PHI );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float64/phi`][@stdlib/constants/float64/phi]: https://github.com/stdlib-js/constants/tree/main/float64/phi`][@stdlib/constants/float64/phi
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
+<!-- <related-links> -->
+
 [@stdlib/constants/float64/phi]: https://github.com/stdlib-js/constants/tree/main/float64/phi
+
+<!-- </related-links> -->
 
 </section>
 

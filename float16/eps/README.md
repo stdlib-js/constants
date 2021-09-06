@@ -101,11 +101,36 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float32/eps`][@stdlib/constants/float32/eps]: https://github.com/stdlib-js/constants/tree/main/float32/eps`][@stdlib/constants/float32/eps
+-   [`@stdlib/constants/float64/eps`][@stdlib/constants/float64/eps]: https://github.com/stdlib-js/constants/tree/main/float64/eps`][@stdlib/constants/float64/eps
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [half-precision-floating-point-format]: https://en.wikipedia.org/wiki/Half-precision_floating-point_format
 
 [machine-epsilon]: https://en.wikipedia.org/wiki/Machine_epsilon
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float32/eps]: https://github.com/stdlib-js/constants/tree/main/float32/eps
+
+[@stdlib/constants/float64/eps]: https://github.com/stdlib-js/constants/tree/main/float64/eps
+
+<!-- </related-links> -->
 
 </section>
 

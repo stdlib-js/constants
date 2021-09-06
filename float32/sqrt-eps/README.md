@@ -83,11 +83,34 @@ for ( i = 0; i < 100; i++ ) {
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float32/eps`][@stdlib/constants/float32/eps]: https://github.com/stdlib-js/constants/tree/main/float32/eps`][@stdlib/constants/float32/eps
+-   [`@stdlib/constants/float64/sqrt-eps`][@stdlib/constants/float64/sqrt-eps]: https://github.com/stdlib-js/constants/tree/main/float64/sqrt-eps`][@stdlib/constants/float64/sqrt-eps
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [@stdlib/math/base/special/sqrt]: https://github.com/stdlib-js/math-base-special-sqrt
 
+<!-- <related-links> -->
+
 [@stdlib/constants/float32/eps]: https://github.com/stdlib-js/constants/tree/main/float32/eps
+
+[@stdlib/constants/float64/sqrt-eps]: https://github.com/stdlib-js/constants/tree/main/float64/sqrt-eps
+
+<!-- </related-links> -->
 
 </section>
 

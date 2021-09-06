@@ -78,7 +78,32 @@ console.log( paths );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/path/delimiter-posix`][@stdlib/constants/path/delimiter-posix]: https://github.com/stdlib-js/constants/tree/main/path/delimiter-posix`][@stdlib/constants/path/delimiter-posix
+-   [`@stdlib/constants/path/delimiter-win32`][@stdlib/constants/path/delimiter-win32]: https://github.com/stdlib-js/constants/tree/main/path/delimiter-win32`][@stdlib/constants/path/delimiter-win32
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
+
+<!-- <related-links> -->
+
+[@stdlib/constants/path/delimiter-posix]: https://github.com/stdlib-js/constants/tree/main/path/delimiter-posix
+
+[@stdlib/constants/path/delimiter-win32]: https://github.com/stdlib-js/constants/tree/main/path/delimiter-win32
+
+<!-- </related-links> -->
 
 </section>
 

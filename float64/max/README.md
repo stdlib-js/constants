@@ -62,9 +62,34 @@ console.log( FLOAT64_MAX );
 
 <!-- /.examples -->
 
+<!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
+
+<section class="related">
+
+* * *
+
+## See Also
+
+-   [`@stdlib/constants/float16/max`][@stdlib/constants/float16/max]: https://github.com/stdlib-js/constants/tree/main/float16/max`][@stdlib/constants/float16/max
+-   [`@stdlib/constants/float32/max`][@stdlib/constants/float32/max]: https://github.com/stdlib-js/constants/tree/main/float32/max`][@stdlib/constants/float32/max
+
+</section>
+
+<!-- /.related -->
+
+<!-- Section for all links. Make sure to keep an empty line after the `section` element and another before the `/section` close. -->
+
 <section class="links">
 
 [ieee754]: http://en.wikipedia.org/wiki/IEEE_754-1985
+
+<!-- <related-links> -->
+
+[@stdlib/constants/float16/max]: https://github.com/stdlib-js/constants/tree/main/float16/max
+
+[@stdlib/constants/float32/max]: https://github.com/stdlib-js/constants/tree/main/float32/max
+
+<!-- </related-links> -->
 
 </section>
 
