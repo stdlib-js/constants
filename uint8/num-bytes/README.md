@@ -70,9 +70,9 @@ console.log( UINT8_NUM_BYTES );
 
 ## See Also
 
--   [`@stdlib/constants/int8/num-bytes`][@stdlib/constants/int8/num-bytes]: https://github.com/stdlib-js/constants/tree/main/int8/num-bytes`][@stdlib/constants/int8/num-bytes
--   [`@stdlib/constants/uint16/num-bytes`][@stdlib/constants/uint16/num-bytes]: https://github.com/stdlib-js/constants/tree/main/uint16/num-bytes`][@stdlib/constants/uint16/num-bytes
--   [`@stdlib/constants/uint32/num-bytes`][@stdlib/constants/uint32/num-bytes]: https://github.com/stdlib-js/constants/tree/main/uint32/num-bytes`][@stdlib/constants/uint32/num-bytes
+-   <span class="package-name">[`@stdlib/constants/int8/num-bytes`][@stdlib/constants/int8/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of an 8-bit signed integer.</span>
+-   <span class="package-name">[`@stdlib/constants/uint16/num-bytes`][@stdlib/constants/uint16/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a 16-bit unsigned integer.</span>
+-   <span class="package-name">[`@stdlib/constants/uint32/num-bytes`][@stdlib/constants/uint32/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a 32-bit unsigned integer.</span>
 
 </section>
 

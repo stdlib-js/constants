@@ -70,7 +70,7 @@ console.log( PI );
 
 ## See Also
 
--   [`@stdlib/constants/float64/two-pi`][@stdlib/constants/float64/two-pi]: https://github.com/stdlib-js/constants/tree/main/float64/two-pi`][@stdlib/constants/float64/two-pi
+-   <span class="package-name">[`@stdlib/constants/float64/two-pi`][@stdlib/constants/float64/two-pi]</span><span class="delimiter">: </span><span class="description">2π.</span>
 
 </section>
 

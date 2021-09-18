@@ -102,8 +102,8 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   [`@stdlib/constants/float64/max-safe-lucas`][@stdlib/constants/float64/max-safe-lucas]: https://github.com/stdlib-js/constants/tree/main/float64/max-safe-lucas`][@stdlib/constants/float64/max-safe-lucas
--   [`@stdlib/constants/float64/max-safe-nth-fibonacci`][@stdlib/constants/float64/max-safe-nth-fibonacci]: https://github.com/stdlib-js/constants/tree/main/float64/max-safe-nth-fibonacci`][@stdlib/constants/float64/max-safe-nth-fibonacci
+-   <span class="package-name">[`@stdlib/constants/float64/max-safe-lucas`][@stdlib/constants/float64/max-safe-lucas]</span><span class="delimiter">: </span><span class="description">maximum safe Lucas number when stored in double-precision floating-point format.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/max-safe-nth-fibonacci`][@stdlib/constants/float64/max-safe-nth-fibonacci]</span><span class="delimiter">: </span><span class="description">maximum safe nth Fibonacci number when stored in double-precision floating-point format.</span>
 
 </section>
 

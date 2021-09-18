@@ -76,8 +76,8 @@ parts = path.split( PATH_SEP_POSIX );
 
 ## See Also
 
--   [`@stdlib/constants/path/sep`][@stdlib/constants/path/sep]: https://github.com/stdlib-js/constants/tree/main/path/sep`][@stdlib/constants/path/sep
--   [`@stdlib/constants/path/sep-win32`][@stdlib/constants/path/sep-win32]: https://github.com/stdlib-js/constants/tree/main/path/sep-win32`][@stdlib/constants/path/sep-win32
+-   <span class="package-name">[`@stdlib/constants/path/sep`][@stdlib/constants/path/sep]</span><span class="delimiter">: </span><span class="description">platform-specific path segment separator.</span>
+-   <span class="package-name">[`@stdlib/constants/path/sep-win32`][@stdlib/constants/path/sep-win32]</span><span class="delimiter">: </span><span class="description">Windows path segment separator.</span>
 
 </section>
 

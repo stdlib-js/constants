@@ -70,7 +70,7 @@ console.log( FLOAT64_PINF );
 
 ## See Also
 
--   [`@stdlib/constants/float64/ninf`][@stdlib/constants/float64/ninf]: https://github.com/stdlib-js/constants/tree/main/float64/ninf`][@stdlib/constants/float64/ninf
+-   <span class="package-name">[`@stdlib/constants/float64/ninf`][@stdlib/constants/float64/ninf]</span><span class="delimiter">: </span><span class="description">double-precision floating-point negative infinity.</span>
 
 </section>
 

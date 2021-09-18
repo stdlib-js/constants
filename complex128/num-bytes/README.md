@@ -70,8 +70,8 @@ console.log( COMPLEX128_NUM_BYTES );
 
 ## See Also
 
--   [`@stdlib/constants/complex64/num-bytes`][@stdlib/constants/complex64/num-bytes]: https://github.com/stdlib-js/constants/tree/main/complex64/num-bytes`][@stdlib/constants/complex64/num-bytes
--   [`@stdlib/constants/float64/num-bytes`][@stdlib/constants/float64/num-bytes]: https://github.com/stdlib-js/constants/tree/main/float64/num-bytes`][@stdlib/constants/float64/num-bytes
+-   <span class="package-name">[`@stdlib/constants/complex64/num-bytes`][@stdlib/constants/complex64/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a 64-bit complex number.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/num-bytes`][@stdlib/constants/float64/num-bytes]</span><span class="delimiter">: </span><span class="description">size (in bytes) of a double-precision floating-point number.</span>
 
 </section>
 

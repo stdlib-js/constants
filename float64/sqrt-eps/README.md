@@ -90,7 +90,7 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   [`@stdlib/constants/float64/eps`][@stdlib/constants/float64/eps]: https://github.com/stdlib-js/constants/tree/main/float64/eps`][@stdlib/constants/float64/eps
+-   <span class="package-name">[`@stdlib/constants/float64/eps`][@stdlib/constants/float64/eps]</span><span class="delimiter">: </span><span class="description">difference between one and the smallest value greater than one that can be represented as a double-precision floating-point number.</span>
 
 </section>
 

@@ -76,9 +76,9 @@ console.log( FLOAT64_MIN_BASE10_EXPONENT_SUBNORMAL );
 
 ## See Also
 
--   [`@stdlib/constants/float64/max-base10-exponent-subnormal`][@stdlib/constants/float64/max-base10-exponent-subnormal]: https://github.com/stdlib-js/constants/tree/main/float64/max-base10-exponent-subnormal`][@stdlib/constants/float64/max-base10-exponent-subnormal
--   [`@stdlib/constants/float64/min-base10-exponent`][@stdlib/constants/float64/min-base10-exponent]: https://github.com/stdlib-js/constants/tree/main/float64/min-base10-exponent`][@stdlib/constants/float64/min-base10-exponent
--   [`@stdlib/constants/float64/min-base2-exponent-subnormal`][@stdlib/constants/float64/min-base2-exponent-subnormal]: https://github.com/stdlib-js/constants/tree/main/float64/min-base2-exponent-subnormal`][@stdlib/constants/float64/min-base2-exponent-subnormal
+-   <span class="package-name">[`@stdlib/constants/float64/max-base10-exponent-subnormal`][@stdlib/constants/float64/max-base10-exponent-subnormal]</span><span class="delimiter">: </span><span class="description">the maximum base 10 exponent for a subnormal double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/min-base10-exponent`][@stdlib/constants/float64/min-base10-exponent]</span><span class="delimiter">: </span><span class="description">the minimum base 10 exponent for a normal double-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/min-base2-exponent-subnormal`][@stdlib/constants/float64/min-base2-exponent-subnormal]</span><span class="delimiter">: </span><span class="description">the minimum biased base 2 exponent for a subnormal double-precision floating-point number.</span>
 
 </section>
 

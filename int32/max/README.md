@@ -70,7 +70,7 @@ console.log( INT32_MAX );
 
 ## See Also
 
--   [`@stdlib/constants/int32/min`][@stdlib/constants/int32/min]: https://github.com/stdlib-js/constants/tree/main/int32/min`][@stdlib/constants/int32/min
+-   <span class="package-name">[`@stdlib/constants/int32/min`][@stdlib/constants/int32/min]</span><span class="delimiter">: </span><span class="description">minimum signed 32-bit integer.</span>
 
 </section>
 

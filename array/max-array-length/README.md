@@ -116,7 +116,7 @@ try {
 
 ## See Also
 
--   [`@stdlib/constants/array/max-typed-array-length`][@stdlib/constants/array/max-typed-array-length]: https://github.com/stdlib-js/constants/tree/main/array/max-typed-array-length`][@stdlib/constants/array/max-typed-array-length
+-   <span class="package-name">[`@stdlib/constants/array/max-typed-array-length`][@stdlib/constants/array/max-typed-array-length]</span><span class="delimiter">: </span><span class="description">maximum length for a typed array.</span>
 
 </section>
 

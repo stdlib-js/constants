@@ -91,9 +91,9 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   [`@stdlib/constants/float32/eps`][@stdlib/constants/float32/eps]: https://github.com/stdlib-js/constants/tree/main/float32/eps`][@stdlib/constants/float32/eps
--   [`@stdlib/constants/float32/sqrt-eps`][@stdlib/constants/float32/sqrt-eps]: https://github.com/stdlib-js/constants/tree/main/float32/sqrt-eps`][@stdlib/constants/float32/sqrt-eps
--   [`@stdlib/constants/float64/cbrt-eps`][@stdlib/constants/float64/cbrt-eps]: https://github.com/stdlib-js/constants/tree/main/float64/cbrt-eps`][@stdlib/constants/float64/cbrt-eps
+-   <span class="package-name">[`@stdlib/constants/float32/eps`][@stdlib/constants/float32/eps]</span><span class="delimiter">: </span><span class="description">difference between one and the smallest value greater than one that can be represented as a single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants/float32/sqrt-eps`][@stdlib/constants/float32/sqrt-eps]</span><span class="delimiter">: </span><span class="description">square root of single-precision floating-point epsilon.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/cbrt-eps`][@stdlib/constants/float64/cbrt-eps]</span><span class="delimiter">: </span><span class="description">cube root of double-precision floating-point epsilon.</span>
 
 </section>
 

@@ -70,7 +70,7 @@ console.log( FLOAT64_MIN_LN );
 
 ## See Also
 
--   [`@stdlib/constants/float64/max-ln`][@stdlib/constants/float64/max-ln]: https://github.com/stdlib-js/constants/tree/main/float64/max-ln`][@stdlib/constants/float64/max-ln
+-   <span class="package-name">[`@stdlib/constants/float64/max-ln`][@stdlib/constants/float64/max-ln]</span><span class="delimiter">: </span><span class="description">natural logarithm of the maximum double-precision floating-point number.</span>
 
 </section>
 

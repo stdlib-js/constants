@@ -86,8 +86,8 @@ console.log( paths );
 
 ## See Also
 
--   [`@stdlib/constants/path/delimiter-posix`][@stdlib/constants/path/delimiter-posix]: https://github.com/stdlib-js/constants/tree/main/path/delimiter-posix`][@stdlib/constants/path/delimiter-posix
--   [`@stdlib/constants/path/delimiter-win32`][@stdlib/constants/path/delimiter-win32]: https://github.com/stdlib-js/constants/tree/main/path/delimiter-win32`][@stdlib/constants/path/delimiter-win32
+-   <span class="package-name">[`@stdlib/constants/path/delimiter-posix`][@stdlib/constants/path/delimiter-posix]</span><span class="delimiter">: </span><span class="description">POSIX path delimiter.</span>
+-   <span class="package-name">[`@stdlib/constants/path/delimiter-win32`][@stdlib/constants/path/delimiter-win32]</span><span class="delimiter">: </span><span class="description">Windows path delimiter.</span>
 
 </section>
 

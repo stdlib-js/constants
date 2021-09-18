@@ -91,7 +91,7 @@ for ( i = 0; i < 10; i++ ) {
 
 ## See Also
 
--   [`@stdlib/constants/time/hours-in-day`][@stdlib/constants/time/hours-in-day]: https://github.com/stdlib-js/constants/tree/main/time/hours-in-day`][@stdlib/constants/time/hours-in-day
+-   <span class="package-name">[`@stdlib/constants/time/hours-in-day`][@stdlib/constants/time/hours-in-day]</span><span class="delimiter">: </span><span class="description">number of hours in a day.</span>
 
 </section>
 

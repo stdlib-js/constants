@@ -70,7 +70,7 @@ console.log( PI_SQUARED );
 
 ## See Also
 
--   [`@stdlib/constants/float64/pi`][@stdlib/constants/float64/pi]: https://github.com/stdlib-js/constants/tree/main/float64/pi`][@stdlib/constants/float64/pi
+-   <span class="package-name">[`@stdlib/constants/float64/pi`][@stdlib/constants/float64/pi]</span><span class="delimiter">: </span><span class="description">π.</span>
 
 </section>
 

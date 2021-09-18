@@ -99,7 +99,7 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   [`@stdlib/constants/float64/max-safe-fibonacci`][@stdlib/constants/float64/max-safe-fibonacci]: https://github.com/stdlib-js/constants/tree/main/float64/max-safe-fibonacci`][@stdlib/constants/float64/max-safe-fibonacci
+-   <span class="package-name">[`@stdlib/constants/float64/max-safe-fibonacci`][@stdlib/constants/float64/max-safe-fibonacci]</span><span class="delimiter">: </span><span class="description">maximum safe Fibonacci number when stored in double-precision floating-point format.</span>
 
 </section>
 

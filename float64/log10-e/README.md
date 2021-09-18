@@ -70,8 +70,8 @@ console.log( LOG10E );
 
 ## See Also
 
--   [`@stdlib/constants/float64/e`][@stdlib/constants/float64/e]: https://github.com/stdlib-js/constants/tree/main/float64/e`][@stdlib/constants/float64/e
--   [`@stdlib/constants/float64/log2-e`][@stdlib/constants/float64/log2-e]: https://github.com/stdlib-js/constants/tree/main/float64/log2-e`][@stdlib/constants/float64/log2-e
+-   <span class="package-name">[`@stdlib/constants/float64/e`][@stdlib/constants/float64/e]</span><span class="delimiter">: </span><span class="description">euler's number.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/log2-e`][@stdlib/constants/float64/log2-e]</span><span class="delimiter">: </span><span class="description">base 2 logarithm of Euler's number.</span>
 
 </section>
 

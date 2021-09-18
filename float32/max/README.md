@@ -70,8 +70,8 @@ console.log( FLOAT32_MAX );
 
 ## See Also
 
--   [`@stdlib/constants/float16/max`][@stdlib/constants/float16/max]: https://github.com/stdlib-js/constants/tree/main/float16/max`][@stdlib/constants/float16/max
--   [`@stdlib/constants/float64/max`][@stdlib/constants/float64/max]: https://github.com/stdlib-js/constants/tree/main/float64/max`][@stdlib/constants/float64/max
+-   <span class="package-name">[`@stdlib/constants/float16/max`][@stdlib/constants/float16/max]</span><span class="delimiter">: </span><span class="description">maximum half-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/max`][@stdlib/constants/float64/max]</span><span class="delimiter">: </span><span class="description">maximum double-precision floating-point number.</span>
 
 </section>
 

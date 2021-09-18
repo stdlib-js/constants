@@ -71,8 +71,8 @@ console.log( FLOAT32_NINF );
 
 ## See Also
 
--   [`@stdlib/constants/float32/pinf`][@stdlib/constants/float32/pinf]: https://github.com/stdlib-js/constants/tree/main/float32/pinf`][@stdlib/constants/float32/pinf
--   [`@stdlib/constants/float64/ninf`][@stdlib/constants/float64/ninf]: https://github.com/stdlib-js/constants/tree/main/float64/ninf`][@stdlib/constants/float64/ninf
+-   <span class="package-name">[`@stdlib/constants/float32/pinf`][@stdlib/constants/float32/pinf]</span><span class="delimiter">: </span><span class="description">single-precision floating-point positive infinity.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/ninf`][@stdlib/constants/float64/ninf]</span><span class="delimiter">: </span><span class="description">double-precision floating-point negative infinity.</span>
 
 </section>
 

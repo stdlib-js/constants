@@ -99,7 +99,7 @@ out = hi | FLOAT64_HIGH_WORD_EXPONENT_MASK; // => 0 11111111111 0111000000000000
 
 ## See Also
 
--   [`@stdlib/constants/float64/high-word-significand-mask`][@stdlib/constants/float64/high-word-significand-mask]: https://github.com/stdlib-js/constants/tree/main/float64/high-word-significand-mask`][@stdlib/constants/float64/high-word-significand-mask
+-   <span class="package-name">[`@stdlib/constants/float64/high-word-significand-mask`][@stdlib/constants/float64/high-word-significand-mask]</span><span class="delimiter">: </span><span class="description">high word mask for the significand of a double-precision floating-point number.</span>
 
 </section>
 

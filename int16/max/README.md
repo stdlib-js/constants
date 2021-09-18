@@ -70,7 +70,7 @@ console.log( INT16_MAX );
 
 ## See Also
 
--   [`@stdlib/constants/int16/min`][@stdlib/constants/int16/min]: https://github.com/stdlib-js/constants/tree/main/int16/min`][@stdlib/constants/int16/min
+-   <span class="package-name">[`@stdlib/constants/int16/min`][@stdlib/constants/int16/min]</span><span class="delimiter">: </span><span class="description">minimum signed 16-bit integer.</span>
 
 </section>
 

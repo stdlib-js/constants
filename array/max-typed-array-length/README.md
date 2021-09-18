@@ -120,7 +120,7 @@ try {
 
 ## See Also
 
--   [`@stdlib/constants/array/max-array-length`][@stdlib/constants/array/max-array-length]: https://github.com/stdlib-js/constants/tree/main/array/max-array-length`][@stdlib/constants/array/max-array-length
+-   <span class="package-name">[`@stdlib/constants/array/max-array-length`][@stdlib/constants/array/max-array-length]</span><span class="delimiter">: </span><span class="description">maximum length for a generic array.</span>
 
 </section>
 

@@ -70,8 +70,8 @@ console.log( FLOAT32_PRECISION );
 
 ## See Also
 
--   [`@stdlib/constants/float16/precision`][@stdlib/constants/float16/precision]: https://github.com/stdlib-js/constants/tree/main/float16/precision`][@stdlib/constants/float16/precision
--   [`@stdlib/constants/float64/precision`][@stdlib/constants/float64/precision]: https://github.com/stdlib-js/constants/tree/main/float64/precision`][@stdlib/constants/float64/precision
+-   <span class="package-name">[`@stdlib/constants/float16/precision`][@stdlib/constants/float16/precision]</span><span class="delimiter">: </span><span class="description">effective number of bits in the significand of a half-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/precision`][@stdlib/constants/float64/precision]</span><span class="delimiter">: </span><span class="description">effective number of bits in the significand of a double-precision floating-point number.</span>
 
 </section>
 

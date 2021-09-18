@@ -70,8 +70,8 @@ console.log( FLOAT64_SMALLEST_NORMAL );
 
 ## See Also
 
--   [`@stdlib/constants/float32/smallest-normal`][@stdlib/constants/float32/smallest-normal]: https://github.com/stdlib-js/constants/tree/main/float32/smallest-normal`][@stdlib/constants/float32/smallest-normal
--   [`@stdlib/constants/float64/smallest-subnormal`][@stdlib/constants/float64/smallest-subnormal]: https://github.com/stdlib-js/constants/tree/main/float64/smallest-subnormal`][@stdlib/constants/float64/smallest-subnormal
+-   <span class="package-name">[`@stdlib/constants/float32/smallest-normal`][@stdlib/constants/float32/smallest-normal]</span><span class="delimiter">: </span><span class="description">smallest positive normalized single-precision floating-point number.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/smallest-subnormal`][@stdlib/constants/float64/smallest-subnormal]</span><span class="delimiter">: </span><span class="description">smallest positive double-precision floating-point number.</span>
 
 </section>
 

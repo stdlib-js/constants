@@ -70,7 +70,7 @@ console.log( INT8_MAX );
 
 ## See Also
 
--   [`@stdlib/constants/int8/min`][@stdlib/constants/int8/min]: https://github.com/stdlib-js/constants/tree/main/int8/min`][@stdlib/constants/int8/min
+-   <span class="package-name">[`@stdlib/constants/int8/min`][@stdlib/constants/int8/min]</span><span class="delimiter">: </span><span class="description">minimum signed 8-bit integer.</span>
 
 </section>
 

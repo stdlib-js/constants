@@ -70,7 +70,7 @@ console.log( LN2 );
 
 ## See Also
 
--   [`@stdlib/constants/float64/ln-ten`][@stdlib/constants/float64/ln-ten]: https://github.com/stdlib-js/constants/tree/main/float64/ln-ten`][@stdlib/constants/float64/ln-ten
+-   <span class="package-name">[`@stdlib/constants/float64/ln-ten`][@stdlib/constants/float64/ln-ten]</span><span class="delimiter">: </span><span class="description">natural logarithm of 10.</span>
 
 </section>
 

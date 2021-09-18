@@ -82,9 +82,9 @@ for ( i = 0; i < 100; i++ ) {
 
 ## See Also
 
--   [`@stdlib/constants/float16/min-safe-integer`][@stdlib/constants/float16/min-safe-integer]: https://github.com/stdlib-js/constants/tree/main/float16/min-safe-integer`][@stdlib/constants/float16/min-safe-integer
--   [`@stdlib/constants/float32/max-safe-integer`][@stdlib/constants/float32/max-safe-integer]: https://github.com/stdlib-js/constants/tree/main/float32/max-safe-integer`][@stdlib/constants/float32/max-safe-integer
--   [`@stdlib/constants/float64/min-safe-integer`][@stdlib/constants/float64/min-safe-integer]: https://github.com/stdlib-js/constants/tree/main/float64/min-safe-integer`][@stdlib/constants/float64/min-safe-integer
+-   <span class="package-name">[`@stdlib/constants/float16/min-safe-integer`][@stdlib/constants/float16/min-safe-integer]</span><span class="delimiter">: </span><span class="description">minimum safe half-precision floating-point integer.</span>
+-   <span class="package-name">[`@stdlib/constants/float32/max-safe-integer`][@stdlib/constants/float32/max-safe-integer]</span><span class="delimiter">: </span><span class="description">maximum safe single-precision floating-point integer.</span>
+-   <span class="package-name">[`@stdlib/constants/float64/min-safe-integer`][@stdlib/constants/float64/min-safe-integer]</span><span class="delimiter">: </span><span class="description">minimum safe double-precision floating-point integer.</span>
 
 </section>
 

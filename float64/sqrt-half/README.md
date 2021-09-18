@@ -70,7 +70,7 @@ console.log( SQRT_HALF );
 
 ## See Also
 
--   [`@stdlib/constants/float64/ln-half`][@stdlib/constants/float64/ln-half]: https://github.com/stdlib-js/constants/tree/main/float64/ln-half`][@stdlib/constants/float64/ln-half
+-   <span class="package-name">[`@stdlib/constants/float64/ln-half`][@stdlib/constants/float64/ln-half]</span><span class="delimiter">: </span><span class="description">natural logarithm of 1/2.</span>
 
 </section>
 
