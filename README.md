@@ -22,7 +22,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
 
-> Standard library constants.
+> Constants.
 
 <section class="installation">
 
@@ -44,14 +44,14 @@ var constants = require( '@stdlib/constants' );
 
 #### constants
 
-Standard library constants.
+Namespace containing constants.
 
 ```javascript
 var ns = constants;
 // returns {...}
 ```
 
-The constants that are part of this package live in the following sub-namespaces:
+Constants are split across the the following sub-namespaces:
 
 <!-- <toc pattern="*"> -->
 
