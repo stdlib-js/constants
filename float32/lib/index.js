@@ -67,6 +67,16 @@ setReadOnly( constants, 'EPS', require( './../../float32/eps' ) );
 setReadOnly( constants, 'EXPONENT_BIAS', require( './../../float32/exponent-bias' ) );
 
 /**
+* @name EXPONENT_MASK
+* @memberof constants
+* @readonly
+* @constant
+* @type {number}
+* @see {@link module:@stdlib/constants/float32/exponent-mask}
+*/
+setReadOnly( constants, 'EXPONENT_MASK', require( './../../float32/exponent-mask' ) );
+
+/**
 * @name MAX
 * @memberof constants
 * @readonly
