@@ -38,7 +38,8 @@
     "@stdlib/array": "github:stdlib-js/array#main",
     "@stdlib/assert": "github:stdlib-js/assert#main",
     "@stdlib/number": "github:stdlib-js/number#main",
-    "@stdlib/utils": "github:stdlib-js/utils#main"
+    "@stdlib/utils": "github:stdlib-js/utils#main",
+    "@stdlib/error-tools-fmtprodmsg": "^0.0.x"
   },
   "devDependencies": {
     "@stdlib/math": "github:stdlib-js/math",
