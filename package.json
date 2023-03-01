@@ -41,9 +41,9 @@
     "@stdlib/utils": "github:stdlib-js/utils#main"
   },
   "devDependencies": {
-    "@stdlib/math": "github:stdlib-js/math",
-    "@stdlib/random": "github:stdlib-js/random",
-    "@stdlib/string": "github:stdlib-js/string",
+    "@stdlib/math": "github:stdlib-js/math#main",
+    "@stdlib/random": "github:stdlib-js/random#main",
+    "@stdlib/string": "github:stdlib-js/string#main",
     "proxyquire": "^2.0.0",
     "tape": "git+https://github.com/kgryte/tape.git#fix/globby",
     "istanbul": "^0.4.1",
@@ -74,7 +74,7 @@
     "const"
   ],
   "funding": {
-    "type": "patreon",
-    "url": "https://www.patreon.com/athan"
+    "type": "opencollective",
+    "url": "https://opencollective.com/stdlib"
   }
 }
