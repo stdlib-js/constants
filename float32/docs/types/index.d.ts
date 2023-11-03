@@ -18,8 +18,7 @@
 
 // TypeScript Version: 4.1
 
-/* tslint:disable:max-line-length */
-/* tslint:disable:max-file-line-count */
+/* eslint-disable max-lines */
 
 import ABS_MASK = require( './../../../float32/abs-mask' );
 import CBRT_EPS = require( './../../../float32/cbrt-eps' );

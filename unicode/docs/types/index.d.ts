@@ -18,8 +18,7 @@
 
 // TypeScript Version: 4.1
 
-/* tslint:disable:max-line-length */
-/* tslint:disable:max-file-line-count */
+/* eslint-disable max-lines */
 
 import MAX = require( './../../../unicode/max' );
 import MAX_BMP = require( './../../../unicode/max-bmp' );
