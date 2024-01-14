@@ -117,6 +117,16 @@ setReadOnly( constants, 'MAX_SAFE_INTEGER', require( './../../float32/max-safe-i
 setReadOnly( constants, 'MIN_SAFE_INTEGER', require( './../../float32/min-safe-integer' ) );
 
 /**
+* @name NAN
+* @memberof constants
+* @readonly
+* @constant
+* @type {number}
+* @see {@link module:@stdlib/constants/float32/nan}
+*/
+setReadOnly( constants, 'NAN', require( './../../float32/nan' ) );
+
+/**
 * @name NINF
 * @memberof constants
 * @readonly

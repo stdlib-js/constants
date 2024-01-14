@@ -457,6 +457,16 @@ setReadOnly( constants, 'MIN_LN', require( './../../float64/min-ln' ) );
 setReadOnly( constants, 'MIN_SAFE_INTEGER', require( './../../float64/min-safe-integer' ) );
 
 /**
+* @name NAN
+* @memberof constants
+* @readonly
+* @constant
+* @type {number}
+* @see {@link module:@stdlib/constants/float64/nan}
+*/
+setReadOnly( constants, 'NAN', require( './../../float64/nan' ) );
+
+/**
 * @name NINF
 * @memberof constants
 * @readonly
