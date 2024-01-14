@@ -1,7 +1,7 @@
 /*
 * @license Apache-2.0
 *
-* Copyright (c) 2019 The Stdlib Authors.
+* Copyright (c) 2024 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -18,24 +18,20 @@
 
 // TypeScript Version: 4.1
 
+/// <reference types="@stdlib/types"/>
+
+import { Complex128 } from '@stdlib/types/complex';
+
 /**
-* Platform-specific path segment separator.
+* Double-precision complex floating-point zero.
 *
 * @example
-* var IS_WINDOWS = require( '@stdlib/assert/is-windows' );
-*
-* var parts;
-* if ( IS_WINDOWS ) {
-*     parts = 'foo\\bar\\baz'.split( PATH_SEP );
-*     // returns ['foo','bar','baz']
-* } else {
-*     parts = 'foo/bar/baz'.split( PATH_SEP );
-*     // returns ['foo','bar','baz']
-* }
+* var zero = COMPLEX128_ZERO;
+* // returns <Complex128>
 */
-declare const PATH_SEP: string;
+declare const COMPLEX128_ZERO: Complex128;
 
 
 // EXPORTS //
 
-export = PATH_SEP;
+export = COMPLEX128_ZERO;

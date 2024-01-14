@@ -1,7 +1,7 @@
-/*
+/**
 * @license Apache-2.0
 *
-* Copyright (c) 2019 The Stdlib Authors.
+* Copyright (c) 2024 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -16,26 +16,35 @@
 * limitations under the License.
 */
 
-// TypeScript Version: 4.1
+'use strict';
 
 /**
-* Platform-specific path segment separator.
+* Single-precision complex floating-point zero.
+*
+* @module @stdlib/constants/complex64/zero
+* @type {Complex64}
 *
 * @example
-* var IS_WINDOWS = require( '@stdlib/assert/is-windows' );
-*
-* var parts;
-* if ( IS_WINDOWS ) {
-*     parts = 'foo\\bar\\baz'.split( PATH_SEP );
-*     // returns ['foo','bar','baz']
-* } else {
-*     parts = 'foo/bar/baz'.split( PATH_SEP );
-*     // returns ['foo','bar','baz']
-* }
+* var COMPLEX64_ZERO = require( '@stdlib/constants/complex64/zero' );
+* // returns <Complex64>
 */
-declare const PATH_SEP: string;
+
+// MODULES //
+
+var Complex64 = require( '@stdlib/complex/float32' );
+
+
+// MAIN //
+
+/**
+* Single-precision complex floating-point zero.
+*
+* @constant
+* @type {Complex64}
+*/
+var COMPLEX64_ZERO = new Complex64( 0.0, 0.0 );
 
 
 // EXPORTS //
 
-export = PATH_SEP;
+module.exports = COMPLEX64_ZERO;

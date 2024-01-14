@@ -1,7 +1,7 @@
 /*
 * @license Apache-2.0
 *
-* Copyright (c) 2019 The Stdlib Authors.
+* Copyright (c) 2024 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -16,26 +16,13 @@
 * limitations under the License.
 */
 
-// TypeScript Version: 4.1
-
-/**
-* Platform-specific path segment separator.
-*
-* @example
-* var IS_WINDOWS = require( '@stdlib/assert/is-windows' );
-*
-* var parts;
-* if ( IS_WINDOWS ) {
-*     parts = 'foo\\bar\\baz'.split( PATH_SEP );
-*     // returns ['foo','bar','baz']
-* } else {
-*     parts = 'foo/bar/baz'.split( PATH_SEP );
-*     // returns ['foo','bar','baz']
-* }
-*/
-declare const PATH_SEP: string;
+import COMPLEX64_ZERO = require( './index' );
 
 
-// EXPORTS //
+// TESTS //
 
-export = PATH_SEP;
+// The export is a complex number...
+{
+	// eslint-disable-next-line @typescript-eslint/no-unused-expressions
+	COMPLEX64_ZERO; // $ExpectType Complex64
+}
