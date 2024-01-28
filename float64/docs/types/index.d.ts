@@ -62,6 +62,7 @@ import MIN_BASE10_EXPONENT = require( './../../../float64/min-base10-exponent' )
 import MIN_BASE10_EXPONENT_SUBNORMAL = require( './../../../float64/min-base10-exponent-subnormal' );
 import MIN_LN = require( './../../../float64/min-ln' );
 import MIN_SAFE_INTEGER = require( './../../../float64/min-safe-integer' );
+import NAN = require( './../../../float64/nan' );
 import NINF = require( './../../../float64/ninf' );
 import NUM_BYTES = require( './../../../float64/num-bytes' );
 import PHI = require( './../../../float64/phi' );
@@ -462,6 +463,15 @@ interface Namespace {
 	* // returns -9007199254740991
 	*/
 	MIN_SAFE_INTEGER: typeof MIN_SAFE_INTEGER;
+
+	/**
+	* Double-precision floating-point NaN.
+	*
+	* @example
+	* var nan = ns.NAN;
+	* // returns NaN
+	*/
+	NAN: typeof NAN;
 
 	/**
 	* Double-precision floating-point negative infinity.

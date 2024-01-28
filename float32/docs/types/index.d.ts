@@ -28,6 +28,7 @@ import EXPONENT_MASK = require( './../../../float32/exponent-mask' );
 import MAX = require( './../../../float32/max' );
 import MAX_SAFE_INTEGER = require( './../../../float32/max-safe-integer' );
 import MIN_SAFE_INTEGER = require( './../../../float32/min-safe-integer' );
+import NAN = require( './../../../float32/nan' );
 import NINF = require( './../../../float32/ninf' );
 import NUM_BYTES = require( './../../../float32/num-bytes' );
 import PINF = require( './../../../float32/pinf' );
@@ -113,6 +114,15 @@ interface Namespace {
 	* // returns -16777215
 	*/
 	MIN_SAFE_INTEGER: typeof MIN_SAFE_INTEGER;
+
+	/**
+	* Single-precision floating-point NaN.
+	*
+	* @example
+	* var nan = ns.NAN;
+	* // returns NaN
+	*/
+	NAN: typeof NAN;
 
 	/**
 	* Single-precision floating-point negative infinity.
