@@ -42,13 +42,18 @@ limitations under the License.
 ## Usage
 
 ```javascript
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@deno/mod.js';
+```
+The previous example will load the latest bundled code from the deno branch. Alternatively, you may load a specific version by loading the file from one of the [tagged bundles](https://github.com/stdlib-js/constants/tags). For example,
+
+```javascript
 import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@v0.2.1-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { array, complex128, complex64, float16, float32, float64, int16, int32, int8, path, time, uint16, uint32, uint8, unicode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@v0.2.1-deno/mod.js';
+import { array, complex128, complex64, float16, float32, float64, int16, int32, int8, path, time, uint16, uint32, uint8, unicode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@deno/mod.js';
 ```
 
 #### constants
@@ -98,7 +103,7 @@ Constants are split across the the following sub-namespaces:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@deno/mod.js';
-import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@v0.2.1-deno/mod.js';
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@deno/mod.js';
 
 var out = constants.float64.PI;
 // returns ~3.142
