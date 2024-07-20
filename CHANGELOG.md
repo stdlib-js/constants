@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-07-17)
+## Unreleased (2024-07-20)
 
 <section class="packages">
 
@@ -130,6 +130,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="constants-float64-max-safe-nth-factorial-unreleased">
+
+#### [@stdlib/constants/float64/max-safe-nth-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-factorial)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`86a4ebc`](https://github.com/stdlib-js/stdlib/commit/86a4ebc428071bd60529c554881fbb6dab633cdd) - add `constants/float64/max-safe-nth-factorial` [(##2633)](#2633 )
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-int32-max-unreleased">
 
 #### [@stdlib/constants/int32/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int32/max)
@@ -176,6 +198,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`86a4ebc`](https://github.com/stdlib-js/stdlib/commit/86a4ebc428071bd60529c554881fbb6dab633cdd) - **feat:** add `constants/float64/max-safe-nth-factorial` [(##2633)](#2633 ) _(by Gunj Joshi)_
 -   [`32bbcb3`](https://github.com/stdlib-js/stdlib/commit/32bbcb3b3dae1f028fd18166ee7875a93d44d0ee) - **refactor:** update paths _(by Athan Reines)_
 -   [`8d4c46b`](https://github.com/stdlib-js/stdlib/commit/8d4c46b10ca912401e0ff0caa37a17cd3c443c2f) - **refactor:** update paths _(by Athan Reines)_
 -   [`ed9c0a5`](https://github.com/stdlib-js/stdlib/commit/ed9c0a5e55ff09af3dd6af8c38615480e2c1828e) - **refactor:** update paths _(by Athan Reines)_
