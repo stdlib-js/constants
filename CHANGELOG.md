@@ -4,11 +4,175 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-01)
+## Unreleased (2024-08-03)
 
 <section class="packages">
 
 ### Packages
+
+<section class="package" id="constants-float32-fourth-pi-unreleased">
+
+#### [@stdlib/constants/float32/fourth-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/fourth-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`8994c14`](https://github.com/stdlib-js/stdlib/commit/8994c14cb75a6e7deda053ec027778cd078ea6ff) - add `constants/float32/fourth-pi` [(#2046)](https://github.com/stdlib-js/stdlib/pull/2046)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-half-pi-unreleased">
+
+#### [@stdlib/constants/float32/half-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/half-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`afb14b3`](https://github.com/stdlib-js/stdlib/commit/afb14b3920c53ac9f95ed89e745ed98999672ef9) - add `constants/float32/half-pi` [(#1953)](https://github.com/stdlib-js/stdlib/pull/1953)
+
+</section>
+
+<!-- /.features -->
+
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`2bf94d2`](https://github.com/stdlib-js/stdlib/commit/2bf94d26a9cb3bbbb8f19b905c03d172ce11e1b4) - rename include directory for `constants/float32/half-pi` [(#1976)](https://github.com/stdlib-js/stdlib/pull/1976)
+
+</section>
+
+<!-- /.bug-fixes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-phi-unreleased">
+
+#### [@stdlib/constants/float32/phi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/phi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`6853d27`](https://github.com/stdlib-js/stdlib/commit/6853d274270f173301636bd66a3e05227ba1b49d) - add `constants/float32/phi` [(#2249)](https://github.com/stdlib-js/stdlib/pull/2249)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-pi-unreleased">
+
+#### [@stdlib/constants/float32/pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`f48de9d`](https://github.com/stdlib-js/stdlib/commit/f48de9d8a40efd7021f684c12e88356535c1524b) - add `constants/float32/pi` [(#2042)](https://github.com/stdlib-js/stdlib/pull/2042)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-two-pi-unreleased">
+
+#### [@stdlib/constants/float32/two-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/two-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`607aad5`](https://github.com/stdlib-js/stdlib/commit/607aad527b7af90835b2fad3753508f2e58da7fc) - add `constants/float32/two-pi` [(#2126)](https://github.com/stdlib-js/stdlib/pull/2126)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-safe-nth-factorial-unreleased">
+
+#### [@stdlib/constants/float64/max-safe-nth-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-factorial)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`86a4ebc`](https://github.com/stdlib-js/stdlib/commit/86a4ebc428071bd60529c554881fbb6dab633cdd) - add `constants/float64/max-safe-nth-factorial` [(#2633)](https://github.com/stdlib-js/stdlib/pull/2633 )
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int32-max-unreleased">
+
+#### [@stdlib/constants/int32/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int32/max)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`869def2`](https://github.com/stdlib-js/stdlib/commit/869def28b241b004edc572fc8e08b441cda3f6ce) - add C implementation for `constants/int32/max` [(#1683)](https://github.com/stdlib-js/stdlib/pull/1683)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
 
 </section>
 
@@ -18,9 +182,11 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
+-   Gunj Joshi
+-   Pranav Goswami
 
 </section>
 
@@ -32,7 +198,25 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
--   [`22c4d29`](https://github.com/stdlib-js/stdlib/commit/22c4d29898e2b5bb4cb071a6b7f62536027eaf28) - **docs:** remove blank line _(by Athan Reines)_
+-   [`86a4ebc`](https://github.com/stdlib-js/stdlib/commit/86a4ebc428071bd60529c554881fbb6dab633cdd) - **feat:** add `constants/float64/max-safe-nth-factorial` [(#2633)](https://github.com/stdlib-js/stdlib/pull/2633 ) _(by Gunj Joshi)_
+-   [`32bbcb3`](https://github.com/stdlib-js/stdlib/commit/32bbcb3b3dae1f028fd18166ee7875a93d44d0ee) - **refactor:** update paths _(by Athan Reines)_
+-   [`8d4c46b`](https://github.com/stdlib-js/stdlib/commit/8d4c46b10ca912401e0ff0caa37a17cd3c443c2f) - **refactor:** update paths _(by Athan Reines)_
+-   [`ed9c0a5`](https://github.com/stdlib-js/stdlib/commit/ed9c0a5e55ff09af3dd6af8c38615480e2c1828e) - **refactor:** update paths _(by Athan Reines)_
+-   [`18b3c79`](https://github.com/stdlib-js/stdlib/commit/18b3c79c5035c7082618b7379cd6576e64393a96) - **refactor:** update paths _(by Athan Reines)_
+-   [`e9ae1f4`](https://github.com/stdlib-js/stdlib/commit/e9ae1f4e21bd72466118aae680fee79d16ce0708) - **docs:** fix macro name and include path _(by Athan Reines)_
+-   [`75d4f83`](https://github.com/stdlib-js/stdlib/commit/75d4f83cb85610d23a04dc21a03f8075f6d3665f) - **refactor:** update require and include paths _(by Athan Reines)_
+-   [`f626b3d`](https://github.com/stdlib-js/stdlib/commit/f626b3d45c5fc4b55ff08dc53da094173a719732) - **docs:** update related packages sections [(#2255)](https://github.com/stdlib-js/stdlib/pull/2255) _(by stdlib-bot)_
+-   [`6853d27`](https://github.com/stdlib-js/stdlib/commit/6853d274270f173301636bd66a3e05227ba1b49d) - **feat:** add `constants/float32/phi` [(#2249)](https://github.com/stdlib-js/stdlib/pull/2249) _(by Gunj Joshi)_
+-   [`53fd65d`](https://github.com/stdlib-js/stdlib/commit/53fd65de03a466f6cf3ca0752c0908a57ef151b1) - **docs:** update related packages sections [(#2240)](https://github.com/stdlib-js/stdlib/pull/2240) _(by stdlib-bot)_
+-   [`607aad5`](https://github.com/stdlib-js/stdlib/commit/607aad527b7af90835b2fad3753508f2e58da7fc) - **feat:** add `constants/float32/two-pi` [(#2126)](https://github.com/stdlib-js/stdlib/pull/2126) _(by Gunj Joshi)_
+-   [`98ae85e`](https://github.com/stdlib-js/stdlib/commit/98ae85e1daf32d48a1d3173cfbcb229c722fc79c) - **docs:** update related packages sections [(#2107)](https://github.com/stdlib-js/stdlib/pull/2107) _(by stdlib-bot)_
+-   [`8994c14`](https://github.com/stdlib-js/stdlib/commit/8994c14cb75a6e7deda053ec027778cd078ea6ff) - **feat:** add `constants/float32/fourth-pi` [(#2046)](https://github.com/stdlib-js/stdlib/pull/2046) _(by Gunj Joshi)_
+-   [`f48de9d`](https://github.com/stdlib-js/stdlib/commit/f48de9d8a40efd7021f684c12e88356535c1524b) - **feat:** add `constants/float32/pi` [(#2042)](https://github.com/stdlib-js/stdlib/pull/2042) _(by Gunj Joshi)_
+-   [`2bf94d2`](https://github.com/stdlib-js/stdlib/commit/2bf94d26a9cb3bbbb8f19b905c03d172ce11e1b4) - **fix:** rename include directory for `constants/float32/half-pi` [(#1976)](https://github.com/stdlib-js/stdlib/pull/1976) _(by Gunj Joshi)_
+-   [`afb14b3`](https://github.com/stdlib-js/stdlib/commit/afb14b3920c53ac9f95ed89e745ed98999672ef9) - **feat:** add `constants/float32/half-pi` [(#1953)](https://github.com/stdlib-js/stdlib/pull/1953) _(by Gunj Joshi, Athan Reines)_
+-   [`d40dbaf`](https://github.com/stdlib-js/stdlib/commit/d40dbafc25e3e10c8fa83f5b4203db97c289823c) - **chore:** update package meta data [(#1812)](https://github.com/stdlib-js/stdlib/pull/1812) _(by stdlib-bot)_
+-   [`869def2`](https://github.com/stdlib-js/stdlib/commit/869def28b241b004edc572fc8e08b441cda3f6ce) - **feat:** add C implementation for `constants/int32/max` [(#1683)](https://github.com/stdlib-js/stdlib/pull/1683) _(by Pranav Goswami, Athan Reines)_
+-   [`1dc5966`](https://github.com/stdlib-js/stdlib/commit/1dc5966c272972122ca1bf57382deab6c432a37d) - **docs:** update related packages sections [(#1361)](https://github.com/stdlib-js/stdlib/pull/1361) _(by stdlib-bot)_
 
 </details>
 
@@ -72,15 +256,2006 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Packages
 
+<section class="package" id="constants-v0.2.0">
+
+#### [@stdlib/constants](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-array-v0.2.0">
+
+#### [@stdlib/constants/array](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/array)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-array-max-array-length-v0.2.0">
+
+#### [@stdlib/constants/array/max-array-length](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/array/max-array-length)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-array-max-typed-array-length-v0.2.0">
+
+#### [@stdlib/constants/array/max-typed-array-length](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/array/max-typed-array-length)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex128-v0.2.0">
+
+#### [@stdlib/constants/complex128](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex128)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`2693e3b`](https://github.com/stdlib-js/stdlib/commit/2693e3b3f0382542a51fc57d78e9ab59e2dc0681) - update namespace TypeScript declarations [(#1287)](https://github.com/stdlib-js/stdlib/pull/1287)
+-   [`b4e9738`](https://github.com/stdlib-js/stdlib/commit/b4e9738801ab120901cc7887ab60dcd70f907003) - add `NAN` to namespace
+-   [`da9a837`](https://github.com/stdlib-js/stdlib/commit/da9a83733c9093ca37104a1aee52080db0633d42) - add `ZERO` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex128-nan-v0.2.0">
+
+#### [@stdlib/constants/complex128/nan](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex128/nan)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`ae6b648`](https://github.com/stdlib-js/stdlib/commit/ae6b6484d76ee2a2b319782b3630931cd5b481f9) - add `constants/complex128/nan`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex128-num-bytes-v0.2.0">
+
+#### [@stdlib/constants/complex128/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex128/num-bytes)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex128-zero-v0.2.0">
+
+#### [@stdlib/constants/complex128/zero](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex128/zero)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`363c9ab`](https://github.com/stdlib-js/stdlib/commit/363c9ab8e51b79d66a7fe0f7fb8f2b73514ef499) - add `constants/complex128/zero`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex64-v0.2.0">
+
+#### [@stdlib/constants/complex64](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex64)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`2693e3b`](https://github.com/stdlib-js/stdlib/commit/2693e3b3f0382542a51fc57d78e9ab59e2dc0681) - update namespace TypeScript declarations [(#1287)](https://github.com/stdlib-js/stdlib/pull/1287)
+-   [`089711c`](https://github.com/stdlib-js/stdlib/commit/089711c358ff6a97b4dbf7908517411c9066394a) - add `NAN` to namespace
+-   [`efe02b7`](https://github.com/stdlib-js/stdlib/commit/efe02b7776228c9a7f3b44c21bf3dfa2e4f188bc) - add `ZERO` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex64-nan-v0.2.0">
+
+#### [@stdlib/constants/complex64/nan](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex64/nan)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`3954840`](https://github.com/stdlib-js/stdlib/commit/395484079090fa10ebb9d14324a0e74b179e22f7) - add `constants/complex64/nan`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex64-num-bytes-v0.2.0">
+
+#### [@stdlib/constants/complex64/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex64/num-bytes)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex64-zero-v0.2.0">
+
+#### [@stdlib/constants/complex64/zero](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex64/zero)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`9985ecf`](https://github.com/stdlib-js/stdlib/commit/9985ecf21fe876a2d91061e7b54bd79a8b5b8d07) - add `constants/complex64/zero`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-v0.2.0">
+
+#### [@stdlib/constants/float16](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-cbrt-eps-v0.2.0">
+
+#### [@stdlib/constants/float16/cbrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/cbrt-eps)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-eps-v0.2.0">
+
+#### [@stdlib/constants/float16/eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/eps)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-exponent-bias-v0.2.0">
+
+#### [@stdlib/constants/float16/exponent-bias](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/exponent-bias)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-max-v0.2.0">
+
+#### [@stdlib/constants/float16/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/max)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-max-safe-integer-v0.2.0">
+
+#### [@stdlib/constants/float16/max-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/max-safe-integer)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-min-safe-integer-v0.2.0">
+
+#### [@stdlib/constants/float16/min-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/min-safe-integer)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-ninf-v0.2.0">
+
+#### [@stdlib/constants/float16/ninf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/ninf)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-num-bytes-v0.2.0">
+
+#### [@stdlib/constants/float16/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/num-bytes)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-pinf-v0.2.0">
+
+#### [@stdlib/constants/float16/pinf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/pinf)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-precision-v0.2.0">
+
+#### [@stdlib/constants/float16/precision](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/precision)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-smallest-normal-v0.2.0">
+
+#### [@stdlib/constants/float16/smallest-normal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/smallest-normal)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-smallest-subnormal-v0.2.0">
+
+#### [@stdlib/constants/float16/smallest-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/smallest-subnormal)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-sqrt-eps-v0.2.0">
+
+#### [@stdlib/constants/float16/sqrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/sqrt-eps)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-v0.2.0">
+
+#### [@stdlib/constants/float32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`2693e3b`](https://github.com/stdlib-js/stdlib/commit/2693e3b3f0382542a51fc57d78e9ab59e2dc0681) - update namespace TypeScript declarations [(#1287)](https://github.com/stdlib-js/stdlib/pull/1287)
+-   [`219f6a3`](https://github.com/stdlib-js/stdlib/commit/219f6a34dea45336fd2fb8edc9bde14c97b078a4) - add `NAN` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-abs-mask-v0.2.0">
+
+#### [@stdlib/constants/float32/abs-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/abs-mask)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-cbrt-eps-v0.2.0">
+
+#### [@stdlib/constants/float32/cbrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/cbrt-eps)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-eps-v0.2.0">
+
+#### [@stdlib/constants/float32/eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/eps)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-exponent-bias-v0.2.0">
+
+#### [@stdlib/constants/float32/exponent-bias](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/exponent-bias)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-exponent-mask-v0.2.0">
+
+#### [@stdlib/constants/float32/exponent-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/exponent-mask)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-max-v0.2.0">
+
+#### [@stdlib/constants/float32/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-max-safe-integer-v0.2.0">
+
+#### [@stdlib/constants/float32/max-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-integer)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-min-safe-integer-v0.2.0">
+
+#### [@stdlib/constants/float32/min-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/min-safe-integer)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-nan-v0.2.0">
+
+#### [@stdlib/constants/float32/nan](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/nan)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`ff424f9`](https://github.com/stdlib-js/stdlib/commit/ff424f9ec44b20c9d8f6e73af4076af9ace49990) - add `constants/float32/nan`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-ninf-v0.2.0">
+
+#### [@stdlib/constants/float32/ninf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/ninf)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-num-bytes-v0.2.0">
+
+#### [@stdlib/constants/float32/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/num-bytes)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-pinf-v0.2.0">
+
+#### [@stdlib/constants/float32/pinf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/pinf)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-precision-v0.2.0">
+
+#### [@stdlib/constants/float32/precision](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/precision)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-sign-mask-v0.2.0">
+
+#### [@stdlib/constants/float32/sign-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sign-mask)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-significand-mask-v0.2.0">
+
+#### [@stdlib/constants/float32/significand-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/significand-mask)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-smallest-normal-v0.2.0">
+
+#### [@stdlib/constants/float32/smallest-normal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/smallest-normal)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-smallest-subnormal-v0.2.0">
+
+#### [@stdlib/constants/float32/smallest-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/smallest-subnormal)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-sqrt-eps-v0.2.0">
+
+#### [@stdlib/constants/float32/sqrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-eps)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-v0.2.0">
+
+#### [@stdlib/constants/float64](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`2693e3b`](https://github.com/stdlib-js/stdlib/commit/2693e3b3f0382542a51fc57d78e9ab59e2dc0681) - update namespace TypeScript declarations [(#1287)](https://github.com/stdlib-js/stdlib/pull/1287)
+-   [`3fb9e5d`](https://github.com/stdlib-js/stdlib/commit/3fb9e5d81606dbd41727d79a7efb897551b94a72) - add `NAN` to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-apery-v0.2.0">
+
+#### [@stdlib/constants/float64/apery](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/apery)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-catalan-v0.2.0">
+
+#### [@stdlib/constants/float64/catalan](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/catalan)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-cbrt-eps-v0.2.0">
+
+#### [@stdlib/constants/float64/cbrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/cbrt-eps)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-e-v0.2.0">
+
+#### [@stdlib/constants/float64/e](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/e)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-eps-v0.2.0">
+
+#### [@stdlib/constants/float64/eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/eps)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-eulergamma-v0.2.0">
+
+#### [@stdlib/constants/float64/eulergamma](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/eulergamma)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-exponent-bias-v0.2.0">
+
+#### [@stdlib/constants/float64/exponent-bias](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/exponent-bias)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-fourth-pi-v0.2.0">
+
+#### [@stdlib/constants/float64/fourth-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/fourth-pi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-fourth-root-eps-v0.2.0">
+
+#### [@stdlib/constants/float64/fourth-root-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/fourth-root-eps)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-gamma-lanczos-g-v0.2.0">
+
+#### [@stdlib/constants/float64/gamma-lanczos-g](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/gamma-lanczos-g)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-glaisher-kinkelin-v0.2.0">
+
+#### [@stdlib/constants/float64/glaisher-kinkelin](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/glaisher-kinkelin)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-half-ln-two-v0.2.0">
+
+#### [@stdlib/constants/float64/half-ln-two](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/half-ln-two)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-half-pi-v0.2.0">
+
+#### [@stdlib/constants/float64/half-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/half-pi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-high-word-abs-mask-v0.2.0">
+
+#### [@stdlib/constants/float64/high-word-abs-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/high-word-abs-mask)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-high-word-exponent-mask-v0.2.0">
+
+#### [@stdlib/constants/float64/high-word-exponent-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/high-word-exponent-mask)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-high-word-sign-mask-v0.2.0">
+
+#### [@stdlib/constants/float64/high-word-sign-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/high-word-sign-mask)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-high-word-significand-mask-v0.2.0">
+
+#### [@stdlib/constants/float64/high-word-significand-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/high-word-significand-mask)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-half-v0.2.0">
+
+#### [@stdlib/constants/float64/ln-half](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-half)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-pi-v0.2.0">
+
+#### [@stdlib/constants/float64/ln-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-pi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-sqrt-two-pi-v0.2.0">
+
+#### [@stdlib/constants/float64/ln-sqrt-two-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-sqrt-two-pi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-ten-v0.2.0">
+
+#### [@stdlib/constants/float64/ln-ten](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-ten)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-two-v0.2.0">
+
+#### [@stdlib/constants/float64/ln-two](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-two)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-two-pi-v0.2.0">
+
+#### [@stdlib/constants/float64/ln-two-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-two-pi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-log10-e-v0.2.0">
+
+#### [@stdlib/constants/float64/log10-e](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/log10-e)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-log2-e-v0.2.0">
+
+#### [@stdlib/constants/float64/log2-e](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/log2-e)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-v0.2.0">
+
+#### [@stdlib/constants/float64/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-base10-exponent-v0.2.0">
+
+#### [@stdlib/constants/float64/max-base10-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-base10-exponent)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-base10-exponent-subnormal-v0.2.0">
+
+#### [@stdlib/constants/float64/max-base10-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-base10-exponent-subnormal)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-base2-exponent-v0.2.0">
+
+#### [@stdlib/constants/float64/max-base2-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-base2-exponent)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-base2-exponent-subnormal-v0.2.0">
+
+#### [@stdlib/constants/float64/max-base2-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-base2-exponent-subnormal)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-ln-v0.2.0">
+
+#### [@stdlib/constants/float64/max-ln](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-ln)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-safe-fibonacci-v0.2.0">
+
+#### [@stdlib/constants/float64/max-safe-fibonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-fibonacci)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-safe-integer-v0.2.0">
+
+#### [@stdlib/constants/float64/max-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-integer)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-safe-lucas-v0.2.0">
+
+#### [@stdlib/constants/float64/max-safe-lucas](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-lucas)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-safe-nth-fibonacci-v0.2.0">
+
+#### [@stdlib/constants/float64/max-safe-nth-fibonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-fibonacci)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-safe-nth-lucas-v0.2.0">
+
+#### [@stdlib/constants/float64/max-safe-nth-lucas](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-lucas)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-base10-exponent-v0.2.0">
+
+#### [@stdlib/constants/float64/min-base10-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-base10-exponent)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-base10-exponent-subnormal-v0.2.0">
+
+#### [@stdlib/constants/float64/min-base10-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-base10-exponent-subnormal)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-base2-exponent-v0.2.0">
+
+#### [@stdlib/constants/float64/min-base2-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-base2-exponent)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-base2-exponent-subnormal-v0.2.0">
+
+#### [@stdlib/constants/float64/min-base2-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-base2-exponent-subnormal)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-ln-v0.2.0">
+
+#### [@stdlib/constants/float64/min-ln](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-ln)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-safe-integer-v0.2.0">
+
+#### [@stdlib/constants/float64/min-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-safe-integer)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-nan-v0.2.0">
+
+#### [@stdlib/constants/float64/nan](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/nan)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`0af5893`](https://github.com/stdlib-js/stdlib/commit/0af58939d9552fb8aa5f8ed57780841fb1078b98) - add `constants/float64/nan`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ninf-v0.2.0">
+
+#### [@stdlib/constants/float64/ninf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ninf)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-num-bytes-v0.2.0">
+
+#### [@stdlib/constants/float64/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/num-bytes)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-phi-v0.2.0">
+
+#### [@stdlib/constants/float64/phi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/phi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-pi-v0.2.0">
+
+#### [@stdlib/constants/float64/pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/pi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-pi-squared-v0.2.0">
+
+#### [@stdlib/constants/float64/pi-squared](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/pi-squared)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-pinf-v0.2.0">
+
+#### [@stdlib/constants/float64/pinf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/pinf)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-precision-v0.2.0">
+
+#### [@stdlib/constants/float64/precision](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/precision)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-smallest-normal-v0.2.0">
+
+#### [@stdlib/constants/float64/smallest-normal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/smallest-normal)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-smallest-subnormal-v0.2.0">
+
+#### [@stdlib/constants/float64/smallest-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/smallest-subnormal)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-eps-v0.2.0">
+
+#### [@stdlib/constants/float64/sqrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-eps)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-half-v0.2.0">
+
+#### [@stdlib/constants/float64/sqrt-half](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-half)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-half-pi-v0.2.0">
+
+#### [@stdlib/constants/float64/sqrt-half-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-half-pi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-phi-v0.2.0">
+
+#### [@stdlib/constants/float64/sqrt-phi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-phi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-pi-v0.2.0">
+
+#### [@stdlib/constants/float64/sqrt-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-pi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-three-v0.2.0">
+
+#### [@stdlib/constants/float64/sqrt-three](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-three)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-two-v0.2.0">
+
+#### [@stdlib/constants/float64/sqrt-two](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-two)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-two-pi-v0.2.0">
+
+#### [@stdlib/constants/float64/sqrt-two-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-two-pi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-two-pi-v0.2.0">
+
+#### [@stdlib/constants/float64/two-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/two-pi)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int16-v0.2.0">
+
+#### [@stdlib/constants/int16](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int16)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int16-max-v0.2.0">
+
+#### [@stdlib/constants/int16/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int16/max)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int16-min-v0.2.0">
+
+#### [@stdlib/constants/int16/min](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int16/min)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int16-num-bytes-v0.2.0">
+
+#### [@stdlib/constants/int16/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int16/num-bytes)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int32-v0.2.0">
+
+#### [@stdlib/constants/int32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int32)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int32-max-v0.2.0">
+
+#### [@stdlib/constants/int32/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int32/max)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int32-min-v0.2.0">
+
+#### [@stdlib/constants/int32/min](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int32/min)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int32-num-bytes-v0.2.0">
+
+#### [@stdlib/constants/int32/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int32/num-bytes)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int8-v0.2.0">
+
+#### [@stdlib/constants/int8](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int8)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int8-max-v0.2.0">
+
+#### [@stdlib/constants/int8/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int8/max)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int8-min-v0.2.0">
+
+#### [@stdlib/constants/int8/min](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int8/min)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int8-num-bytes-v0.2.0">
+
+#### [@stdlib/constants/int8/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int8/num-bytes)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-v0.2.0">
+
+#### [@stdlib/constants/path](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-delimiter-v0.2.0">
+
+#### [@stdlib/constants/path/delimiter](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/delimiter)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-delimiter-posix-v0.2.0">
+
+#### [@stdlib/constants/path/delimiter-posix](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/delimiter-posix)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-delimiter-win32-v0.2.0">
+
+#### [@stdlib/constants/path/delimiter-win32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/delimiter-win32)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-sep-v0.2.0">
+
+#### [@stdlib/constants/path/sep](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/sep)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-sep-posix-v0.2.0">
+
+#### [@stdlib/constants/path/sep-posix](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/sep-posix)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-sep-win32-v0.2.0">
+
+#### [@stdlib/constants/path/sep-win32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/sep-win32)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-v0.2.0">
+
+#### [@stdlib/constants/time](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-hours-in-day-v0.2.0">
+
+#### [@stdlib/constants/time/hours-in-day](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/hours-in-day)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-hours-in-week-v0.2.0">
+
+#### [@stdlib/constants/time/hours-in-week](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/hours-in-week)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-milliseconds-in-day-v0.2.0">
+
+#### [@stdlib/constants/time/milliseconds-in-day](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-day)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-milliseconds-in-hour-v0.2.0">
+
+#### [@stdlib/constants/time/milliseconds-in-hour](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-hour)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-milliseconds-in-minute-v0.2.0">
+
+#### [@stdlib/constants/time/milliseconds-in-minute](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-minute)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-milliseconds-in-second-v0.2.0">
+
+#### [@stdlib/constants/time/milliseconds-in-second](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-second)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-milliseconds-in-week-v0.2.0">
+
+#### [@stdlib/constants/time/milliseconds-in-week](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-week)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-minutes-in-day-v0.2.0">
+
+#### [@stdlib/constants/time/minutes-in-day](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/minutes-in-day)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-minutes-in-hour-v0.2.0">
+
+#### [@stdlib/constants/time/minutes-in-hour](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/minutes-in-hour)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-minutes-in-week-v0.2.0">
+
+#### [@stdlib/constants/time/minutes-in-week](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/minutes-in-week)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-months-in-year-v0.2.0">
+
+#### [@stdlib/constants/time/months-in-year](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/months-in-year)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-seconds-in-day-v0.2.0">
+
+#### [@stdlib/constants/time/seconds-in-day](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/seconds-in-day)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-seconds-in-hour-v0.2.0">
+
+#### [@stdlib/constants/time/seconds-in-hour](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/seconds-in-hour)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-seconds-in-minute-v0.2.0">
+
+#### [@stdlib/constants/time/seconds-in-minute](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/seconds-in-minute)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-seconds-in-week-v0.2.0">
+
+#### [@stdlib/constants/time/seconds-in-week](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/seconds-in-week)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint16-v0.2.0">
+
+#### [@stdlib/constants/uint16](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint16)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint16-max-v0.2.0">
+
+#### [@stdlib/constants/uint16/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint16/max)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint16-num-bytes-v0.2.0">
+
+#### [@stdlib/constants/uint16/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint16/num-bytes)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint32-v0.2.0">
+
+#### [@stdlib/constants/uint32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint32)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint32-max-v0.2.0">
+
+#### [@stdlib/constants/uint32/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint32/max)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint32-num-bytes-v0.2.0">
+
+#### [@stdlib/constants/uint32/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint32/num-bytes)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint8-v0.2.0">
+
+#### [@stdlib/constants/uint8](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint8-max-v0.2.0">
+
+#### [@stdlib/constants/uint8/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8/max)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint8-num-bytes-v0.2.0">
+
+#### [@stdlib/constants/uint8/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8/num-bytes)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-unicode-v0.2.0">
+
+#### [@stdlib/constants/unicode](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/unicode)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-unicode-max-v0.2.0">
+
+#### [@stdlib/constants/unicode/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/unicode/max)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-unicode-max-bmp-v0.2.0">
+
+#### [@stdlib/constants/unicode/max-bmp](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/unicode/max-bmp)
+
+<details>
+
+No changes reported for this release.</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 3 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Philipp Burckhardt
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 <section class="commits">
 
 ### Commits
 
 <details>
+
+-   [`18c2502`](https://github.com/stdlib-js/stdlib/commit/18c250220e23aa825b05ec5898927ea6b261ca43) - **docs:** update related packages sections [(#1303)](https://github.com/stdlib-js/stdlib/pull/1303) _(by stdlib-bot)_
+-   [`2693e3b`](https://github.com/stdlib-js/stdlib/commit/2693e3b3f0382542a51fc57d78e9ab59e2dc0681) - **feat:** update namespace TypeScript declarations [(#1287)](https://github.com/stdlib-js/stdlib/pull/1287) _(by stdlib-bot, Athan Reines)_
+-   [`322d1ca`](https://github.com/stdlib-js/stdlib/commit/322d1cac1bb150c548b5ad3b3086acd8e74a7bbd) - **docs:** update namespace table of contents [(#1284)](https://github.com/stdlib-js/stdlib/pull/1284) _(by stdlib-bot, Philipp Burckhardt)_
+-   [`f04074a`](https://github.com/stdlib-js/stdlib/commit/f04074abd0c151f1b92c58b8cd71ecb9279803e0) - **docs:** update related packages sections [(#1276)](https://github.com/stdlib-js/stdlib/pull/1276) _(by stdlib-bot)_
+-   [`1e909db`](https://github.com/stdlib-js/stdlib/commit/1e909dbafa41bfc46d3f5525a73b5f46cd7a5392) - **docs:** update related packages sections [(#1267)](https://github.com/stdlib-js/stdlib/pull/1267) _(by stdlib-bot)_
+-   [`219f6a3`](https://github.com/stdlib-js/stdlib/commit/219f6a34dea45336fd2fb8edc9bde14c97b078a4) - **feat:** add `NAN` to namespace _(by Athan Reines)_
+-   [`ff424f9`](https://github.com/stdlib-js/stdlib/commit/ff424f9ec44b20c9d8f6e73af4076af9ace49990) - **feat:** add `constants/float32/nan` _(by Athan Reines)_
+-   [`f02e6ff`](https://github.com/stdlib-js/stdlib/commit/f02e6ff23ce7b40c06f816772fb8722a03094a19) - **docs:** fix return annotation _(by Athan Reines)_
+-   [`3fb9e5d`](https://github.com/stdlib-js/stdlib/commit/3fb9e5d81606dbd41727d79a7efb897551b94a72) - **feat:** add `NAN` to namespace _(by Athan Reines)_
+-   [`0af5893`](https://github.com/stdlib-js/stdlib/commit/0af58939d9552fb8aa5f8ed57780841fb1078b98) - **feat:** add `constants/float64/nan` _(by Athan Reines)_
+-   [`089711c`](https://github.com/stdlib-js/stdlib/commit/089711c358ff6a97b4dbf7908517411c9066394a) - **feat:** add `NAN` to namespace _(by Athan Reines)_
+-   [`3954840`](https://github.com/stdlib-js/stdlib/commit/395484079090fa10ebb9d14324a0e74b179e22f7) - **feat:** add `constants/complex64/nan` _(by Athan Reines)_
+-   [`b4e9738`](https://github.com/stdlib-js/stdlib/commit/b4e9738801ab120901cc7887ab60dcd70f907003) - **feat:** add `NAN` to namespace _(by Athan Reines)_
+-   [`ae6b648`](https://github.com/stdlib-js/stdlib/commit/ae6b6484d76ee2a2b319782b3630931cd5b481f9) - **feat:** add `constants/complex128/nan` _(by Athan Reines)_
+-   [`efe02b7`](https://github.com/stdlib-js/stdlib/commit/efe02b7776228c9a7f3b44c21bf3dfa2e4f188bc) - **feat:** add `ZERO` to namespace _(by Athan Reines)_
+-   [`9985ecf`](https://github.com/stdlib-js/stdlib/commit/9985ecf21fe876a2d91061e7b54bd79a8b5b8d07) - **feat:** add `constants/complex64/zero` _(by Athan Reines)_
+-   [`da9a837`](https://github.com/stdlib-js/stdlib/commit/da9a83733c9093ca37104a1aee52080db0633d42) - **feat:** add `ZERO` to namespace _(by Athan Reines)_
+-   [`363c9ab`](https://github.com/stdlib-js/stdlib/commit/363c9ab8e51b79d66a7fe0f7fb8f2b73514ef499) - **feat:** add `constants/complex128/zero` _(by Athan Reines)_
+-   [`dea49e0`](https://github.com/stdlib-js/stdlib/commit/dea49e03ab5571233e3da26835a6a6d3256d5737) - **docs:** use single quotes in require calls instead of backticks _(by Philipp Burckhardt)_
+-   [`9502ed2`](https://github.com/stdlib-js/stdlib/commit/9502ed27e2853e312c556a48bdd7775095e66709) - **build:** replace tslint directive with eslint equivalent _(by Philipp Burckhardt)_
+-   [`46d049b`](https://github.com/stdlib-js/stdlib/commit/46d049b5d38f9ef6e426d6a517ac8925c94d7642) - **build:** replace tslint directive _(by Philipp Burckhardt)_
+-   [`8c0007b`](https://github.com/stdlib-js/stdlib/commit/8c0007b16f8e658ca071e2e28a2fa21188966a4d) - **docs:** update links _(by Athan Reines)_
 
 </details>
 
@@ -116,15 +2291,5240 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 ### Packages
 
+<section class="package" id="constants-v0.1.0">
+
+#### [@stdlib/constants](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-array-v0.1.0">
+
+#### [@stdlib/constants/array](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/array)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-array-max-array-length-v0.1.0">
+
+#### [@stdlib/constants/array/max-array-length](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/array/max-array-length)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-array-max-typed-array-length-v0.1.0">
+
+#### [@stdlib/constants/array/max-typed-array-length](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/array/max-typed-array-length)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex128-v0.1.0">
+
+#### [@stdlib/constants/complex128](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex128)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex128-num-bytes-v0.1.0">
+
+#### [@stdlib/constants/complex128/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex128/num-bytes)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex64-v0.1.0">
+
+#### [@stdlib/constants/complex64](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex64)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-complex64-num-bytes-v0.1.0">
+
+#### [@stdlib/constants/complex64/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/complex64/num-bytes)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-v0.1.0">
+
+#### [@stdlib/constants/float16](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-cbrt-eps-v0.1.0">
+
+#### [@stdlib/constants/float16/cbrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/cbrt-eps)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-eps-v0.1.0">
+
+#### [@stdlib/constants/float16/eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/eps)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-exponent-bias-v0.1.0">
+
+#### [@stdlib/constants/float16/exponent-bias](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/exponent-bias)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-max-v0.1.0">
+
+#### [@stdlib/constants/float16/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/max)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-max-safe-integer-v0.1.0">
+
+#### [@stdlib/constants/float16/max-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/max-safe-integer)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-min-safe-integer-v0.1.0">
+
+#### [@stdlib/constants/float16/min-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/min-safe-integer)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-ninf-v0.1.0">
+
+#### [@stdlib/constants/float16/ninf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/ninf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-num-bytes-v0.1.0">
+
+#### [@stdlib/constants/float16/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/num-bytes)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-pinf-v0.1.0">
+
+#### [@stdlib/constants/float16/pinf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/pinf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-precision-v0.1.0">
+
+#### [@stdlib/constants/float16/precision](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/precision)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-smallest-normal-v0.1.0">
+
+#### [@stdlib/constants/float16/smallest-normal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/smallest-normal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-smallest-subnormal-v0.1.0">
+
+#### [@stdlib/constants/float16/smallest-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/smallest-subnormal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float16-sqrt-eps-v0.1.0">
+
+#### [@stdlib/constants/float16/sqrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float16/sqrt-eps)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-v0.1.0">
+
+#### [@stdlib/constants/float32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-abs-mask-v0.1.0">
+
+#### [@stdlib/constants/float32/abs-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/abs-mask)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-cbrt-eps-v0.1.0">
+
+#### [@stdlib/constants/float32/cbrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/cbrt-eps)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-eps-v0.1.0">
+
+#### [@stdlib/constants/float32/eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/eps)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-exponent-bias-v0.1.0">
+
+#### [@stdlib/constants/float32/exponent-bias](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/exponent-bias)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-exponent-mask-v0.1.0">
+
+#### [@stdlib/constants/float32/exponent-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/exponent-mask)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-max-v0.1.0">
+
+#### [@stdlib/constants/float32/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-max-safe-integer-v0.1.0">
+
+#### [@stdlib/constants/float32/max-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-integer)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-min-safe-integer-v0.1.0">
+
+#### [@stdlib/constants/float32/min-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/min-safe-integer)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-ninf-v0.1.0">
+
+#### [@stdlib/constants/float32/ninf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/ninf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-num-bytes-v0.1.0">
+
+#### [@stdlib/constants/float32/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/num-bytes)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-pinf-v0.1.0">
+
+#### [@stdlib/constants/float32/pinf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/pinf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-precision-v0.1.0">
+
+#### [@stdlib/constants/float32/precision](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/precision)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-sign-mask-v0.1.0">
+
+#### [@stdlib/constants/float32/sign-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sign-mask)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`b4dbeae`](https://github.com/stdlib-js/stdlib/commit/b4dbeaebb752c2494a156cd6f92d7055bea024ec) - set correct package names
+
+</section>
+
+<!-- /.bug-fixes -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-significand-mask-v0.1.0">
+
+#### [@stdlib/constants/float32/significand-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/significand-mask)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-smallest-normal-v0.1.0">
+
+#### [@stdlib/constants/float32/smallest-normal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/smallest-normal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-smallest-subnormal-v0.1.0">
+
+#### [@stdlib/constants/float32/smallest-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/smallest-subnormal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-sqrt-eps-v0.1.0">
+
+#### [@stdlib/constants/float32/sqrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-eps)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-v0.1.0">
+
+#### [@stdlib/constants/float64](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-apery-v0.1.0">
+
+#### [@stdlib/constants/float64/apery](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/apery)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-catalan-v0.1.0">
+
+#### [@stdlib/constants/float64/catalan](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/catalan)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-cbrt-eps-v0.1.0">
+
+#### [@stdlib/constants/float64/cbrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/cbrt-eps)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-e-v0.1.0">
+
+#### [@stdlib/constants/float64/e](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/e)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-eps-v0.1.0">
+
+#### [@stdlib/constants/float64/eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/eps)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-eulergamma-v0.1.0">
+
+#### [@stdlib/constants/float64/eulergamma](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/eulergamma)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-exponent-bias-v0.1.0">
+
+#### [@stdlib/constants/float64/exponent-bias](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/exponent-bias)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-fourth-pi-v0.1.0">
+
+#### [@stdlib/constants/float64/fourth-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/fourth-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-fourth-root-eps-v0.1.0">
+
+#### [@stdlib/constants/float64/fourth-root-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/fourth-root-eps)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-gamma-lanczos-g-v0.1.0">
+
+#### [@stdlib/constants/float64/gamma-lanczos-g](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/gamma-lanczos-g)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-glaisher-kinkelin-v0.1.0">
+
+#### [@stdlib/constants/float64/glaisher-kinkelin](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/glaisher-kinkelin)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-half-ln-two-v0.1.0">
+
+#### [@stdlib/constants/float64/half-ln-two](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/half-ln-two)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-half-pi-v0.1.0">
+
+#### [@stdlib/constants/float64/half-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/half-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-high-word-abs-mask-v0.1.0">
+
+#### [@stdlib/constants/float64/high-word-abs-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/high-word-abs-mask)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-high-word-exponent-mask-v0.1.0">
+
+#### [@stdlib/constants/float64/high-word-exponent-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/high-word-exponent-mask)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-high-word-sign-mask-v0.1.0">
+
+#### [@stdlib/constants/float64/high-word-sign-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/high-word-sign-mask)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-high-word-significand-mask-v0.1.0">
+
+#### [@stdlib/constants/float64/high-word-significand-mask](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/high-word-significand-mask)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-half-v0.1.0">
+
+#### [@stdlib/constants/float64/ln-half](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-half)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-pi-v0.1.0">
+
+#### [@stdlib/constants/float64/ln-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-sqrt-two-pi-v0.1.0">
+
+#### [@stdlib/constants/float64/ln-sqrt-two-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-sqrt-two-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-ten-v0.1.0">
+
+#### [@stdlib/constants/float64/ln-ten](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-ten)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-two-v0.1.0">
+
+#### [@stdlib/constants/float64/ln-two](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-two)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ln-two-pi-v0.1.0">
+
+#### [@stdlib/constants/float64/ln-two-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ln-two-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-log10-e-v0.1.0">
+
+#### [@stdlib/constants/float64/log10-e](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/log10-e)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-log2-e-v0.1.0">
+
+#### [@stdlib/constants/float64/log2-e](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/log2-e)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-v0.1.0">
+
+#### [@stdlib/constants/float64/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-base10-exponent-v0.1.0">
+
+#### [@stdlib/constants/float64/max-base10-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-base10-exponent)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-base10-exponent-subnormal-v0.1.0">
+
+#### [@stdlib/constants/float64/max-base10-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-base10-exponent-subnormal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-base2-exponent-v0.1.0">
+
+#### [@stdlib/constants/float64/max-base2-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-base2-exponent)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-base2-exponent-subnormal-v0.1.0">
+
+#### [@stdlib/constants/float64/max-base2-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-base2-exponent-subnormal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-ln-v0.1.0">
+
+#### [@stdlib/constants/float64/max-ln](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-ln)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-safe-fibonacci-v0.1.0">
+
+#### [@stdlib/constants/float64/max-safe-fibonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-fibonacci)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-safe-integer-v0.1.0">
+
+#### [@stdlib/constants/float64/max-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-integer)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-safe-lucas-v0.1.0">
+
+#### [@stdlib/constants/float64/max-safe-lucas](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-lucas)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-safe-nth-fibonacci-v0.1.0">
+
+#### [@stdlib/constants/float64/max-safe-nth-fibonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-fibonacci)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-max-safe-nth-lucas-v0.1.0">
+
+#### [@stdlib/constants/float64/max-safe-nth-lucas](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-lucas)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-base10-exponent-v0.1.0">
+
+#### [@stdlib/constants/float64/min-base10-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-base10-exponent)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-base10-exponent-subnormal-v0.1.0">
+
+#### [@stdlib/constants/float64/min-base10-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-base10-exponent-subnormal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-base2-exponent-v0.1.0">
+
+#### [@stdlib/constants/float64/min-base2-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-base2-exponent)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-base2-exponent-subnormal-v0.1.0">
+
+#### [@stdlib/constants/float64/min-base2-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-base2-exponent-subnormal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-ln-v0.1.0">
+
+#### [@stdlib/constants/float64/min-ln](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-ln)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-min-safe-integer-v0.1.0">
+
+#### [@stdlib/constants/float64/min-safe-integer](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/min-safe-integer)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-ninf-v0.1.0">
+
+#### [@stdlib/constants/float64/ninf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/ninf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-num-bytes-v0.1.0">
+
+#### [@stdlib/constants/float64/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/num-bytes)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-phi-v0.1.0">
+
+#### [@stdlib/constants/float64/phi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/phi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-pi-v0.1.0">
+
+#### [@stdlib/constants/float64/pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-pi-squared-v0.1.0">
+
+#### [@stdlib/constants/float64/pi-squared](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/pi-squared)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-pinf-v0.1.0">
+
+#### [@stdlib/constants/float64/pinf](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/pinf)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-precision-v0.1.0">
+
+#### [@stdlib/constants/float64/precision](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/precision)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-smallest-normal-v0.1.0">
+
+#### [@stdlib/constants/float64/smallest-normal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/smallest-normal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-smallest-subnormal-v0.1.0">
+
+#### [@stdlib/constants/float64/smallest-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/smallest-subnormal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-eps-v0.1.0">
+
+#### [@stdlib/constants/float64/sqrt-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-eps)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-half-v0.1.0">
+
+#### [@stdlib/constants/float64/sqrt-half](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-half)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-half-pi-v0.1.0">
+
+#### [@stdlib/constants/float64/sqrt-half-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-half-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-phi-v0.1.0">
+
+#### [@stdlib/constants/float64/sqrt-phi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-phi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-pi-v0.1.0">
+
+#### [@stdlib/constants/float64/sqrt-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-three-v0.1.0">
+
+#### [@stdlib/constants/float64/sqrt-three](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-three)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-two-v0.1.0">
+
+#### [@stdlib/constants/float64/sqrt-two](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-two)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-sqrt-two-pi-v0.1.0">
+
+#### [@stdlib/constants/float64/sqrt-two-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/sqrt-two-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float64-two-pi-v0.1.0">
+
+#### [@stdlib/constants/float64/two-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/two-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int16-v0.1.0">
+
+#### [@stdlib/constants/int16](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int16)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int16-max-v0.1.0">
+
+#### [@stdlib/constants/int16/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int16/max)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int16-min-v0.1.0">
+
+#### [@stdlib/constants/int16/min](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int16/min)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int16-num-bytes-v0.1.0">
+
+#### [@stdlib/constants/int16/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int16/num-bytes)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int32-v0.1.0">
+
+#### [@stdlib/constants/int32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int32)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int32-max-v0.1.0">
+
+#### [@stdlib/constants/int32/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int32/max)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int32-min-v0.1.0">
+
+#### [@stdlib/constants/int32/min](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int32/min)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int32-num-bytes-v0.1.0">
+
+#### [@stdlib/constants/int32/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int32/num-bytes)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int8-v0.1.0">
+
+#### [@stdlib/constants/int8](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int8)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int8-max-v0.1.0">
+
+#### [@stdlib/constants/int8/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int8/max)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int8-min-v0.1.0">
+
+#### [@stdlib/constants/int8/min](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int8/min)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-int8-num-bytes-v0.1.0">
+
+#### [@stdlib/constants/int8/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int8/num-bytes)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-v0.1.0">
+
+#### [@stdlib/constants/path](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-delimiter-v0.1.0">
+
+#### [@stdlib/constants/path/delimiter](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/delimiter)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-delimiter-posix-v0.1.0">
+
+#### [@stdlib/constants/path/delimiter-posix](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/delimiter-posix)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-delimiter-win32-v0.1.0">
+
+#### [@stdlib/constants/path/delimiter-win32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/delimiter-win32)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-sep-v0.1.0">
+
+#### [@stdlib/constants/path/sep](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/sep)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-sep-posix-v0.1.0">
+
+#### [@stdlib/constants/path/sep-posix](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/sep-posix)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-path-sep-win32-v0.1.0">
+
+#### [@stdlib/constants/path/sep-win32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/path/sep-win32)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-v0.1.0">
+
+#### [@stdlib/constants/time](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-hours-in-day-v0.1.0">
+
+#### [@stdlib/constants/time/hours-in-day](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/hours-in-day)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-hours-in-week-v0.1.0">
+
+#### [@stdlib/constants/time/hours-in-week](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/hours-in-week)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-milliseconds-in-day-v0.1.0">
+
+#### [@stdlib/constants/time/milliseconds-in-day](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-day)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-milliseconds-in-hour-v0.1.0">
+
+#### [@stdlib/constants/time/milliseconds-in-hour](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-hour)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-milliseconds-in-minute-v0.1.0">
+
+#### [@stdlib/constants/time/milliseconds-in-minute](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-minute)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-milliseconds-in-second-v0.1.0">
+
+#### [@stdlib/constants/time/milliseconds-in-second](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-second)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-milliseconds-in-week-v0.1.0">
+
+#### [@stdlib/constants/time/milliseconds-in-week](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/milliseconds-in-week)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-minutes-in-day-v0.1.0">
+
+#### [@stdlib/constants/time/minutes-in-day](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/minutes-in-day)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-minutes-in-hour-v0.1.0">
+
+#### [@stdlib/constants/time/minutes-in-hour](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/minutes-in-hour)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-minutes-in-week-v0.1.0">
+
+#### [@stdlib/constants/time/minutes-in-week](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/minutes-in-week)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-months-in-year-v0.1.0">
+
+#### [@stdlib/constants/time/months-in-year](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/months-in-year)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-seconds-in-day-v0.1.0">
+
+#### [@stdlib/constants/time/seconds-in-day](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/seconds-in-day)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-seconds-in-hour-v0.1.0">
+
+#### [@stdlib/constants/time/seconds-in-hour](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/seconds-in-hour)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-seconds-in-minute-v0.1.0">
+
+#### [@stdlib/constants/time/seconds-in-minute](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/seconds-in-minute)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-time-seconds-in-week-v0.1.0">
+
+#### [@stdlib/constants/time/seconds-in-week](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/time/seconds-in-week)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint16-v0.1.0">
+
+#### [@stdlib/constants/uint16](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint16)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint16-max-v0.1.0">
+
+#### [@stdlib/constants/uint16/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint16/max)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint16-num-bytes-v0.1.0">
+
+#### [@stdlib/constants/uint16/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint16/num-bytes)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint32-v0.1.0">
+
+#### [@stdlib/constants/uint32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint32)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint32-max-v0.1.0">
+
+#### [@stdlib/constants/uint32/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint32/max)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint32-num-bytes-v0.1.0">
+
+#### [@stdlib/constants/uint32/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint32/num-bytes)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint8-v0.1.0">
+
+#### [@stdlib/constants/uint8](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint8-max-v0.1.0">
+
+#### [@stdlib/constants/uint8/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8/max)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-uint8-num-bytes-v0.1.0">
+
+#### [@stdlib/constants/uint8/num-bytes](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/uint8/num-bytes)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-unicode-v0.1.0">
+
+#### [@stdlib/constants/unicode](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/unicode)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-unicode-max-v0.1.0">
+
+#### [@stdlib/constants/unicode/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/unicode/max)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-unicode-max-bmp-v0.1.0">
+
+#### [@stdlib/constants/unicode/max-bmp](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/unicode/max-bmp)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - update minimum TypeScript version
+
+</section>
+
+<!-- /.features -->
+
+<section class="breaking-changes">
+
+##### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1): update minimum TypeScript version to 4.1 
+
+    -   To migrate, users should upgrade their TypeScript version to at least version 4.1.
+
+</section>
+
+<!-- /.breaking-changes -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 1 person contributed to this release. Thank you to this contributor:
+
+-   Philipp Burckhardt
+
+</section>
+
+<!-- /.contributors -->
 
 <section class="commits">
 
 ### Commits
 
 <details>
+
+-   [`d73bbf4`](https://github.com/stdlib-js/stdlib/commit/d73bbf43d222f935085f8ecf7526e5f57835f74e) - **build:** replace lint directives _(by Philipp Burckhardt)_
+-   [`56e6edf`](https://github.com/stdlib-js/stdlib/commit/56e6edfcdf0dda1a348a92a67378729861cf24e1) - **feat:** update minimum TypeScript version _(by Philipp Burckhardt)_
+-   [`0f7b23e`](https://github.com/stdlib-js/stdlib/commit/0f7b23ef72389956902bcceb4fc54d9d9b74d681) - **build:** harmonize location for packages with and without deps _(by Philipp Burckhardt)_
+-   [`ce9463d`](https://github.com/stdlib-js/stdlib/commit/ce9463d3204dc1613398a3007a2f92c776d9c70c) - **test:** update test messages _(by Philipp Burckhardt)_
+-   [`874a610`](https://github.com/stdlib-js/stdlib/commit/874a610dccfd314582b3817f6eeb16771c34cf6b) - **build:** restrict coverage filter and guard against division by zero _(by Philipp Burckhardt)_
+-   [`b4dbeae`](https://github.com/stdlib-js/stdlib/commit/b4dbeaebb752c2494a156cd6f92d7055bea024ec) - **fix:** set correct package names _(by Philipp Burckhardt)_
+-   [`11b2b38`](https://github.com/stdlib-js/stdlib/commit/11b2b3850a34ffa1637b5efed3f83e3211fbb5c4) - **test:** use strictEqual checks _(by Philipp Burckhardt)_
+-   [`7ecae4f`](https://github.com/stdlib-js/stdlib/commit/7ecae4f1920da0c72d041b6b9e5c0fc5ec5b3500) - **chore:** resolve lint errors _(by Philipp Burckhardt)_
+-   [`06a96f2`](https://github.com/stdlib-js/stdlib/commit/06a96f27e64381fa4d747397071f9f8220c3d2b5) - **docs:** render equations via math code blocks _(by Philipp Burckhardt)_
 
 </details>
 
