@@ -108,6 +108,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-min-base2-exponent-subnormal-unreleased">
+
+#### [@stdlib/constants/float32/min-base2-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/min-base2-exponent-subnormal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`7b77290`](https://github.com/stdlib-js/stdlib/commit/7b7729066379e5ac5f56add760821ef1f62c6db8) - add `constants/float32/min-base2-exponent-subnormal` [(#2750)](https://github.com/stdlib-js/stdlib/pull/2750)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-phi-unreleased">
 
 #### [@stdlib/constants/float32/phi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/phi)
@@ -242,6 +264,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`7b77290`](https://github.com/stdlib-js/stdlib/commit/7b7729066379e5ac5f56add760821ef1f62c6db8) - **feat:** add `constants/float32/min-base2-exponent-subnormal` [(#2750)](https://github.com/stdlib-js/stdlib/pull/2750) _(by Gunj Joshi)_
 -   [`130c7a5`](https://github.com/stdlib-js/stdlib/commit/130c7a5c01c584fd0b1f68d70f929a69de50456f) - **feat:** add `constants/float32/max-base2-exponent-subnormal` [(#2749)](https://github.com/stdlib-js/stdlib/pull/2749) _(by Gunj Joshi)_
 -   [`45d6f9d`](https://github.com/stdlib-js/stdlib/commit/45d6f9d7eb0de90838af46bfcc28ee19b0a4d307) - **feat:** add `constants/float32/max-base2-exponent` [(#2748)](https://github.com/stdlib-js/stdlib/pull/2748) _(by Gunj Joshi)_
 -   [`86a4ebc`](https://github.com/stdlib-js/stdlib/commit/86a4ebc428071bd60529c554881fbb6dab633cdd) - **feat:** add `constants/float64/max-safe-nth-factorial` [(#2633)](https://github.com/stdlib-js/stdlib/pull/2633 ) _(by Gunj Joshi)_
