@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-03)
+## Unreleased (2024-08-06)
 
 <section class="packages">
 
@@ -57,6 +57,28 @@
 </section>
 
 <!-- /.bug-fixes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-max-base2-exponent-unreleased">
+
+#### [@stdlib/constants/float32/max-base2-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-base2-exponent)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`45d6f9d`](https://github.com/stdlib-js/stdlib/commit/45d6f9d7eb0de90838af46bfcc28ee19b0a4d307) - add `constants/float32/max-base2-exponent` [(#2748)](https://github.com/stdlib-js/stdlib/pull/2748)
+
+</section>
+
+<!-- /.features -->
 
 </details>
 
@@ -198,6 +220,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`45d6f9d`](https://github.com/stdlib-js/stdlib/commit/45d6f9d7eb0de90838af46bfcc28ee19b0a4d307) - **feat:** add `constants/float32/max-base2-exponent` [(#2748)](https://github.com/stdlib-js/stdlib/pull/2748) _(by Gunj Joshi)_
 -   [`86a4ebc`](https://github.com/stdlib-js/stdlib/commit/86a4ebc428071bd60529c554881fbb6dab633cdd) - **feat:** add `constants/float64/max-safe-nth-factorial` [(#2633)](https://github.com/stdlib-js/stdlib/pull/2633 ) _(by Gunj Joshi)_
 -   [`32bbcb3`](https://github.com/stdlib-js/stdlib/commit/32bbcb3b3dae1f028fd18166ee7875a93d44d0ee) - **refactor:** update paths _(by Athan Reines)_
 -   [`8d4c46b`](https://github.com/stdlib-js/stdlib/commit/8d4c46b10ca912401e0ff0caa37a17cd3c443c2f) - **refactor:** update paths _(by Athan Reines)_
