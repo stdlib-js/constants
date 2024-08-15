@@ -144,6 +144,16 @@
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`2bd8dad`](https://github.com/stdlib-js/stdlib/commit/2bd8dad23915360136774f656edab87d017a2201) - update directory name [(#2795)](https://github.com/stdlib-js/stdlib/pull/2795)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 </details>
 
 </section>
@@ -284,6 +294,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`2bd8dad`](https://github.com/stdlib-js/stdlib/commit/2bd8dad23915360136774f656edab87d017a2201) - **fix:** update directory name [(#2795)](https://github.com/stdlib-js/stdlib/pull/2795) _(by Gunj Joshi)_
 -   [`a6c6531`](https://github.com/stdlib-js/stdlib/commit/a6c6531b274691265f245206cdd81ee53828ac3e) - **fix:** update directory name [(#2797)](https://github.com/stdlib-js/stdlib/pull/2797) _(by Gunj Joshi)_
 -   [`b7dd00a`](https://github.com/stdlib-js/stdlib/commit/b7dd00ae1d21874e9bab5b3e8546b2e91e02ab6d) - **fix:** update directory name [(#2796)](https://github.com/stdlib-js/stdlib/pull/2796) _(by Gunj Joshi)_
 -   [`4ceec1a`](https://github.com/stdlib-js/stdlib/commit/4ceec1a04ca53795d43cca6264a957a369b825d8) - **docs:** fix comment [(#2756)](https://github.com/stdlib-js/stdlib/pull/2756) _(by Gunj Joshi)_
