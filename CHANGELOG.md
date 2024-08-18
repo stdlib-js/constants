@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="v0.3.1">
+
+## 0.3.1 (2024-08-18)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.0">
 
 ## 0.3.0 (2024-08-17)
@@ -10,7 +20,7 @@
 
 ### Packages
 
-<section class="package" id="constants-float32-fourth-pi-unreleased">
+<section class="package" id="constants-float32-fourth-pi-v0.3.0">
 
 #### [@stdlib/constants/float32/fourth-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/fourth-pi)
 
@@ -32,7 +42,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float32-half-pi-unreleased">
+<section class="package" id="constants-float32-half-pi-v0.3.0">
 
 #### [@stdlib/constants/float32/half-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/half-pi)
 
@@ -64,7 +74,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float32-max-base2-exponent-unreleased">
+<section class="package" id="constants-float32-max-base2-exponent-v0.3.0">
 
 #### [@stdlib/constants/float32/max-base2-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-base2-exponent)
 
@@ -96,7 +106,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float32-max-base2-exponent-subnormal-unreleased">
+<section class="package" id="constants-float32-max-base2-exponent-subnormal-v0.3.0">
 
 #### [@stdlib/constants/float32/max-base2-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-base2-exponent-subnormal)
 
@@ -128,7 +138,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float32-min-base2-exponent-subnormal-unreleased">
+<section class="package" id="constants-float32-min-base2-exponent-subnormal-v0.3.0">
 
 #### [@stdlib/constants/float32/min-base2-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/min-base2-exponent-subnormal)
 
@@ -160,7 +170,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float32-phi-unreleased">
+<section class="package" id="constants-float32-phi-v0.3.0">
 
 #### [@stdlib/constants/float32/phi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/phi)
 
@@ -182,7 +192,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float32-pi-unreleased">
+<section class="package" id="constants-float32-pi-v0.3.0">
 
 #### [@stdlib/constants/float32/pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/pi)
 
@@ -204,7 +214,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float32-two-pi-unreleased">
+<section class="package" id="constants-float32-two-pi-v0.3.0">
 
 #### [@stdlib/constants/float32/two-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/two-pi)
 
@@ -226,7 +236,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float64-max-safe-nth-factorial-unreleased">
+<section class="package" id="constants-float64-max-safe-nth-factorial-v0.3.0">
 
 #### [@stdlib/constants/float64/max-safe-nth-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-factorial)
 
@@ -248,7 +258,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-int32-max-unreleased">
+<section class="package" id="constants-int32-max-v0.3.0">
 
 #### [@stdlib/constants/int32/max](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/int32/max)
 
