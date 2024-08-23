@@ -2,6 +2,71 @@
 
 > Package changelog.
 
+<section class="release" id="unreleased">
+
+## Unreleased (2024-08-23)
+
+<section class="packages">
+
+### Packages
+
+<section class="package" id="constants-float32-max-safe-nth-factorial-unreleased">
+
+#### [@stdlib/constants/float32/max-safe-nth-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-nth-factorial)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`8552f2c`](https://github.com/stdlib-js/stdlib/commit/8552f2c71db0996da51c6170dd9dc834ac74a43c) - add `constants/float32/max-safe-nth-factorial` [(#2821)](https://github.com/stdlib-js/stdlib/pull/2821)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+</section>
+
+<!-- /.packages -->
+
+<section class="contributors">
+
+### Contributors
+
+A total of 2 people contributed to this release. Thank you to the following contributors:
+
+-   Athan Reines
+-   Gunj Joshi
+
+</section>
+
+<!-- /.contributors -->
+
+<section class="commits">
+
+### Commits
+
+<details>
+
+-   [`8552f2c`](https://github.com/stdlib-js/stdlib/commit/8552f2c71db0996da51c6170dd9dc834ac74a43c) - **feat:** add `constants/float32/max-safe-nth-factorial` [(#2821)](https://github.com/stdlib-js/stdlib/pull/2821) _(by Gunj Joshi, Athan Reines)_
+
+</details>
+
+</section>
+
+<!-- /.commits -->
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.1">
 
 ## 0.3.1 (2024-08-18)
