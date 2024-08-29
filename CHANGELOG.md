@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-08-23)
+## Unreleased (2024-08-29)
 
 <section class="packages">
 
@@ -21,6 +21,28 @@
 ##### Features
 
 -   [`8552f2c`](https://github.com/stdlib-js/stdlib/commit/8552f2c71db0996da51c6170dd9dc834ac74a43c) - add `constants/float32/max-safe-nth-factorial` [(#2821)](https://github.com/stdlib-js/stdlib/pull/2821)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-max-safe-nth-fibonacci-unreleased">
+
+#### [@stdlib/constants/float32/max-safe-nth-fibonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-nth-fibonacci)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`f4acf70`](https://github.com/stdlib-js/stdlib/commit/f4acf70af14b1fa8603858a6d6d0727b6c190e5a) - add `constants/float32/max-safe-nth-fibonacci` [(#2836)](https://github.com/stdlib-js/stdlib/pull/2836)
 
 </section>
 
@@ -55,6 +77,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`f4acf70`](https://github.com/stdlib-js/stdlib/commit/f4acf70af14b1fa8603858a6d6d0727b6c190e5a) - **feat:** add `constants/float32/max-safe-nth-fibonacci` [(#2836)](https://github.com/stdlib-js/stdlib/pull/2836) _(by Gunj Joshi)_
 -   [`8552f2c`](https://github.com/stdlib-js/stdlib/commit/8552f2c71db0996da51c6170dd9dc834ac74a43c) - **feat:** add `constants/float32/max-safe-nth-factorial` [(#2821)](https://github.com/stdlib-js/stdlib/pull/2821) _(by Gunj Joshi, Athan Reines)_
 
 </details>
