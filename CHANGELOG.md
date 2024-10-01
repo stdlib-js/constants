@@ -86,6 +86,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="constants-float64-max-safe-nth-double-factorial-unreleased">
+
+#### [@stdlib/constants/float64/max-safe-nth-double-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-double-factorial)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`d0ebce3`](https://github.com/stdlib-js/stdlib/commit/d0ebce3a1ed53532f2bee61096fa08400f534437) - add `constants/float64/max-safe-nth-double-factorial` [(#2966)](https://github.com/stdlib-js/stdlib/pull/2966)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float64-num-high-word-significand-bits-unreleased">
 
 #### [@stdlib/constants/float64/num-high-word-significand-bits](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/num-high-word-significand-bits)
@@ -131,6 +153,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`d0ebce3`](https://github.com/stdlib-js/stdlib/commit/d0ebce3a1ed53532f2bee61096fa08400f534437) - **feat:** add `constants/float64/max-safe-nth-double-factorial` [(#2966)](https://github.com/stdlib-js/stdlib/pull/2966) _(by Gunj Joshi, Athan Reines)_
 -   [`e6b6ffb`](https://github.com/stdlib-js/stdlib/commit/e6b6ffbbc11a52fe64529527ceb6e0afc2df31d1) - **feat:** add `constants/float32/max-safe-fibonacci` [(#2904)](https://github.com/stdlib-js/stdlib/pull/2904) _(by Gunj Joshi)_
 -   [`51787c8`](https://github.com/stdlib-js/stdlib/commit/51787c84fc5805a0144c2596ad8ac631470458b5) - **feat:** add `constants/float64/num-high-word-significand-bits` [(#2889)](https://github.com/stdlib-js/stdlib/pull/2889) _(by Gunj Joshi, Athan Reines)_
 -   [`511ae22`](https://github.com/stdlib-js/stdlib/commit/511ae22019022653f58464a98034b1821d979714) - **fix:** update folder name [(#2871)](https://github.com/stdlib-js/stdlib/pull/2871) _(by Gunj Joshi)_
