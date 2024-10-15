@@ -4,11 +4,33 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-10-01)
+## Unreleased (2024-10-15)
 
 <section class="packages">
 
 ### Packages
+
+<section class="package" id="constants-float32-half-ln-two-unreleased">
+
+#### [@stdlib/constants/float32/half-ln-two](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/half-ln-two)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`1dbc440`](https://github.com/stdlib-js/stdlib/commit/1dbc4400622b58ad2a2ad73d3ebd2c4e5703a0e6) - add `constants/float32/half-ln-two` [(#3010)](https://github.com/stdlib-js/stdlib/pull/3010)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
 
 <section class="package" id="constants-float32-max-safe-fibonacci-unreleased">
 
@@ -153,6 +175,7 @@ A total of 2 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`1dbc440`](https://github.com/stdlib-js/stdlib/commit/1dbc4400622b58ad2a2ad73d3ebd2c4e5703a0e6) - **feat:** add `constants/float32/half-ln-two` [(#3010)](https://github.com/stdlib-js/stdlib/pull/3010) _(by Gunj Joshi)_
 -   [`d0ebce3`](https://github.com/stdlib-js/stdlib/commit/d0ebce3a1ed53532f2bee61096fa08400f534437) - **feat:** add `constants/float64/max-safe-nth-double-factorial` [(#2966)](https://github.com/stdlib-js/stdlib/pull/2966) _(by Gunj Joshi, Athan Reines)_
 -   [`e6b6ffb`](https://github.com/stdlib-js/stdlib/commit/e6b6ffbbc11a52fe64529527ceb6e0afc2df31d1) - **feat:** add `constants/float32/max-safe-fibonacci` [(#2904)](https://github.com/stdlib-js/stdlib/pull/2904) _(by Gunj Joshi)_
 -   [`51787c8`](https://github.com/stdlib-js/stdlib/commit/51787c84fc5805a0144c2596ad8ac631470458b5) - **feat:** add `constants/float64/num-high-word-significand-bits` [(#2889)](https://github.com/stdlib-js/stdlib/pull/2889) _(by Gunj Joshi, Athan Reines)_
