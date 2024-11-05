@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@deno/mod.js';
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@v0.3.3-deno/mod.js';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { array, complex128, complex64, float16, float32, float64, int16, int32, int8, path, time, uint16, uint32, uint8, unicode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@deno/mod.js';
+import { array, complex128, complex64, float16, float32, float64, int16, int32, int8, path, time, uint16, uint32, uint8, unicode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@v0.3.3-deno/mod.js';
 ```
 
 #### constants
@@ -98,7 +98,7 @@ Constants are split across the the following sub-namespaces:
 
 ```javascript
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@deno/mod.js';
-import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@deno/mod.js';
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@v0.3.3-deno/mod.js';
 
 var out = constants.float64.PI;
 // returns ~3.142
