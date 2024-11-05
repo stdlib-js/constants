@@ -42,13 +42,13 @@ limitations under the License.
 ## Usage
 
 ```javascript
-import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@esm/index.mjs';
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@v0.3.3-esm/index.mjs';
 ```
 
 You can also import the following named exports from the package:
 
 ```javascript
-import { array, complex128, complex64, float16, float32, float64, int16, int32, int8, path, time, uint16, uint32, uint8, unicode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@esm/index.mjs';
+import { array, complex128, complex64, float16, float32, float64, int16, int32, int8, path, time, uint16, uint32, uint8, unicode } from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@v0.3.3-esm/index.mjs';
 ```
 
 #### constants
@@ -103,7 +103,7 @@ Constants are split across the the following sub-namespaces:
 <script type="module">
 
 import objectKeys from 'https://cdn.jsdelivr.net/gh/stdlib-js/utils/keys@esm/index.mjs';
-import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@esm/index.mjs';
+import constants from 'https://cdn.jsdelivr.net/gh/stdlib-js/constants@v0.3.3-esm/index.mjs';
 
 var out = constants.float64.PI;
 // returns ~3.142
