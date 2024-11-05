@@ -2,6 +2,16 @@
 
 > Package changelog.
 
+<section class="release" id="v0.3.3">
+
+## 0.3.3 (2024-11-05)
+
+No changes reported for this release.
+
+</section>
+
+<!-- /.release -->
+
 <section class="release" id="v0.3.2">
 
 ## 0.3.2 (2024-11-05)
@@ -10,7 +20,7 @@
 
 ### Packages
 
-<section class="package" id="constants-float32-half-ln-two-unreleased">
+<section class="package" id="constants-float32-half-ln-two-v0.3.2">
 
 #### [@stdlib/constants/float32/half-ln-two](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/half-ln-two)
 
@@ -32,7 +42,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float32-max-safe-fibonacci-unreleased">
+<section class="package" id="constants-float32-max-safe-fibonacci-v0.3.2">
 
 #### [@stdlib/constants/float32/max-safe-fibonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-fibonacci)
 
@@ -54,7 +64,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float32-max-safe-nth-factorial-unreleased">
+<section class="package" id="constants-float32-max-safe-nth-factorial-v0.3.2">
 
 #### [@stdlib/constants/float32/max-safe-nth-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-nth-factorial)
 
@@ -76,7 +86,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float32-max-safe-nth-fibonacci-unreleased">
+<section class="package" id="constants-float32-max-safe-nth-fibonacci-v0.3.2">
 
 #### [@stdlib/constants/float32/max-safe-nth-fibonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-nth-fibonacci)
 
@@ -108,7 +118,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float32-min-base2-exponent-unreleased">
+<section class="package" id="constants-float32-min-base2-exponent-v0.3.2">
 
 #### [@stdlib/constants/float32/min-base2-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/min-base2-exponent)
 
@@ -130,7 +140,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float64-max-safe-nth-double-factorial-unreleased">
+<section class="package" id="constants-float64-max-safe-nth-double-factorial-v0.3.2">
 
 #### [@stdlib/constants/float64/max-safe-nth-double-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-double-factorial)
 
@@ -152,7 +162,7 @@
 
 <!-- /.package -->
 
-<section class="package" id="constants-float64-num-high-word-significand-bits-unreleased">
+<section class="package" id="constants-float64-num-high-word-significand-bits-v0.3.2">
 
 #### [@stdlib/constants/float64/num-high-word-significand-bits](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/num-high-word-significand-bits)
 
