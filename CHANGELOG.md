@@ -66,6 +66,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-min-base10-exponent-unreleased">
+
+#### [@stdlib/constants/float32/min-base10-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/min-base10-exponent)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`824d519`](https://github.com/stdlib-js/stdlib/commit/824d5196406ebb5c9f73aedfd69d30fd6df0e2e0) - add `constants/float32/min-base10-exponent` [(#3092)](https://github.com/stdlib-js/stdlib/pull/3092)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -102,6 +124,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`824d519`](https://github.com/stdlib-js/stdlib/commit/824d5196406ebb5c9f73aedfd69d30fd6df0e2e0) - **feat:** add `constants/float32/min-base10-exponent` [(#3092)](https://github.com/stdlib-js/stdlib/pull/3092) _(by Gururaj Gurram, Philipp Burckhardt)_
 -   [`5c28ab7`](https://github.com/stdlib-js/stdlib/commit/5c28ab71e29097ff04c6c4de0038b4f6b733a68c) - **feat:** add `constants/float32/max-base10-exponent` [(#3091)](https://github.com/stdlib-js/stdlib/pull/3091) _(by Gururaj Gurram, Philipp Burckhardt)_
 -   [`893cb1b`](https://github.com/stdlib-js/stdlib/commit/893cb1b86ececb01085118705c19a842f70da511) - **feat:** add `constants/float32/ln-two` [(#3079)](https://github.com/stdlib-js/stdlib/pull/3079) _(by Gunj Joshi)_
 
