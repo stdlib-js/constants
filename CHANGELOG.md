@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-09)
+## Unreleased (2024-11-11)
 
 <section class="packages">
 
@@ -32,17 +32,65 @@
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-max-base10-exponent-unreleased">
+
+#### [@stdlib/constants/float32/max-base10-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-base10-exponent)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`5c28ab7`](https://github.com/stdlib-js/stdlib/commit/5c28ab71e29097ff04c6c4de0038b4f6b733a68c) - add `constants/float32/max-base10-exponent` [(#3091)](https://github.com/stdlib-js/stdlib/pull/3091)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="contributors">
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
 -   Gunj Joshi
+-   Gururaj Gurram
+-   Philipp Burckhardt
 
 </section>
 
@@ -54,6 +102,7 @@ A total of 1 person contributed to this release. Thank you to this contributor:
 
 <details>
 
+-   [`5c28ab7`](https://github.com/stdlib-js/stdlib/commit/5c28ab71e29097ff04c6c4de0038b4f6b733a68c) - **feat:** add `constants/float32/max-base10-exponent` [(#3091)](https://github.com/stdlib-js/stdlib/pull/3091) _(by Gururaj Gurram, Philipp Burckhardt)_
 -   [`893cb1b`](https://github.com/stdlib-js/stdlib/commit/893cb1b86ececb01085118705c19a842f70da511) - **feat:** add `constants/float32/ln-two` [(#3079)](https://github.com/stdlib-js/stdlib/pull/3079) _(by Gunj Joshi)_
 
 </details>
