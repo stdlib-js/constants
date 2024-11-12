@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-11)
+## Unreleased (2024-11-12)
 
 <section class="packages">
 
@@ -110,6 +110,40 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-min-base10-exponent-subnormal-unreleased">
+
+#### [@stdlib/constants/float32/min-base10-exponent-subnormal](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/min-base10-exponent-subnormal)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`a4ca598`](https://github.com/stdlib-js/stdlib/commit/a4ca5986c4a9816d627387004026ec96539c81f9) - add `constants/float32/min-base10-exponent-subnormal` [(#3100)](https://github.com/stdlib-js/stdlib/pull/3100)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3094](https://github.com/stdlib-js/stdlib/issues/3094)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -118,9 +152,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#3090](https://github.com/stdlib-js/stdlib/issues/3090)
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3094](https://github.com/stdlib-js/stdlib/issues/3094)
 
 </section>
 
@@ -130,8 +164,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
+-   Aayush Khanna
 -   Gunj Joshi
 -   Gururaj Gurram
 -   Philipp Burckhardt
@@ -146,6 +181,7 @@ A total of 3 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`a4ca598`](https://github.com/stdlib-js/stdlib/commit/a4ca5986c4a9816d627387004026ec96539c81f9) - **feat:** add `constants/float32/min-base10-exponent-subnormal` [(#3100)](https://github.com/stdlib-js/stdlib/pull/3100) _(by Aayush Khanna)_
 -   [`951fbd2`](https://github.com/stdlib-js/stdlib/commit/951fbd24ae17d11d75cb4a9c321ddc2e62eecd30) - **feat:** add `constants/float32/e` [(#3101)](https://github.com/stdlib-js/stdlib/pull/3101) _(by Gururaj Gurram, Philipp Burckhardt)_
 -   [`824d519`](https://github.com/stdlib-js/stdlib/commit/824d5196406ebb5c9f73aedfd69d30fd6df0e2e0) - **feat:** add `constants/float32/min-base10-exponent` [(#3092)](https://github.com/stdlib-js/stdlib/pull/3092) _(by Gururaj Gurram, Philipp Burckhardt)_
 -   [`5c28ab7`](https://github.com/stdlib-js/stdlib/commit/5c28ab71e29097ff04c6c4de0038b4f6b733a68c) - **feat:** add `constants/float32/max-base10-exponent` [(#3091)](https://github.com/stdlib-js/stdlib/pull/3091) _(by Gururaj Gurram, Philipp Burckhardt)_
