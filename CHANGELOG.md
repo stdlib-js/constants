@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-11-12)
+## Unreleased (2024-11-13)
 
 <section class="packages">
 
@@ -47,6 +47,16 @@
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`31c168c`](https://github.com/stdlib-js/stdlib/commit/31c168c72351f2885bcf7361b9168cefb454f6dc) - add missing `f` suffix in `constants/float32/ln-two` [(#3110)](https://github.com/stdlib-js/stdlib/pull/3110)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 </details>
 
@@ -215,6 +225,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`31c168c`](https://github.com/stdlib-js/stdlib/commit/31c168c72351f2885bcf7361b9168cefb454f6dc) - **fix:** add missing `f` suffix in `constants/float32/ln-two` [(#3110)](https://github.com/stdlib-js/stdlib/pull/3110) _(by Gunj Joshi)_
 -   [`3e373df`](https://github.com/stdlib-js/stdlib/commit/3e373df5f80a866121754b0475478ff7e135f8ed) - **feat:** add `constants/float32/max-base10-exponent-subnormal` [(#3099)](https://github.com/stdlib-js/stdlib/pull/3099) _(by Aayush Khanna, Philipp Burckhardt)_
 -   [`a4ca598`](https://github.com/stdlib-js/stdlib/commit/a4ca5986c4a9816d627387004026ec96539c81f9) - **feat:** add `constants/float32/min-base10-exponent-subnormal` [(#3100)](https://github.com/stdlib-js/stdlib/pull/3100) _(by Aayush Khanna)_
 -   [`951fbd2`](https://github.com/stdlib-js/stdlib/commit/951fbd24ae17d11d75cb4a9c321ddc2e62eecd30) - **feat:** add `constants/float32/e` [(#3101)](https://github.com/stdlib-js/stdlib/pull/3101) _(by Gururaj Gurram, Philipp Burckhardt)_
