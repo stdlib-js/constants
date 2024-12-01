@@ -225,6 +225,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`92c0d4e`](https://github.com/stdlib-js/stdlib/commit/92c0d4e65a8ffef2a2264ba906cfe8020c483b13) - **docs:** clean-up and use C floats when appropriate _(by Philipp Burckhardt)_
 -   [`19343f5`](https://github.com/stdlib-js/stdlib/commit/19343f5f7a3359b989d091ed31d9e3c64cf89c9c) - **chore:** fix copyright years and disable lint rules _(by Philipp Burckhardt)_
 -   [`31c168c`](https://github.com/stdlib-js/stdlib/commit/31c168c72351f2885bcf7361b9168cefb454f6dc) - **fix:** add missing `f` suffix in `constants/float32/ln-two` [(#3110)](https://github.com/stdlib-js/stdlib/pull/3110) _(by Gunj Joshi)_
 -   [`3e373df`](https://github.com/stdlib-js/stdlib/commit/3e373df5f80a866121754b0475478ff7e135f8ed) - **feat:** add `constants/float32/max-base10-exponent-subnormal` [(#3099)](https://github.com/stdlib-js/stdlib/pull/3099) _(by Aayush Khanna, Philipp Burckhardt)_
