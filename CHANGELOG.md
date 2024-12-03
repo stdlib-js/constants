@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-01)
+## Unreleased (2024-12-03)
 
 <section class="packages">
 
@@ -188,6 +188,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float64-max-safe-nth-tribonacci-unreleased">
+
+#### [@stdlib/constants/float64/max-safe-nth-tribonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-tribonacci)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`27e0f3c`](https://github.com/stdlib-js/stdlib/commit/27e0f3c432b142bcef3e679670802947b9ad16ca) - add `constants/float64/max-safe-nth-tribonacci` [(#3317)](https://github.com/stdlib-js/stdlib/pull/3317)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 </section>
 
 <!-- /.packages -->
@@ -208,9 +230,10 @@ A total of 3 issues were closed in this release:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Athan Reines
 -   Gunj Joshi
 -   Gururaj Gurram
 -   Philipp Burckhardt
@@ -225,6 +248,7 @@ A total of 4 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`27e0f3c`](https://github.com/stdlib-js/stdlib/commit/27e0f3c432b142bcef3e679670802947b9ad16ca) - **feat:** add `constants/float64/max-safe-nth-tribonacci` [(#3317)](https://github.com/stdlib-js/stdlib/pull/3317) _(by Gunj Joshi, Athan Reines)_
 -   [`92c0d4e`](https://github.com/stdlib-js/stdlib/commit/92c0d4e65a8ffef2a2264ba906cfe8020c483b13) - **docs:** clean-up and use C floats when appropriate _(by Philipp Burckhardt)_
 -   [`19343f5`](https://github.com/stdlib-js/stdlib/commit/19343f5f7a3359b989d091ed31d9e3c64cf89c9c) - **chore:** fix copyright years and disable lint rules _(by Philipp Burckhardt)_
 -   [`31c168c`](https://github.com/stdlib-js/stdlib/commit/31c168c72351f2885bcf7361b9168cefb454f6dc) - **fix:** add missing `f` suffix in `constants/float32/ln-two` [(#3110)](https://github.com/stdlib-js/stdlib/pull/3110) _(by Gunj Joshi)_
