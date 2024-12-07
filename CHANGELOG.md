@@ -188,6 +188,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-sqrt-half-unreleased">
+
+#### [@stdlib/constants/float32/sqrt-half](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-half)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`f74239a`](https://github.com/stdlib-js/stdlib/commit/f74239a7b9e105a5694432d53bcf912d289c0417) - add constants/float32/sqrt-half [(#3334)](https://github.com/stdlib-js/stdlib/pull/3334)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-sqrt-pi-unreleased">
 
 #### [@stdlib/constants/float32/sqrt-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-pi)
@@ -298,12 +320,13 @@ A total of 5 issues were closed in this release:
 
 ### Contributors
 
-A total of 5 people contributed to this release. Thank you to the following contributors:
+A total of 6 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Gunj Joshi
 -   Gururaj Gurram
+-   Manvith
 -   Philipp Burckhardt
 
 </section>
@@ -316,6 +339,7 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`f74239a`](https://github.com/stdlib-js/stdlib/commit/f74239a7b9e105a5694432d53bcf912d289c0417) - **feat:** add constants/float32/sqrt-half [(#3334)](https://github.com/stdlib-js/stdlib/pull/3334) _(by Manvith, stdlib-bot)_
 -   [`7127b56`](https://github.com/stdlib-js/stdlib/commit/7127b567c3fba95eb1e923e763569ba4b58ed262) - **feat:** add `constants/float32/sqrt-pi` [(#3326)](https://github.com/stdlib-js/stdlib/pull/3326) _(by Gururaj Gurram, Gunj Joshi)_
 -   [`cf471dc`](https://github.com/stdlib-js/stdlib/commit/cf471dca2b71b8664737d72558ae40764d8bcddb) - **feat:** add `constants/float32/sqrt-two` [(#3328)](https://github.com/stdlib-js/stdlib/pull/3328) _(by Gururaj Gurram)_
 -   [`27e0f3c`](https://github.com/stdlib-js/stdlib/commit/27e0f3c432b142bcef3e679670802947b9ad16ca) - **feat:** add `constants/float64/max-safe-nth-tribonacci` [(#3317)](https://github.com/stdlib-js/stdlib/pull/3317) _(by Gunj Joshi, Athan Reines)_
