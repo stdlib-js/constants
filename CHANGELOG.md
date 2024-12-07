@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-03)
+## Unreleased (2024-12-07)
 
 <section class="packages">
 
@@ -188,6 +188,40 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-sqrt-two-unreleased">
+
+#### [@stdlib/constants/float32/sqrt-two](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-two)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`cf471dc`](https://github.com/stdlib-js/stdlib/commit/cf471dca2b71b8664737d72558ae40764d8bcddb) - add `constants/float32/sqrt-two` [(#3328)](https://github.com/stdlib-js/stdlib/pull/3328)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3327](https://github.com/stdlib-js/stdlib/issues/3327)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float64-max-safe-nth-tribonacci-unreleased">
 
 #### [@stdlib/constants/float64/max-safe-nth-tribonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-tribonacci)
@@ -218,9 +252,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 3 issues were closed in this release:
+A total of 4 issues were closed in this release:
 
-[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094)
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3327](https://github.com/stdlib-js/stdlib/issues/3327)
 
 </section>
 
@@ -248,6 +282,7 @@ A total of 5 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`cf471dc`](https://github.com/stdlib-js/stdlib/commit/cf471dca2b71b8664737d72558ae40764d8bcddb) - **feat:** add `constants/float32/sqrt-two` [(#3328)](https://github.com/stdlib-js/stdlib/pull/3328) _(by Gururaj Gurram)_
 -   [`27e0f3c`](https://github.com/stdlib-js/stdlib/commit/27e0f3c432b142bcef3e679670802947b9ad16ca) - **feat:** add `constants/float64/max-safe-nth-tribonacci` [(#3317)](https://github.com/stdlib-js/stdlib/pull/3317) _(by Gunj Joshi, Athan Reines)_
 -   [`92c0d4e`](https://github.com/stdlib-js/stdlib/commit/92c0d4e65a8ffef2a2264ba906cfe8020c483b13) - **docs:** clean-up and use C floats when appropriate _(by Philipp Burckhardt)_
 -   [`19343f5`](https://github.com/stdlib-js/stdlib/commit/19343f5f7a3359b989d091ed31d9e3c64cf89c9c) - **chore:** fix copyright years and disable lint rules _(by Philipp Burckhardt)_
