@@ -244,6 +244,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-sqrt-three-unreleased">
+
+#### [@stdlib/constants/float32/sqrt-three](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-three)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`935a1af`](https://github.com/stdlib-js/stdlib/commit/935a1af66c02a850e34d9e61538559c330beb7e0) - add `constants/float32/sqrt-three` [(#3322)](https://github.com/stdlib-js/stdlib/pull/3322)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-sqrt-two-unreleased">
 
 #### [@stdlib/constants/float32/sqrt-two](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-two)
@@ -339,6 +361,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`935a1af`](https://github.com/stdlib-js/stdlib/commit/935a1af66c02a850e34d9e61538559c330beb7e0) - **feat:** add `constants/float32/sqrt-three` [(#3322)](https://github.com/stdlib-js/stdlib/pull/3322) _(by Manvith)_
 -   [`f74239a`](https://github.com/stdlib-js/stdlib/commit/f74239a7b9e105a5694432d53bcf912d289c0417) - **feat:** add constants/float32/sqrt-half [(#3334)](https://github.com/stdlib-js/stdlib/pull/3334) _(by Manvith, stdlib-bot)_
 -   [`7127b56`](https://github.com/stdlib-js/stdlib/commit/7127b567c3fba95eb1e923e763569ba4b58ed262) - **feat:** add `constants/float32/sqrt-pi` [(#3326)](https://github.com/stdlib-js/stdlib/pull/3326) _(by Gururaj Gurram, Gunj Joshi)_
 -   [`cf471dc`](https://github.com/stdlib-js/stdlib/commit/cf471dca2b71b8664737d72558ae40764d8bcddb) - **feat:** add `constants/float32/sqrt-two` [(#3328)](https://github.com/stdlib-js/stdlib/pull/3328) _(by Gururaj Gurram)_
