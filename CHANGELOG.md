@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-07)
+## Unreleased (2024-12-08)
 
 <section class="packages">
 
@@ -405,6 +405,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`7e8187a`](https://github.com/stdlib-js/stdlib/commit/7e8187a766886c2fb9cdc356cf781f0a1802172c) - **docs:** update related packages sections [(#3368)](https://github.com/stdlib-js/stdlib/pull/3368) _(by stdlib-bot)_
 -   [`fdee038`](https://github.com/stdlib-js/stdlib/commit/fdee0385e88ebf6a628d4a7b22df1fcc7ea1a1a2) - **feat:** add `constants/float32/sqrt-phi` [(#3351)](https://github.com/stdlib-js/stdlib/pull/3351) _(by Manvith, stdlib-bot)_
 -   [`0e23e02`](https://github.com/stdlib-js/stdlib/commit/0e23e02e9b5087ea5e0d58411a384d5e6185ab20) - **feat:** add `constants/float32/sqrt-half-pi` [(#3335)](https://github.com/stdlib-js/stdlib/pull/3335) _(by Manvith)_
 -   [`935a1af`](https://github.com/stdlib-js/stdlib/commit/935a1af66c02a850e34d9e61538559c330beb7e0) - **feat:** add `constants/float32/sqrt-three` [(#3322)](https://github.com/stdlib-js/stdlib/pull/3322) _(by Manvith)_
