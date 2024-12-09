@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-08)
+## Unreleased (2024-12-09)
 
 <section class="packages">
 
@@ -392,7 +392,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 -   Athan Reines
 -   Gunj Joshi
 -   Gururaj Gurram
--   Manvith
+-   Manvith M
 -   Philipp Burckhardt
 
 </section>
@@ -405,11 +405,12 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`1c56b73`](https://github.com/stdlib-js/stdlib/commit/1c56b737ec018cc818cebf19e5c7947fa684e126) - **docs:** update related packages sections [(#3380)](https://github.com/stdlib-js/stdlib/pull/3380) _(by stdlib-bot)_
 -   [`7e8187a`](https://github.com/stdlib-js/stdlib/commit/7e8187a766886c2fb9cdc356cf781f0a1802172c) - **docs:** update related packages sections [(#3368)](https://github.com/stdlib-js/stdlib/pull/3368) _(by stdlib-bot)_
--   [`fdee038`](https://github.com/stdlib-js/stdlib/commit/fdee0385e88ebf6a628d4a7b22df1fcc7ea1a1a2) - **feat:** add `constants/float32/sqrt-phi` [(#3351)](https://github.com/stdlib-js/stdlib/pull/3351) _(by Manvith, stdlib-bot)_
--   [`0e23e02`](https://github.com/stdlib-js/stdlib/commit/0e23e02e9b5087ea5e0d58411a384d5e6185ab20) - **feat:** add `constants/float32/sqrt-half-pi` [(#3335)](https://github.com/stdlib-js/stdlib/pull/3335) _(by Manvith)_
--   [`935a1af`](https://github.com/stdlib-js/stdlib/commit/935a1af66c02a850e34d9e61538559c330beb7e0) - **feat:** add `constants/float32/sqrt-three` [(#3322)](https://github.com/stdlib-js/stdlib/pull/3322) _(by Manvith)_
--   [`f74239a`](https://github.com/stdlib-js/stdlib/commit/f74239a7b9e105a5694432d53bcf912d289c0417) - **feat:** add constants/float32/sqrt-half [(#3334)](https://github.com/stdlib-js/stdlib/pull/3334) _(by Manvith, stdlib-bot)_
+-   [`fdee038`](https://github.com/stdlib-js/stdlib/commit/fdee0385e88ebf6a628d4a7b22df1fcc7ea1a1a2) - **feat:** add `constants/float32/sqrt-phi` [(#3351)](https://github.com/stdlib-js/stdlib/pull/3351) _(by Manvith M, stdlib-bot)_
+-   [`0e23e02`](https://github.com/stdlib-js/stdlib/commit/0e23e02e9b5087ea5e0d58411a384d5e6185ab20) - **feat:** add `constants/float32/sqrt-half-pi` [(#3335)](https://github.com/stdlib-js/stdlib/pull/3335) _(by Manvith M)_
+-   [`935a1af`](https://github.com/stdlib-js/stdlib/commit/935a1af66c02a850e34d9e61538559c330beb7e0) - **feat:** add `constants/float32/sqrt-three` [(#3322)](https://github.com/stdlib-js/stdlib/pull/3322) _(by Manvith M)_
+-   [`f74239a`](https://github.com/stdlib-js/stdlib/commit/f74239a7b9e105a5694432d53bcf912d289c0417) - **feat:** add constants/float32/sqrt-half [(#3334)](https://github.com/stdlib-js/stdlib/pull/3334) _(by Manvith M, stdlib-bot)_
 -   [`7127b56`](https://github.com/stdlib-js/stdlib/commit/7127b567c3fba95eb1e923e763569ba4b58ed262) - **feat:** add `constants/float32/sqrt-pi` [(#3326)](https://github.com/stdlib-js/stdlib/pull/3326) _(by Gururaj Gurram, Gunj Joshi)_
 -   [`cf471dc`](https://github.com/stdlib-js/stdlib/commit/cf471dca2b71b8664737d72558ae40764d8bcddb) - **feat:** add `constants/float32/sqrt-two` [(#3328)](https://github.com/stdlib-js/stdlib/pull/3328) _(by Gururaj Gurram)_
 -   [`27e0f3c`](https://github.com/stdlib-js/stdlib/commit/27e0f3c432b142bcef3e679670802947b9ad16ca) - **feat:** add `constants/float64/max-safe-nth-tribonacci` [(#3317)](https://github.com/stdlib-js/stdlib/pull/3317) _(by Gunj Joshi, Athan Reines)_
