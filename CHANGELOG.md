@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-09)
+## Unreleased (2024-12-10)
 
 <section class="packages">
 
@@ -204,6 +204,16 @@ This release closes the following issue:
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`d7dc119`](https://github.com/stdlib-js/stdlib/commit/d7dc1197d55a17e6d3f9df1c17b2e13fe57df916) - ensure header files reside in correct directories
+
+</section>
+
+<!-- /.bug-fixes -->
+
 </details>
 
 </section>
@@ -226,6 +236,16 @@ This release closes the following issue:
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`d7dc119`](https://github.com/stdlib-js/stdlib/commit/d7dc1197d55a17e6d3f9df1c17b2e13fe57df916) - ensure header files reside in correct directories
+
+</section>
+
+<!-- /.bug-fixes -->
+
 </details>
 
 </section>
@@ -247,6 +267,16 @@ This release closes the following issue:
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`d7dc119`](https://github.com/stdlib-js/stdlib/commit/d7dc1197d55a17e6d3f9df1c17b2e13fe57df916) - ensure header files reside in correct directories
+
+</section>
+
+<!-- /.bug-fixes -->
 
 </details>
 
@@ -303,6 +333,16 @@ This release closes the following issue:
 </section>
 
 <!-- /.features -->
+
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`d7dc119`](https://github.com/stdlib-js/stdlib/commit/d7dc1197d55a17e6d3f9df1c17b2e13fe57df916) - ensure header files reside in correct directories
+
+</section>
+
+<!-- /.bug-fixes -->
 
 </details>
 
@@ -405,6 +445,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`d7dc119`](https://github.com/stdlib-js/stdlib/commit/d7dc1197d55a17e6d3f9df1c17b2e13fe57df916) - **fix:** ensure header files reside in correct directories _(by Philipp Burckhardt)_
 -   [`1c56b73`](https://github.com/stdlib-js/stdlib/commit/1c56b737ec018cc818cebf19e5c7947fa684e126) - **docs:** update related packages sections [(#3380)](https://github.com/stdlib-js/stdlib/pull/3380) _(by stdlib-bot)_
 -   [`7e8187a`](https://github.com/stdlib-js/stdlib/commit/7e8187a766886c2fb9cdc356cf781f0a1802172c) - **docs:** update related packages sections [(#3368)](https://github.com/stdlib-js/stdlib/pull/3368) _(by stdlib-bot)_
 -   [`fdee038`](https://github.com/stdlib-js/stdlib/commit/fdee0385e88ebf6a628d4a7b22df1fcc7ea1a1a2) - **feat:** add `constants/float32/sqrt-phi` [(#3351)](https://github.com/stdlib-js/stdlib/pull/3351) _(by Manvith M, stdlib-bot)_
