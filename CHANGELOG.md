@@ -200,6 +200,40 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-max-safe-nth-lucas-unreleased">
+
+#### [@stdlib/constants/float32/max-safe-nth-lucas](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-nth-lucas)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`ed63505`](https://github.com/stdlib-js/stdlib/commit/ed6350530cfae8d685f02987681d7933b83d88b7) - add `constants/float32/max-safe-nth-lucas` [(#3337)](https://github.com/stdlib-js/stdlib/pull/3337)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3336](https://github.com/stdlib-js/stdlib/issues/3336)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-min-base10-exponent-unreleased">
 
 #### [@stdlib/constants/float32/min-base10-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/min-base10-exponent)
@@ -482,9 +516,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 7 issues were closed in this release:
+A total of 8 issues were closed in this release:
 
-[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3344](https://github.com/stdlib-js/stdlib/issues/3344)
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3344](https://github.com/stdlib-js/stdlib/issues/3344)
 
 </section>
 
@@ -514,6 +548,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`ed63505`](https://github.com/stdlib-js/stdlib/commit/ed6350530cfae8d685f02987681d7933b83d88b7) - **feat:** add `constants/float32/max-safe-nth-lucas` [(#3337)](https://github.com/stdlib-js/stdlib/pull/3337) _(by Aayush Khanna, Athan Reines)_
 -   [`5a4f6ed`](https://github.com/stdlib-js/stdlib/commit/5a4f6edd9eb9e71c3b86e37bebc0d9125efe4931) - **feat:** add `constants/float32/ln-half` [(#3333)](https://github.com/stdlib-js/stdlib/pull/3333) _(by Vivek maurya, Athan Reines, Gunj Joshi, stdlib-bot)_
 -   [`fc8571d`](https://github.com/stdlib-js/stdlib/commit/fc8571d4e2f7981711a85db47ef8d4acfecfba32) - **feat:** add `constants/float32/ln-pi` [(#3342)](https://github.com/stdlib-js/stdlib/pull/3342) _(by Vivek maurya, Athan Reines, stdlib-bot)_
 -   [`d7dc119`](https://github.com/stdlib-js/stdlib/commit/d7dc1197d55a17e6d3f9df1c17b2e13fe57df916) - **fix:** ensure header files reside in correct directories _(by Philipp Burckhardt)_
