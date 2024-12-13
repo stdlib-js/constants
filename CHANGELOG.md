@@ -32,6 +32,40 @@
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-ln-half-unreleased">
+
+#### [@stdlib/constants/float32/ln-half](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/ln-half)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`5a4f6ed`](https://github.com/stdlib-js/stdlib/commit/5a4f6edd9eb9e71c3b86e37bebc0d9125efe4931) - add `constants/float32/ln-half` [(#3333)](https://github.com/stdlib-js/stdlib/pull/3333)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3332](https://github.com/stdlib-js/stdlib/issues/3332)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-ln-pi-unreleased">
 
 #### [@stdlib/constants/float32/ln-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/ln-pi)
@@ -448,9 +482,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 6 issues were closed in this release:
+A total of 7 issues were closed in this release:
 
-[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3344](https://github.com/stdlib-js/stdlib/issues/3344)
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3344](https://github.com/stdlib-js/stdlib/issues/3344)
 
 </section>
 
@@ -480,6 +514,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`5a4f6ed`](https://github.com/stdlib-js/stdlib/commit/5a4f6edd9eb9e71c3b86e37bebc0d9125efe4931) - **feat:** add `constants/float32/ln-half` [(#3333)](https://github.com/stdlib-js/stdlib/pull/3333) _(by Vivek maurya, Athan Reines, Gunj Joshi, stdlib-bot)_
 -   [`fc8571d`](https://github.com/stdlib-js/stdlib/commit/fc8571d4e2f7981711a85db47ef8d4acfecfba32) - **feat:** add `constants/float32/ln-pi` [(#3342)](https://github.com/stdlib-js/stdlib/pull/3342) _(by Vivek maurya, Athan Reines, stdlib-bot)_
 -   [`d7dc119`](https://github.com/stdlib-js/stdlib/commit/d7dc1197d55a17e6d3f9df1c17b2e13fe57df916) - **fix:** ensure header files reside in correct directories _(by Philipp Burckhardt)_
 -   [`1c56b73`](https://github.com/stdlib-js/stdlib/commit/1c56b737ec018cc818cebf19e5c7947fa684e126) - **docs:** update related packages sections [(#3380)](https://github.com/stdlib-js/stdlib/pull/3380) _(by stdlib-bot)_
