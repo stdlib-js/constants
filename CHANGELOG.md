@@ -570,6 +570,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`11d30d5`](https://github.com/stdlib-js/stdlib/commit/11d30d555880163ecca9b5aa49624acf8855ca3f) - **docs:** update examples _(by Athan Reines)_
 -   [`5c28376`](https://github.com/stdlib-js/stdlib/commit/5c28376c28904602fd17dec34d0c40b67070d941) - **feat:** add `constants/float32/sqrt-two-pi` [(#3345)](https://github.com/stdlib-js/stdlib/pull/3345) _(by Vivek maurya, stdlib-bot, Athan Reines)_
 -   [`ed63505`](https://github.com/stdlib-js/stdlib/commit/ed6350530cfae8d685f02987681d7933b83d88b7) - **feat:** add `constants/float32/max-safe-nth-lucas` [(#3337)](https://github.com/stdlib-js/stdlib/pull/3337) _(by Aayush Khanna, Athan Reines)_
 -   [`5a4f6ed`](https://github.com/stdlib-js/stdlib/commit/5a4f6edd9eb9e71c3b86e37bebc0d9125efe4931) - **feat:** add `constants/float32/ln-half` [(#3333)](https://github.com/stdlib-js/stdlib/pull/3333) _(by Vivek maurya, Athan Reines, Gunj Joshi, stdlib-bot)_
