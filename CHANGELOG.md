@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-10)
+## Unreleased (2024-12-13)
 
 <section class="packages">
 
@@ -25,6 +25,40 @@
 </section>
 
 <!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-ln-pi-unreleased">
+
+#### [@stdlib/constants/float32/ln-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/ln-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`fc8571d`](https://github.com/stdlib-js/stdlib/commit/fc8571d4e2f7981711a85db47ef8d4acfecfba32) - add `constants/float32/ln-pi` [(#3342)](https://github.com/stdlib-js/stdlib/pull/3342)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3344](https://github.com/stdlib-js/stdlib/issues/3344)
+
+</section>
+
+<!-- /.issues -->
 
 </details>
 
@@ -414,9 +448,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 5 issues were closed in this release:
+A total of 6 issues were closed in this release:
 
-[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327)
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3344](https://github.com/stdlib-js/stdlib/issues/3344)
 
 </section>
 
@@ -426,7 +460,7 @@ A total of 5 issues were closed in this release:
 
 ### Contributors
 
-A total of 6 people contributed to this release. Thank you to the following contributors:
+A total of 7 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
@@ -434,6 +468,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 -   Gururaj Gurram
 -   Manvith M
 -   Philipp Burckhardt
+-   Vivek maurya
 
 </section>
 
@@ -445,6 +480,7 @@ A total of 6 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`fc8571d`](https://github.com/stdlib-js/stdlib/commit/fc8571d4e2f7981711a85db47ef8d4acfecfba32) - **feat:** add `constants/float32/ln-pi` [(#3342)](https://github.com/stdlib-js/stdlib/pull/3342) _(by Vivek maurya, Athan Reines, stdlib-bot)_
 -   [`d7dc119`](https://github.com/stdlib-js/stdlib/commit/d7dc1197d55a17e6d3f9df1c17b2e13fe57df916) - **fix:** ensure header files reside in correct directories _(by Philipp Burckhardt)_
 -   [`1c56b73`](https://github.com/stdlib-js/stdlib/commit/1c56b737ec018cc818cebf19e5c7947fa684e126) - **docs:** update related packages sections [(#3380)](https://github.com/stdlib-js/stdlib/pull/3380) _(by stdlib-bot)_
 -   [`7e8187a`](https://github.com/stdlib-js/stdlib/commit/7e8187a766886c2fb9cdc356cf781f0a1802172c) - **docs:** update related packages sections [(#3368)](https://github.com/stdlib-js/stdlib/pull/3368) _(by stdlib-bot)_
