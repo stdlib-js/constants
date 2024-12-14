@@ -216,6 +216,16 @@ This release closes the following issue:
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`eb3a5ea`](https://github.com/stdlib-js/stdlib/commit/eb3a5ea3637fdd5804511809707bc8a14b77abe5) - incorrect macro name in `constants/float32/max-safe-nth-lucas` [(#3904)](https://github.com/stdlib-js/stdlib/pull/3904)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 <section class="issues">
 
 ##### Closed Issues
@@ -570,6 +580,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`eb3a5ea`](https://github.com/stdlib-js/stdlib/commit/eb3a5ea3637fdd5804511809707bc8a14b77abe5) - **fix:** incorrect macro name in `constants/float32/max-safe-nth-lucas` [(#3904)](https://github.com/stdlib-js/stdlib/pull/3904) _(by Aayush Khanna)_
 -   [`5dc51f3`](https://github.com/stdlib-js/stdlib/commit/5dc51f30793f550573cd7dce63d67c87a4099f60) - **docs:** update Markdown stdlib package URLs [(#3899)](https://github.com/stdlib-js/stdlib/pull/3899) _(by stdlib-bot)_
 -   [`11d30d5`](https://github.com/stdlib-js/stdlib/commit/11d30d555880163ecca9b5aa49624acf8855ca3f) - **docs:** update examples _(by Athan Reines)_
 -   [`5c28376`](https://github.com/stdlib-js/stdlib/commit/5c28376c28904602fd17dec34d0c40b67070d941) - **feat:** add `constants/float32/sqrt-two-pi` [(#3345)](https://github.com/stdlib-js/stdlib/pull/3345) _(by Vivek maurya, stdlib-bot, Athan Reines)_
