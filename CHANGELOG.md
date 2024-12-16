@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-15)
+## Unreleased (2024-12-16)
 
 <section class="packages">
 
@@ -580,6 +580,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`b20a9e6`](https://github.com/stdlib-js/stdlib/commit/b20a9e616e5d04cfc3e5bc71bd557e15af738050) - **docs:** update related packages sections [(#3936)](https://github.com/stdlib-js/stdlib/pull/3936) _(by stdlib-bot)_
 -   [`b8c41df`](https://github.com/stdlib-js/stdlib/commit/b8c41df78cd2cdc9cd3c3c6b223759d32f4f6e14) - **docs:** update related packages sections [(#3915)](https://github.com/stdlib-js/stdlib/pull/3915) _(by stdlib-bot)_
 -   [`eb3a5ea`](https://github.com/stdlib-js/stdlib/commit/eb3a5ea3637fdd5804511809707bc8a14b77abe5) - **fix:** incorrect macro name in `constants/float32/max-safe-nth-lucas` [(#3904)](https://github.com/stdlib-js/stdlib/pull/3904) _(by Aayush Khanna)_
 -   [`5dc51f3`](https://github.com/stdlib-js/stdlib/commit/5dc51f30793f550573cd7dce63d67c87a4099f60) - **docs:** update Markdown stdlib package URLs [(#3899)](https://github.com/stdlib-js/stdlib/pull/3899) _(by stdlib-bot)_
