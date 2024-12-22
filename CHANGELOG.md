@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-20)
+## Unreleased (2024-12-22)
 
 <section class="packages">
 
@@ -89,6 +89,40 @@ This release closes the following issue:
 This release closes the following issue:
 
 [#3344](https://github.com/stdlib-js/stdlib/issues/3344)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-ln-ten-unreleased">
+
+#### [@stdlib/constants/float32/ln-ten](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/ln-ten)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`af07f7b`](https://github.com/stdlib-js/stdlib/commit/af07f7bfbb13427d6f02e40c04d3abe20aac8373) - add `constants/float32/ln-ten` [(#3341)](https://github.com/stdlib-js/stdlib/pull/3341)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#3343](https://github.com/stdlib-js/stdlib/issues/3343)
 
 </section>
 
@@ -548,9 +582,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 8 issues were closed in this release:
+A total of 9 issues were closed in this release:
 
-[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3344](https://github.com/stdlib-js/stdlib/issues/3344)
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3343](https://github.com/stdlib-js/stdlib/issues/3343), [#3344](https://github.com/stdlib-js/stdlib/issues/3344)
 
 </section>
 
@@ -580,6 +614,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`af07f7b`](https://github.com/stdlib-js/stdlib/commit/af07f7bfbb13427d6f02e40c04d3abe20aac8373) - **feat:** add `constants/float32/ln-ten` [(#3341)](https://github.com/stdlib-js/stdlib/pull/3341) _(by Vivek maurya, stdlib-bot)_
 -   [`c322b66`](https://github.com/stdlib-js/stdlib/commit/c322b6647751b73a9d0fe12bf5665e8e2243d4ca) - **docs:** update related packages sections [(#4070)](https://github.com/stdlib-js/stdlib/pull/4070) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`b20a9e6`](https://github.com/stdlib-js/stdlib/commit/b20a9e616e5d04cfc3e5bc71bd557e15af738050) - **docs:** update related packages sections [(#3936)](https://github.com/stdlib-js/stdlib/pull/3936) _(by stdlib-bot)_
 -   [`b8c41df`](https://github.com/stdlib-js/stdlib/commit/b8c41df78cd2cdc9cd3c3c6b223759d32f4f6e14) - **docs:** update related packages sections [(#3915)](https://github.com/stdlib-js/stdlib/pull/3915) _(by stdlib-bot)_
