@@ -4,11 +4,33 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2024-12-28)
+## Unreleased (2024-12-29)
 
 <section class="packages">
 
 ### Packages
+
+<section class="package" id="constants-float32-unreleased">
+
+#### [@stdlib/constants/float32](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`13981c9`](https://github.com/stdlib-js/stdlib/commit/13981c91225354d2872f01b5a83e0eda41f2697a) - add constants to namespace
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
 
 <section class="package" id="constants-float32-e-unreleased">
 
@@ -614,6 +636,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`13981c9`](https://github.com/stdlib-js/stdlib/commit/13981c91225354d2872f01b5a83e0eda41f2697a) - **feat:** add constants to namespace _(by Athan Reines)_
 -   [`8f2808d`](https://github.com/stdlib-js/stdlib/commit/8f2808dec8c8a6508841e86453fba823823efc6c) - **docs:** update related packages sections [(#4302)](https://github.com/stdlib-js/stdlib/pull/4302) _(by stdlib-bot)_
 -   [`7d6450c`](https://github.com/stdlib-js/stdlib/commit/7d6450c671dd91fffbec536a216a76f9e094dad0) - **docs:** update related packages sections [(#4186)](https://github.com/stdlib-js/stdlib/pull/4186) _(by stdlib-bot)_
 -   [`af07f7b`](https://github.com/stdlib-js/stdlib/commit/af07f7bfbb13427d6f02e40c04d3abe20aac8373) - **feat:** add `constants/float32/ln-ten` [(#3341)](https://github.com/stdlib-js/stdlib/pull/3341) _(by Vivek maurya, stdlib-bot)_
