@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-13)
+## Unreleased (2025-01-16)
 
 <section class="packages">
 
@@ -637,6 +637,7 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`dc07f0a`](https://github.com/stdlib-js/stdlib/commit/dc07f0a08f9b5d5532881d9eb1269826a037ca2c) - **docs:** update related packages sections [(#4770)](https://github.com/stdlib-js/stdlib/pull/4770) _(by stdlib-bot)_
 -   [`f0db7f5`](https://github.com/stdlib-js/stdlib/commit/f0db7f5956b712e544fb2cd7c1432feaff516008) - **docs:** update related packages sections [(#4728)](https://github.com/stdlib-js/stdlib/pull/4728) _(by stdlib-bot)_
 -   [`dbb338e`](https://github.com/stdlib-js/stdlib/commit/dbb338e80336515e9f7ef602188985bbbe9b9010) - **docs:** update related packages sections [(#4690)](https://github.com/stdlib-js/stdlib/pull/4690) _(by stdlib-bot)_
 -   [`114115a`](https://github.com/stdlib-js/stdlib/commit/114115ac45b40f9c22064a8e49e99c2aee43ecb2) - **docs:** update related packages sections [(#4655)](https://github.com/stdlib-js/stdlib/pull/4655) _(by stdlib-bot)_
