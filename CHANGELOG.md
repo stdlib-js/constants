@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-01-21)
+## Unreleased (2025-02-03)
 
 <section class="packages">
 
@@ -637,6 +637,8 @@ A total of 7 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`f8b2615`](https://github.com/stdlib-js/stdlib/commit/f8b26150dbefe969a6de0e228f8651d830b9d9f4) - **docs:** update related packages sections [(#5038)](https://github.com/stdlib-js/stdlib/pull/5038) _(by stdlib-bot)_
+-   [`17b7218`](https://github.com/stdlib-js/stdlib/commit/17b72186405d4627a3d51d38aeebfeff90b4924c) - **docs:** update related packages sections [(#4876)](https://github.com/stdlib-js/stdlib/pull/4876) _(by stdlib-bot)_
 -   [`902977d`](https://github.com/stdlib-js/stdlib/commit/902977d7e637a7dfb1704fc4caa8fc3913d3246d) - **docs:** update related packages sections [(#4825)](https://github.com/stdlib-js/stdlib/pull/4825) _(by stdlib-bot)_
 -   [`4486641`](https://github.com/stdlib-js/stdlib/commit/44866418235df4d9f1e5ec38b918f53f1703b908) - **docs:** update related packages sections [(#4816)](https://github.com/stdlib-js/stdlib/pull/4816) _(by stdlib-bot)_
 -   [`50843c9`](https://github.com/stdlib-js/stdlib/commit/50843c9502e3c9afa2f58d0957248e8ed3bd4609) - **docs:** update related packages sections [(#4808)](https://github.com/stdlib-js/stdlib/pull/4808) _(by stdlib-bot)_
