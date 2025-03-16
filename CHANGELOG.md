@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-15)
+## Unreleased (2025-03-16)
 
 <section class="packages">
 
@@ -182,6 +182,40 @@ This release closes the following issue:
 </section>
 
 <!-- /.bug-fixes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-ln-two-pi-unreleased">
+
+#### [@stdlib/constants/float32/ln-two-pi](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/ln-two-pi)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`f29381d`](https://github.com/stdlib-js/stdlib/commit/f29381dfcfe6743aaf60b5a9c7062c45f766a4f9) - add `constants/float32/ln-two-pi` [(#6071)](https://github.com/stdlib-js/stdlib/pull/6071)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#6072](https://github.com/stdlib-js/stdlib/issues/6072)
+
+</section>
+
+<!-- /.issues -->
 
 </details>
 
@@ -639,9 +673,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 10 issues were closed in this release:
+A total of 11 issues were closed in this release:
 
-[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3343](https://github.com/stdlib-js/stdlib/issues/3343), [#3344](https://github.com/stdlib-js/stdlib/issues/3344), [#6050](https://github.com/stdlib-js/stdlib/issues/6050)
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3343](https://github.com/stdlib-js/stdlib/issues/3343), [#3344](https://github.com/stdlib-js/stdlib/issues/3344), [#6050](https://github.com/stdlib-js/stdlib/issues/6050), [#6072](https://github.com/stdlib-js/stdlib/issues/6072)
 
 </section>
 
@@ -672,6 +706,7 @@ A total of 8 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`f29381d`](https://github.com/stdlib-js/stdlib/commit/f29381dfcfe6743aaf60b5a9c7062c45f766a4f9) - **feat:** add `constants/float32/ln-two-pi` [(#6071)](https://github.com/stdlib-js/stdlib/pull/6071) _(by Neeraj Pathak)_
 -   [`a2bca96`](https://github.com/stdlib-js/stdlib/commit/a2bca966d08986a6d6fe6d61f9f209052d8200f3) - **feat:** add `constants/float32/max-safe-nth-tribonacci` [(#6049)](https://github.com/stdlib-js/stdlib/pull/6049) _(by Neeraj Pathak, Athan Reines)_
 -   [`299025d`](https://github.com/stdlib-js/stdlib/commit/299025d0d1509d90fc08bc8980bb8001b79c48c4) - **docs:** update related packages sections [(#5867)](https://github.com/stdlib-js/stdlib/pull/5867) _(by stdlib-bot, Athan Reines)_
 -   [`ce84c4e`](https://github.com/stdlib-js/stdlib/commit/ce84c4e7f25518da8c47a2cddd3bae750ed1a122) - **docs:** update related packages sections [(#5721)](https://github.com/stdlib-js/stdlib/pull/5721) _(by stdlib-bot)_
