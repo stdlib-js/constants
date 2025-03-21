@@ -291,6 +291,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-log2-e-unreleased">
+
+#### [@stdlib/constants/float32/log2-e](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/log2-e)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`0e6bb71`](https://github.com/stdlib-js/stdlib/commit/0e6bb71223260a2d0c7745dc027bb73e19d3b277) - add `constants/float32/log2-e` [(#6229)](https://github.com/stdlib-js/stdlib/pull/6229)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-max-base10-exponent-unreleased">
 
 #### [@stdlib/constants/float32/max-base10-exponent](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-base10-exponent)
@@ -799,6 +821,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`0e6bb71`](https://github.com/stdlib-js/stdlib/commit/0e6bb71223260a2d0c7745dc027bb73e19d3b277) - **feat:** add `constants/float32/log2-e` [(#6229)](https://github.com/stdlib-js/stdlib/pull/6229) _(by Neeraj Pathak)_
 -   [`f4bf6e6`](https://github.com/stdlib-js/stdlib/commit/f4bf6e691a0617ac2ffa97514a20f23b62b5ccce) - **chore:** use consistent naming in `constants/float64/eulergamma` [(#6228)](https://github.com/stdlib-js/stdlib/pull/6228) _(by Gautam sharma)_
 -   [`0e0ee1f`](https://github.com/stdlib-js/stdlib/commit/0e0ee1f110aa2f97da954705969d8ade934b6ada) - **feat:** add `constants/float32/ln-sqrt-two-pi` [(#6075)](https://github.com/stdlib-js/stdlib/pull/6075) _(by Neeraj Pathak)_
 -   [`04f0f1e`](https://github.com/stdlib-js/stdlib/commit/04f0f1e3fc1bf222de7708c66710512b3f47a979) - **feat:** add `constants/float32/gamma-lanczos-g` [(#6096)](https://github.com/stdlib-js/stdlib/pull/6096) _(by Neeraj Pathak, stdlib-bot)_
