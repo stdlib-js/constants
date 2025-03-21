@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-19)
+## Unreleased (2025-03-21)
 
 <section class="packages">
 
@@ -711,6 +711,30 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float64-eulergamma-unreleased">
+
+#### [@stdlib/constants/float64/eulergamma](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/eulergamma)
+
+<details>
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#6222](https://github.com/stdlib-js/stdlib/issues/6222)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float64-max-safe-nth-tribonacci-unreleased">
 
 #### [@stdlib/constants/float64/max-safe-nth-tribonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-tribonacci)
@@ -741,9 +765,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 13 issues were closed in this release:
+A total of 14 issues were closed in this release:
 
-[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3343](https://github.com/stdlib-js/stdlib/issues/3343), [#3344](https://github.com/stdlib-js/stdlib/issues/3344), [#6050](https://github.com/stdlib-js/stdlib/issues/6050), [#6072](https://github.com/stdlib-js/stdlib/issues/6072), [#6076](https://github.com/stdlib-js/stdlib/issues/6076), [#6097](https://github.com/stdlib-js/stdlib/issues/6097)
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3343](https://github.com/stdlib-js/stdlib/issues/3343), [#3344](https://github.com/stdlib-js/stdlib/issues/3344), [#6050](https://github.com/stdlib-js/stdlib/issues/6050), [#6072](https://github.com/stdlib-js/stdlib/issues/6072), [#6076](https://github.com/stdlib-js/stdlib/issues/6076), [#6097](https://github.com/stdlib-js/stdlib/issues/6097), [#6222](https://github.com/stdlib-js/stdlib/issues/6222)
 
 </section>
 
@@ -753,10 +777,11 @@ A total of 13 issues were closed in this release:
 
 ### Contributors
 
-A total of 8 people contributed to this release. Thank you to the following contributors:
+A total of 9 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Gautam sharma
 -   Gunj Joshi
 -   Gururaj Gurram
 -   Manvith M
@@ -774,6 +799,7 @@ A total of 8 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`f4bf6e6`](https://github.com/stdlib-js/stdlib/commit/f4bf6e691a0617ac2ffa97514a20f23b62b5ccce) - **chore:** use consistent naming in `constants/float64/eulergamma` [(#6228)](https://github.com/stdlib-js/stdlib/pull/6228) _(by Gautam sharma)_
 -   [`0e0ee1f`](https://github.com/stdlib-js/stdlib/commit/0e0ee1f110aa2f97da954705969d8ade934b6ada) - **feat:** add `constants/float32/ln-sqrt-two-pi` [(#6075)](https://github.com/stdlib-js/stdlib/pull/6075) _(by Neeraj Pathak)_
 -   [`04f0f1e`](https://github.com/stdlib-js/stdlib/commit/04f0f1e3fc1bf222de7708c66710512b3f47a979) - **feat:** add `constants/float32/gamma-lanczos-g` [(#6096)](https://github.com/stdlib-js/stdlib/pull/6096) _(by Neeraj Pathak, stdlib-bot)_
 -   [`f29381d`](https://github.com/stdlib-js/stdlib/commit/f29381dfcfe6743aaf60b5a9c7062c45f766a4f9) - **feat:** add `constants/float32/ln-two-pi` [(#6071)](https://github.com/stdlib-js/stdlib/pull/6071) _(by Neeraj Pathak)_
