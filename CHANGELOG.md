@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-21)
+## Unreleased (2025-03-22)
 
 <section class="packages">
 
@@ -843,6 +843,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`0901e47`](https://github.com/stdlib-js/stdlib/commit/0901e47081951f23dde4aaf458bf4e09588e030e) - **docs:** add missing period _(by Athan Reines)_
 -   [`7519044`](https://github.com/stdlib-js/stdlib/commit/75190443b320958771420fe6411199708a9a4825) - **feat:** add `constants/float32/log10-e` [(#6230)](https://github.com/stdlib-js/stdlib/pull/6230) _(by Neeraj Pathak)_
 -   [`0e6bb71`](https://github.com/stdlib-js/stdlib/commit/0e6bb71223260a2d0c7745dc027bb73e19d3b277) - **feat:** add `constants/float32/log2-e` [(#6229)](https://github.com/stdlib-js/stdlib/pull/6229) _(by Neeraj Pathak)_
 -   [`f4bf6e6`](https://github.com/stdlib-js/stdlib/commit/f4bf6e691a0617ac2ffa97514a20f23b62b5ccce) - **chore:** use consistent naming in `constants/float64/eulergamma` [(#6228)](https://github.com/stdlib-js/stdlib/pull/6228) _(by Gautam sharma)_
