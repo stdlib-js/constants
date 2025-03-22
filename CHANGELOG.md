@@ -33,6 +33,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-apery-unreleased">
+
+#### [@stdlib/constants/float32/apery](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/apery)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`8fa89e3`](https://github.com/stdlib-js/stdlib/commit/8fa89e374bde1d6aba5d589229d3150f27289658) - add `constants/float32/apery` [(#6304)](https://github.com/stdlib-js/stdlib/pull/6304)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-e-unreleased">
 
 #### [@stdlib/constants/float32/e](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/e)
@@ -843,6 +865,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`8fa89e3`](https://github.com/stdlib-js/stdlib/commit/8fa89e374bde1d6aba5d589229d3150f27289658) - **feat:** add `constants/float32/apery` [(#6304)](https://github.com/stdlib-js/stdlib/pull/6304) _(by Neeraj Pathak, Athan Reines)_
 -   [`0901e47`](https://github.com/stdlib-js/stdlib/commit/0901e47081951f23dde4aaf458bf4e09588e030e) - **docs:** add missing period _(by Athan Reines)_
 -   [`7519044`](https://github.com/stdlib-js/stdlib/commit/75190443b320958771420fe6411199708a9a4825) - **feat:** add `constants/float32/log10-e` [(#6230)](https://github.com/stdlib-js/stdlib/pull/6230) _(by Neeraj Pathak)_
 -   [`0e6bb71`](https://github.com/stdlib-js/stdlib/commit/0e6bb71223260a2d0c7745dc027bb73e19d3b277) - **feat:** add `constants/float32/log2-e` [(#6229)](https://github.com/stdlib-js/stdlib/pull/6229) _(by Neeraj Pathak)_
