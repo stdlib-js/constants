@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-22)
+## Unreleased (2025-03-24)
 
 <section class="packages">
 
@@ -559,6 +559,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-num-significand-bits-unreleased">
+
+#### [@stdlib/constants/float32/num-significand-bits](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/num-significand-bits)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`56b84a4`](https://github.com/stdlib-js/stdlib/commit/56b84a447b139f4fd8bc768237a8fa228fb7a0a0) - add `constants/float32/num-significand-bits` [(#6284)](https://github.com/stdlib-js/stdlib/pull/6284)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-sqrt-half-unreleased">
 
 #### [@stdlib/constants/float32/sqrt-half](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-half)
@@ -843,13 +865,14 @@ A total of 14 issues were closed in this release:
 
 ### Contributors
 
-A total of 9 people contributed to this release. Thank you to the following contributors:
+A total of 10 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Gautam sharma
 -   Gunj Joshi
 -   Gururaj Gurram
+-   Harsh
 -   Manvith M
 -   Neeraj Pathak
 -   Philipp Burckhardt
@@ -865,6 +888,7 @@ A total of 9 people contributed to this release. Thank you to the following cont
 
 <details>
 
+-   [`56b84a4`](https://github.com/stdlib-js/stdlib/commit/56b84a447b139f4fd8bc768237a8fa228fb7a0a0) - **feat:** add `constants/float32/num-significand-bits` [(#6284)](https://github.com/stdlib-js/stdlib/pull/6284) _(by Harsh)_
 -   [`8fa89e3`](https://github.com/stdlib-js/stdlib/commit/8fa89e374bde1d6aba5d589229d3150f27289658) - **feat:** add `constants/float32/apery` [(#6304)](https://github.com/stdlib-js/stdlib/pull/6304) _(by Neeraj Pathak, Athan Reines)_
 -   [`0901e47`](https://github.com/stdlib-js/stdlib/commit/0901e47081951f23dde4aaf458bf4e09588e030e) - **docs:** add missing period _(by Athan Reines)_
 -   [`7519044`](https://github.com/stdlib-js/stdlib/commit/75190443b320958771420fe6411199708a9a4825) - **feat:** add `constants/float32/log10-e` [(#6230)](https://github.com/stdlib-js/stdlib/pull/6230) _(by Neeraj Pathak)_
