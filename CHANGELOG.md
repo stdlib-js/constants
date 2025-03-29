@@ -441,6 +441,16 @@ This release closes the following issue:
 
 <!-- /.features -->
 
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`16aae9b`](https://github.com/stdlib-js/stdlib/commit/16aae9bff9543b7247f7fad0ed892161d1aae6d7) - move header file from `float64` to `float32` directory [(#6445)](https://github.com/stdlib-js/stdlib/pull/6445)
+
+</section>
+
+<!-- /.bug-fixes -->
+
 </details>
 
 </section>
@@ -967,6 +977,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`16aae9b`](https://github.com/stdlib-js/stdlib/commit/16aae9bff9543b7247f7fad0ed892161d1aae6d7) - **fix:** move header file from `float64` to `float32` directory [(#6445)](https://github.com/stdlib-js/stdlib/pull/6445) _(by Karan Anand)_
 -   [`c7d839f`](https://github.com/stdlib-js/stdlib/commit/c7d839fc6720542b68d30a871e3a3704aa54a885) - **feat:** add `constants/float32/max-safe-nth-double-factorial` [(#6364)](https://github.com/stdlib-js/stdlib/pull/6364) _(by Karan Anand, stdlib-bot)_
 -   [`7a824b1`](https://github.com/stdlib-js/stdlib/commit/7a824b1fee5300e447dcf8278a2397b6ad3a9f1c) - **fix:** correct `FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL` [(#6379)](https://github.com/stdlib-js/stdlib/pull/6379) _(by Karan Anand)_
 -   [`a77fb9e`](https://github.com/stdlib-js/stdlib/commit/a77fb9eba6a9649654a8913e431501fde6bf04da) - **feat:** add `constants/float32/pi-squared` [(#6069)](https://github.com/stdlib-js/stdlib/pull/6069) _(by Neeraj Pathak)_
