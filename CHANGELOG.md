@@ -425,6 +425,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-max-safe-nth-double-factorial-unreleased">
+
+#### [@stdlib/constants/float32/max-safe-nth-double-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-nth-double-factorial)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`c7d839f`](https://github.com/stdlib-js/stdlib/commit/c7d839fc6720542b68d30a871e3a3704aa54a885) - add `constants/float32/max-safe-nth-double-factorial` [(#6364)](https://github.com/stdlib-js/stdlib/pull/6364)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-max-safe-nth-lucas-unreleased">
 
 #### [@stdlib/constants/float32/max-safe-nth-lucas](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-nth-lucas)
@@ -945,6 +967,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`c7d839f`](https://github.com/stdlib-js/stdlib/commit/c7d839fc6720542b68d30a871e3a3704aa54a885) - **feat:** add `constants/float32/max-safe-nth-double-factorial` [(#6364)](https://github.com/stdlib-js/stdlib/pull/6364) _(by Karan Anand, stdlib-bot)_
 -   [`7a824b1`](https://github.com/stdlib-js/stdlib/commit/7a824b1fee5300e447dcf8278a2397b6ad3a9f1c) - **fix:** correct `FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL` [(#6379)](https://github.com/stdlib-js/stdlib/pull/6379) _(by Karan Anand)_
 -   [`a77fb9e`](https://github.com/stdlib-js/stdlib/commit/a77fb9eba6a9649654a8913e431501fde6bf04da) - **feat:** add `constants/float32/pi-squared` [(#6069)](https://github.com/stdlib-js/stdlib/pull/6069) _(by Neeraj Pathak)_
 -   [`56b84a4`](https://github.com/stdlib-js/stdlib/commit/56b84a447b139f4fd8bc768237a8fa228fb7a0a0) - **feat:** add `constants/float32/num-significand-bits` [(#6284)](https://github.com/stdlib-js/stdlib/pull/6284) _(by Harsh)_
