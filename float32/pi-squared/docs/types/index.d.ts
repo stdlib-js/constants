@@ -1,7 +1,7 @@
 /*
 * @license Apache-2.0
 *
-* Copyright (c) 2024 The Stdlib Authors.
+* Copyright (c) 2025 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -19,15 +19,15 @@
 // TypeScript Version: 4.1
 
 /**
-* Maximum safe nth double factorial when stored in double-precision floating-point format.
+* Square of the mathematical constant `π`.
 *
 * @example
-* var max = FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL;
-* // returns 300
+* var val = FLOAT32_PI_SQUARED;
+* // returns 9.869604110717773
 */
-declare const FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL: number;
+declare const FLOAT32_PI_SQUARED: number;
 
 
 // EXPORTS //
 
-export = FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL;
+export = FLOAT32_PI_SQUARED;

@@ -2,7 +2,7 @@
 
 @license Apache-2.0
 
-Copyright (c) 2024 The Stdlib Authors.
+Copyright (c) 2025 The Stdlib Authors.
 
 Licensed under the Apache License, Version 2.0 (the "License");
 you may not use this file except in compliance with the License.
@@ -18,28 +18,24 @@ limitations under the License.
 
 -->
 
-# FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL
+# FLOAT32_PI_SQUARED
 
-> Maximum safe nth [double factorial][double-factorial] when stored in [double-precision floating-point][ieee754] format.
+> [π][@stdlib/constants/float32/pi]².
 
 <section class="usage">
 
 ## Usage
 
-<!-- eslint-disable id-length -->
-
 ```javascript
-var FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL = require( '@stdlib/constants/float64/max-safe-nth-double-factorial' );
+var FLOAT32_PI_SQUARED = require( '@stdlib/constants/float32/pi-squared' );
 ```
 
-#### FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL
+#### FLOAT32_PI_SQUARED
 
-The maximum [safe][safe-integers] nth [double factorial][double-factorial] when stored in [double-precision floating-point][ieee754] format.
-
-<!-- eslint-disable id-length -->
+Square of the mathematical constant [π][@stdlib/constants/float32/pi].
 
 ```javascript
-var bool = ( FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL === 300 );
+var bool = ( FLOAT32_PI_SQUARED === 9.869604110717773 );
 // returns true
 ```
 
@@ -51,34 +47,15 @@ var bool = ( FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL === 300 );
 
 ## Examples
 
-<!-- eslint-disable id-length -->
+<!-- TODO: better example -->
 
 <!-- eslint no-undef: "error" -->
 
 ```javascript
-var FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL = require( '@stdlib/constants/float64/max-safe-nth-double-factorial' );
+var FLOAT32_PI_SQUARED = require( '@stdlib/constants/float32/pi-squared' );
 
-function factorial2( n ) {
-    var a;
-    var i;
-
-    a = 1;
-    for ( i = n; i >= 2; i -= 2 ) {
-        a *= i;
-    }
-    return a;
-}
-
-var v;
-var i;
-for ( i = 0; i < 400; i++ ) {
-    v = factorial2( i );
-    if ( i > FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL ) {
-        console.log( 'Unsafe: %d', v );
-    } else {
-        console.log( 'Safe:   %d', v );
-    }
-}
+console.log( FLOAT32_PI_SQUARED );
+// => 9.869604110717773
 ```
 
 </section>
@@ -108,12 +85,12 @@ for ( i = 0; i < 400; i++ ) {
 ### Usage
 
 ```c
-#include "stdlib/constants/float64/max_safe_nth_double_factorial.h"
+#include "stdlib/constants/float32/pi_squared.h"
 ```
 
-#### STDLIB_CONSTANT_FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL
+#### STDLIB_CONSTANT_FLOAT32_PI_SQUARED
 
-Macro for the maximum [safe][safe-integers] nth [double factorial][double-factorial] when stored in [double-precision floating-point][ieee754] format.
+Macro for the square of the mathematical constant [π][@stdlib/constants/float32/pi].
 
 </section>
 
@@ -151,15 +128,7 @@ Macro for the maximum [safe][safe-integers] nth [double factorial][double-factor
 
 <section class="links">
 
-[safe-integers]: http://www.2ality.com/2013/10/safe-integers.html
-
-[double-factorial]: https://en.wikipedia.org/wiki/Double_factorial
-
-[ieee754]: https://en.wikipedia.org/wiki/IEEE_754-1985
-
-<!-- <related-links> -->
-
-<!-- </related-links> -->
+[@stdlib/constants/float32/pi]: https://github.com/stdlib-js/constants/tree/main/float32/pi
 
 </section>
 

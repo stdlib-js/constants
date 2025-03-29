@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-24)
+## Unreleased (2025-03-29)
 
 <section class="packages">
 
@@ -581,6 +581,40 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-pi-squared-unreleased">
+
+#### [@stdlib/constants/float32/pi-squared](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/pi-squared)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`a77fb9e`](https://github.com/stdlib-js/stdlib/commit/a77fb9eba6a9649654a8913e431501fde6bf04da) - add `constants/float32/pi-squared` [(#6069)](https://github.com/stdlib-js/stdlib/pull/6069)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+##### Closed Issues
+
+This release closes the following issue:
+
+[#6070](https://github.com/stdlib-js/stdlib/issues/6070)
+
+</section>
+
+<!-- /.issues -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-sqrt-half-unreleased">
 
 #### [@stdlib/constants/float32/sqrt-half](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/sqrt-half)
@@ -823,6 +857,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float64-max-safe-nth-double-factorial-unreleased">
+
+#### [@stdlib/constants/float64/max-safe-nth-double-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-double-factorial)
+
+<details>
+
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`7a824b1`](https://github.com/stdlib-js/stdlib/commit/7a824b1fee5300e447dcf8278a2397b6ad3a9f1c) - correct `FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL` [(#6379)](https://github.com/stdlib-js/stdlib/pull/6379)
+
+</section>
+
+<!-- /.bug-fixes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float64-max-safe-nth-tribonacci-unreleased">
 
 #### [@stdlib/constants/float64/max-safe-nth-tribonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-tribonacci)
@@ -853,9 +909,9 @@ This release closes the following issue:
 
 ### Closed Issues
 
-A total of 14 issues were closed in this release:
+A total of 15 issues were closed in this release:
 
-[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3343](https://github.com/stdlib-js/stdlib/issues/3343), [#3344](https://github.com/stdlib-js/stdlib/issues/3344), [#6050](https://github.com/stdlib-js/stdlib/issues/6050), [#6072](https://github.com/stdlib-js/stdlib/issues/6072), [#6076](https://github.com/stdlib-js/stdlib/issues/6076), [#6097](https://github.com/stdlib-js/stdlib/issues/6097), [#6222](https://github.com/stdlib-js/stdlib/issues/6222)
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3343](https://github.com/stdlib-js/stdlib/issues/3343), [#3344](https://github.com/stdlib-js/stdlib/issues/3344), [#6050](https://github.com/stdlib-js/stdlib/issues/6050), [#6070](https://github.com/stdlib-js/stdlib/issues/6070), [#6072](https://github.com/stdlib-js/stdlib/issues/6072), [#6076](https://github.com/stdlib-js/stdlib/issues/6076), [#6097](https://github.com/stdlib-js/stdlib/issues/6097), [#6222](https://github.com/stdlib-js/stdlib/issues/6222)
 
 </section>
 
@@ -865,7 +921,7 @@ A total of 14 issues were closed in this release:
 
 ### Contributors
 
-A total of 10 people contributed to this release. Thank you to the following contributors:
+A total of 11 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
@@ -873,6 +929,7 @@ A total of 10 people contributed to this release. Thank you to the following con
 -   Gunj Joshi
 -   Gururaj Gurram
 -   Harsh
+-   Karan Anand
 -   Manvith M
 -   Neeraj Pathak
 -   Philipp Burckhardt
@@ -888,6 +945,8 @@ A total of 10 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`7a824b1`](https://github.com/stdlib-js/stdlib/commit/7a824b1fee5300e447dcf8278a2397b6ad3a9f1c) - **fix:** correct `FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL` [(#6379)](https://github.com/stdlib-js/stdlib/pull/6379) _(by Karan Anand)_
+-   [`a77fb9e`](https://github.com/stdlib-js/stdlib/commit/a77fb9eba6a9649654a8913e431501fde6bf04da) - **feat:** add `constants/float32/pi-squared` [(#6069)](https://github.com/stdlib-js/stdlib/pull/6069) _(by Neeraj Pathak)_
 -   [`56b84a4`](https://github.com/stdlib-js/stdlib/commit/56b84a447b139f4fd8bc768237a8fa228fb7a0a0) - **feat:** add `constants/float32/num-significand-bits` [(#6284)](https://github.com/stdlib-js/stdlib/pull/6284) _(by Harsh)_
 -   [`8fa89e3`](https://github.com/stdlib-js/stdlib/commit/8fa89e374bde1d6aba5d589229d3150f27289658) - **feat:** add `constants/float32/apery` [(#6304)](https://github.com/stdlib-js/stdlib/pull/6304) _(by Neeraj Pathak, Athan Reines)_
 -   [`0901e47`](https://github.com/stdlib-js/stdlib/commit/0901e47081951f23dde4aaf458bf4e09588e030e) - **docs:** add missing period _(by Athan Reines)_

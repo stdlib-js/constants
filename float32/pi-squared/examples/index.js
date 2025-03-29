@@ -1,7 +1,7 @@
-/*
+/**
 * @license Apache-2.0
 *
-* Copyright (c) 2024 The Stdlib Authors.
+* Copyright (c) 2025 The Stdlib Authors.
 *
 * Licensed under the Apache License, Version 2.0 (the "License");
 * you may not use this file except in compliance with the License.
@@ -16,18 +16,9 @@
 * limitations under the License.
 */
 
-// TypeScript Version: 4.1
+'use strict';
 
-/**
-* Maximum safe nth double factorial when stored in double-precision floating-point format.
-*
-* @example
-* var max = FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL;
-* // returns 300
-*/
-declare const FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL: number;
+var FLOAT32_PI_SQUARED = require( './../lib' );
 
-
-// EXPORTS //
-
-export = FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL;
+console.log( FLOAT32_PI_SQUARED );
+// => 9.869604110717773
