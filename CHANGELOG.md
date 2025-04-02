@@ -469,6 +469,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-max-ln-unreleased">
+
+#### [@stdlib/constants/float32/max-ln](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-ln)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`a83525e`](https://github.com/stdlib-js/stdlib/commit/a83525e1139aed64b91bb3642dc05adaf08f0567) - add `constants/float32/max-ln` [(#6256)](https://github.com/stdlib-js/stdlib/pull/6256)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-max-safe-nth-double-factorial-unreleased">
 
 #### [@stdlib/constants/float32/max-safe-nth-double-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-nth-double-factorial)
@@ -1043,6 +1065,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`a83525e`](https://github.com/stdlib-js/stdlib/commit/a83525e1139aed64b91bb3642dc05adaf08f0567) - **feat:** add `constants/float32/max-ln` [(#6256)](https://github.com/stdlib-js/stdlib/pull/6256) _(by Harsh, Athan Reines)_
 -   [`40ba86d`](https://github.com/stdlib-js/stdlib/commit/40ba86d3364cd477cea23197d16b5f5e3ae6575f) - **feat:** add `constants/float32/min-ln` [(#6261)](https://github.com/stdlib-js/stdlib/pull/6261) _(by Harsh, Athan Reines)_
 -   [`baf9f87`](https://github.com/stdlib-js/stdlib/commit/baf9f873657db1f99a83c844349c07a3e6b6aa7f) - **feat:** add `constants/float32/eulergamma` [(#6209)](https://github.com/stdlib-js/stdlib/pull/6209) _(by Neeraj Pathak, Athan Reines)_
 -   [`67d1bf8`](https://github.com/stdlib-js/stdlib/commit/67d1bf8fc43e54949fb1b68256cde552919d3e6d) - **feat:** add `constants/float32/fourth-root-eps` [(#6373)](https://github.com/stdlib-js/stdlib/pull/6373) _(by Harsh, Athan Reines)_
