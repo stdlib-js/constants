@@ -77,6 +77,28 @@
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-eulergamma-unreleased">
+
+#### [@stdlib/constants/float32/eulergamma](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/eulergamma)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`baf9f87`](https://github.com/stdlib-js/stdlib/commit/baf9f873657db1f99a83c844349c07a3e6b6aa7f) - add `constants/float32/eulergamma` [(#6209)](https://github.com/stdlib-js/stdlib/pull/6209)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-fourth-root-eps-unreleased">
 
 #### [@stdlib/constants/float32/fourth-root-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/fourth-root-eps)
@@ -999,6 +1021,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`baf9f87`](https://github.com/stdlib-js/stdlib/commit/baf9f873657db1f99a83c844349c07a3e6b6aa7f) - **feat:** add `constants/float32/eulergamma` [(#6209)](https://github.com/stdlib-js/stdlib/pull/6209) _(by Neeraj Pathak, Athan Reines)_
 -   [`67d1bf8`](https://github.com/stdlib-js/stdlib/commit/67d1bf8fc43e54949fb1b68256cde552919d3e6d) - **feat:** add `constants/float32/fourth-root-eps` [(#6373)](https://github.com/stdlib-js/stdlib/pull/6373) _(by Harsh, Athan Reines)_
 -   [`16aae9b`](https://github.com/stdlib-js/stdlib/commit/16aae9bff9543b7247f7fad0ed892161d1aae6d7) - **fix:** move header file from `float64` to `float32` directory [(#6445)](https://github.com/stdlib-js/stdlib/pull/6445) _(by Karan Anand)_
 -   [`c7d839f`](https://github.com/stdlib-js/stdlib/commit/c7d839fc6720542b68d30a871e3a3704aa54a885) - **feat:** add `constants/float32/max-safe-nth-double-factorial` [(#6364)](https://github.com/stdlib-js/stdlib/pull/6364) _(by Karan Anand, stdlib-bot)_
