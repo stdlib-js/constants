@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-03-29)
+## Unreleased (2025-04-02)
 
 <section class="packages">
 
@@ -66,6 +66,28 @@
 ##### Features
 
 -   [`951fbd2`](https://github.com/stdlib-js/stdlib/commit/951fbd24ae17d11d75cb4a9c321ddc2e62eecd30) - add `constants/float32/e` [(#3101)](https://github.com/stdlib-js/stdlib/pull/3101)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
+<section class="package" id="constants-float32-fourth-root-eps-unreleased">
+
+#### [@stdlib/constants/float32/fourth-root-eps](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/fourth-root-eps)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`67d1bf8`](https://github.com/stdlib-js/stdlib/commit/67d1bf8fc43e54949fb1b68256cde552919d3e6d) - add `constants/float32/fourth-root-eps` [(#6373)](https://github.com/stdlib-js/stdlib/pull/6373)
 
 </section>
 
@@ -977,6 +999,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`67d1bf8`](https://github.com/stdlib-js/stdlib/commit/67d1bf8fc43e54949fb1b68256cde552919d3e6d) - **feat:** add `constants/float32/fourth-root-eps` [(#6373)](https://github.com/stdlib-js/stdlib/pull/6373) _(by Harsh, Athan Reines)_
 -   [`16aae9b`](https://github.com/stdlib-js/stdlib/commit/16aae9bff9543b7247f7fad0ed892161d1aae6d7) - **fix:** move header file from `float64` to `float32` directory [(#6445)](https://github.com/stdlib-js/stdlib/pull/6445) _(by Karan Anand)_
 -   [`c7d839f`](https://github.com/stdlib-js/stdlib/commit/c7d839fc6720542b68d30a871e3a3704aa54a885) - **feat:** add `constants/float32/max-safe-nth-double-factorial` [(#6364)](https://github.com/stdlib-js/stdlib/pull/6364) _(by Karan Anand, stdlib-bot)_
 -   [`7a824b1`](https://github.com/stdlib-js/stdlib/commit/7a824b1fee5300e447dcf8278a2397b6ad3a9f1c) - **fix:** correct `FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL` [(#6379)](https://github.com/stdlib-js/stdlib/pull/6379) _(by Karan Anand)_
