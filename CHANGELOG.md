@@ -513,6 +513,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-max-safe-lucas-unreleased">
+
+#### [@stdlib/constants/float32/max-safe-lucas](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-lucas)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`0d59526`](https://github.com/stdlib-js/stdlib/commit/0d59526ec7c6746cb57e7ffcab2f197769caafb6) - add `constants/float32/max-safe-lucas` [(#6374)](https://github.com/stdlib-js/stdlib/pull/6374)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-max-safe-nth-double-factorial-unreleased">
 
 #### [@stdlib/constants/float32/max-safe-nth-double-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-nth-double-factorial)
@@ -1087,6 +1109,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`0d59526`](https://github.com/stdlib-js/stdlib/commit/0d59526ec7c6746cb57e7ffcab2f197769caafb6) - **feat:** add `constants/float32/max-safe-lucas` [(#6374)](https://github.com/stdlib-js/stdlib/pull/6374) _(by Harsh, Athan Reines, Gunj Joshi)_
 -   [`8436708`](https://github.com/stdlib-js/stdlib/commit/8436708f7e36433f7d74fdaef41c6c9a6469de45) - **feat:** add `constants/float32/catalan` [(#6203)](https://github.com/stdlib-js/stdlib/pull/6203) _(by Neeraj Pathak, Athan Reines)_
 -   [`a83525e`](https://github.com/stdlib-js/stdlib/commit/a83525e1139aed64b91bb3642dc05adaf08f0567) - **feat:** add `constants/float32/max-ln` [(#6256)](https://github.com/stdlib-js/stdlib/pull/6256) _(by Harsh, Athan Reines)_
 -   [`40ba86d`](https://github.com/stdlib-js/stdlib/commit/40ba86d3364cd477cea23197d16b5f5e3ae6575f) - **feat:** add `constants/float32/min-ln` [(#6261)](https://github.com/stdlib-js/stdlib/pull/6261) _(by Harsh, Athan Reines)_
