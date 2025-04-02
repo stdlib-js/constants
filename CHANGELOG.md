@@ -635,6 +635,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-min-ln-unreleased">
+
+#### [@stdlib/constants/float32/min-ln](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/min-ln)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`40ba86d`](https://github.com/stdlib-js/stdlib/commit/40ba86d3364cd477cea23197d16b5f5e3ae6575f) - add `constants/float32/min-ln` [(#6261)](https://github.com/stdlib-js/stdlib/pull/6261)
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-num-significand-bits-unreleased">
 
 #### [@stdlib/constants/float32/num-significand-bits](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/num-significand-bits)
@@ -1021,6 +1043,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`40ba86d`](https://github.com/stdlib-js/stdlib/commit/40ba86d3364cd477cea23197d16b5f5e3ae6575f) - **feat:** add `constants/float32/min-ln` [(#6261)](https://github.com/stdlib-js/stdlib/pull/6261) _(by Harsh, Athan Reines)_
 -   [`baf9f87`](https://github.com/stdlib-js/stdlib/commit/baf9f873657db1f99a83c844349c07a3e6b6aa7f) - **feat:** add `constants/float32/eulergamma` [(#6209)](https://github.com/stdlib-js/stdlib/pull/6209) _(by Neeraj Pathak, Athan Reines)_
 -   [`67d1bf8`](https://github.com/stdlib-js/stdlib/commit/67d1bf8fc43e54949fb1b68256cde552919d3e6d) - **feat:** add `constants/float32/fourth-root-eps` [(#6373)](https://github.com/stdlib-js/stdlib/pull/6373) _(by Harsh, Athan Reines)_
 -   [`16aae9b`](https://github.com/stdlib-js/stdlib/commit/16aae9bff9543b7247f7fad0ed892161d1aae6d7) - **fix:** move header file from `float64` to `float32` directory [(#6445)](https://github.com/stdlib-js/stdlib/pull/6445) _(by Karan Anand)_
