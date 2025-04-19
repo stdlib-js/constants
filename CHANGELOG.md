@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-07)
+## Unreleased (2025-04-19)
 
 <section class="packages">
 
@@ -1109,6 +1109,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`3275ec2`](https://github.com/stdlib-js/stdlib/commit/3275ec2fd4cadcb50d5191fda88ffa78fbf3b831) - **chore:** update test messages in `constants/float64` [(#6728)](https://github.com/stdlib-js/stdlib/pull/6728) _(by Harsh)_
 -   [`0d59526`](https://github.com/stdlib-js/stdlib/commit/0d59526ec7c6746cb57e7ffcab2f197769caafb6) - **feat:** add `constants/float32/max-safe-lucas` [(#6374)](https://github.com/stdlib-js/stdlib/pull/6374) _(by Harsh, Athan Reines, Gunj Joshi)_
 -   [`8436708`](https://github.com/stdlib-js/stdlib/commit/8436708f7e36433f7d74fdaef41c6c9a6469de45) - **feat:** add `constants/float32/catalan` [(#6203)](https://github.com/stdlib-js/stdlib/pull/6203) _(by Neeraj Pathak, Athan Reines)_
 -   [`a83525e`](https://github.com/stdlib-js/stdlib/commit/a83525e1139aed64b91bb3642dc05adaf08f0567) - **feat:** add `constants/float32/max-ln` [(#6256)](https://github.com/stdlib-js/stdlib/pull/6256) _(by Harsh, Athan Reines)_
