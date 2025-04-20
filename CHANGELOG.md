@@ -1129,7 +1129,7 @@ A total of 15 issues were closed in this release:
 
 ### Contributors
 
-A total of 11 people contributed to this release. Thank you to the following contributors:
+A total of 12 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
@@ -1142,6 +1142,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 -   Neeraj Pathak
 -   Philipp Burckhardt
 -   Vivek Maurya
+-   hrshya
 
 </section>
 
@@ -1153,6 +1154,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`6847363`](https://github.com/stdlib-js/stdlib/commit/68473633e18bf94b785faa26992986552f6ead2c) - **chore:** update test messages in `constants/float64` [(#6747)](https://github.com/stdlib-js/stdlib/pull/6747) _(by Harsh, hrshya)_
 -   [`a41f30e`](https://github.com/stdlib-js/stdlib/commit/a41f30e05539ab23eaa1b2e9ca7581029ea8b0aa) - **fix:** correct `FLOAT64_MAX_SAFE_NTH_FACTORIAL` _(by Karan Anand)_
 -   [`6647a76`](https://github.com/stdlib-js/stdlib/commit/6647a76f9353e27b0e3647f5087fba1edcd68f61) - **feat:** add `constants/float64/max-nth-factorial` _(by Karan Anand)_
 -   [`3275ec2`](https://github.com/stdlib-js/stdlib/commit/3275ec2fd4cadcb50d5191fda88ffa78fbf3b831) - **chore:** update test messages in `constants/float64` [(#6728)](https://github.com/stdlib-js/stdlib/pull/6728) _(by Harsh)_
