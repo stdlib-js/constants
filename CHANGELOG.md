@@ -1065,6 +1065,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float64-max-safe-nth-factorial-unreleased">
+
+#### [@stdlib/constants/float64/max-safe-nth-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-factorial)
+
+<details>
+
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`a41f30e`](https://github.com/stdlib-js/stdlib/commit/a41f30e05539ab23eaa1b2e9ca7581029ea8b0aa) - correct `FLOAT64_MAX_SAFE_NTH_FACTORIAL`
+
+</section>
+
+<!-- /.bug-fixes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float64-max-safe-nth-tribonacci-unreleased">
 
 #### [@stdlib/constants/float64/max-safe-nth-tribonacci](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-tribonacci)
@@ -1131,6 +1153,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`a41f30e`](https://github.com/stdlib-js/stdlib/commit/a41f30e05539ab23eaa1b2e9ca7581029ea8b0aa) - **fix:** correct `FLOAT64_MAX_SAFE_NTH_FACTORIAL` _(by Karan Anand)_
 -   [`6647a76`](https://github.com/stdlib-js/stdlib/commit/6647a76f9353e27b0e3647f5087fba1edcd68f61) - **feat:** add `constants/float64/max-nth-factorial` _(by Karan Anand)_
 -   [`3275ec2`](https://github.com/stdlib-js/stdlib/commit/3275ec2fd4cadcb50d5191fda88ffa78fbf3b831) - **chore:** update test messages in `constants/float64` [(#6728)](https://github.com/stdlib-js/stdlib/pull/6728) _(by Harsh)_
 -   [`0d59526`](https://github.com/stdlib-js/stdlib/commit/0d59526ec7c6746cb57e7ffcab2f197769caafb6) - **feat:** add `constants/float32/max-safe-lucas` [(#6374)](https://github.com/stdlib-js/stdlib/pull/6374) _(by Harsh, Athan Reines, Gunj Joshi)_

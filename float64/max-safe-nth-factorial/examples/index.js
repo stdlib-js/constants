@@ -18,7 +18,7 @@
 
 'use strict';
 
-var FLOAT64_MAX_SAFE_NTH_FACTORIAL = require( './../lib' );
+var FLOAT64_MAX_SAFE_NTH_FACTORIAL = require( './../lib' ); // eslint-disable-line id-length
 
 var v;
 var i;
@@ -34,7 +34,7 @@ function factorial( n ) {
 	return a;
 }
 
-for ( i = 0; i < 200; i++ ) {
+for ( i = 0; i < 50; i++ ) {
 	v = factorial( i );
 	if ( i > FLOAT64_MAX_SAFE_NTH_FACTORIAL ) {
 		console.log( 'Unsafe: %d', v );
