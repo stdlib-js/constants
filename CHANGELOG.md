@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-19)
+## Unreleased (2025-04-20)
 
 <section class="packages">
 
@@ -1021,6 +1021,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float64-max-nth-factorial-unreleased">
+
+#### [@stdlib/constants/float64/max-nth-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-nth-factorial)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`6647a76`](https://github.com/stdlib-js/stdlib/commit/6647a76f9353e27b0e3647f5087fba1edcd68f61) - add `constants/float64/max-nth-factorial`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float64-max-safe-nth-double-factorial-unreleased">
 
 #### [@stdlib/constants/float64/max-safe-nth-double-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-safe-nth-double-factorial)
@@ -1109,6 +1131,7 @@ A total of 11 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`6647a76`](https://github.com/stdlib-js/stdlib/commit/6647a76f9353e27b0e3647f5087fba1edcd68f61) - **feat:** add `constants/float64/max-nth-factorial` _(by Karan Anand)_
 -   [`3275ec2`](https://github.com/stdlib-js/stdlib/commit/3275ec2fd4cadcb50d5191fda88ffa78fbf3b831) - **chore:** update test messages in `constants/float64` [(#6728)](https://github.com/stdlib-js/stdlib/pull/6728) _(by Harsh)_
 -   [`0d59526`](https://github.com/stdlib-js/stdlib/commit/0d59526ec7c6746cb57e7ffcab2f197769caafb6) - **feat:** add `constants/float32/max-safe-lucas` [(#6374)](https://github.com/stdlib-js/stdlib/pull/6374) _(by Harsh, Athan Reines, Gunj Joshi)_
 -   [`8436708`](https://github.com/stdlib-js/stdlib/commit/8436708f7e36433f7d74fdaef41c6c9a6469de45) - **feat:** add `constants/float32/catalan` [(#6203)](https://github.com/stdlib-js/stdlib/pull/6203) _(by Neeraj Pathak, Athan Reines)_
