@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-04-20)
+## Unreleased (2025-04-21)
 
 <section class="packages">
 
@@ -1154,6 +1154,7 @@ A total of 12 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`4b8eae7`](https://github.com/stdlib-js/stdlib/commit/4b8eae7701fc8b4a877181bd048866d5e0a397e5) - **docs:** fix examples _(by Athan Reines)_
 -   [`0c37cb3`](https://github.com/stdlib-js/stdlib/commit/0c37cb30a51bf5c1e026bf66719c7a4f2b3b2be9) - **chore:** update test messages in `constants/float64` [(#6749)](https://github.com/stdlib-js/stdlib/pull/6749) _(by Harsh)_
 -   [`294d60a`](https://github.com/stdlib-js/stdlib/commit/294d60af4131dbdbc9b717708e407cc07de14ebc) - **chore:** update test messages in `constants/float64` [(#6748)](https://github.com/stdlib-js/stdlib/pull/6748) _(by Harsh, hrshya)_
 -   [`6847363`](https://github.com/stdlib-js/stdlib/commit/68473633e18bf94b785faa26992986552f6ead2c) - **chore:** update test messages in `constants/float64` [(#6747)](https://github.com/stdlib-js/stdlib/pull/6747) _(by Harsh, hrshya)_
