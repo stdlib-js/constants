@@ -1021,6 +1021,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float64-max-nth-double-factorial-unreleased">
+
+#### [@stdlib/constants/float64/max-nth-double-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-nth-double-factorial)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`efef831`](https://github.com/stdlib-js/stdlib/commit/efef83155872e1f55ca49df03a0c7485409c25e5) - add `constants/float64/max-nth-double-factorial`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float64-max-nth-factorial-unreleased">
 
 #### [@stdlib/constants/float64/max-nth-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float64/max-nth-factorial)
@@ -1154,6 +1176,7 @@ A total of 12 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`efef831`](https://github.com/stdlib-js/stdlib/commit/efef83155872e1f55ca49df03a0c7485409c25e5) - **feat:** add `constants/float64/max-nth-double-factorial` _(by Karan Anand)_
 -   [`70369dc`](https://github.com/stdlib-js/stdlib/commit/70369dce75e32d97f337b26e79fcb5a412acb337) - **docs:** fix examples _(by Karan Anand)_
 -   [`4b8eae7`](https://github.com/stdlib-js/stdlib/commit/4b8eae7701fc8b4a877181bd048866d5e0a397e5) - **docs:** fix examples _(by Athan Reines)_
 -   [`0c37cb3`](https://github.com/stdlib-js/stdlib/commit/0c37cb30a51bf5c1e026bf66719c7a4f2b3b2be9) - **chore:** update test messages in `constants/float64` [(#6749)](https://github.com/stdlib-js/stdlib/pull/6749) _(by Harsh)_
