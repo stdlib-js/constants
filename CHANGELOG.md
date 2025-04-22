@@ -1221,6 +1221,7 @@ A total of 12 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`9b9c746`](https://github.com/stdlib-js/stdlib/commit/9b9c7468b6c0c0d2575bbeedbee96c9bcee64b26) - **chore:** update test messages in `constants/float32` [(#6773)](https://github.com/stdlib-js/stdlib/pull/6773) _(by Harsh)_
 -   [`2e8998e`](https://github.com/stdlib-js/stdlib/commit/2e8998ee67be12caff9a99df3ba3256c55b167a2) - **chore:** update test messages in `constants/float16` [(#6774)](https://github.com/stdlib-js/stdlib/pull/6774) _(by Harsh)_
 -   [`43cd244`](https://github.com/stdlib-js/stdlib/commit/43cd244790fb505f69250a7ff28e31e5d901c5fd) - **fix:** correct `FLOAT32_MAX_SAFE_NTH_FACTORIAL` _(by Karan Anand)_
 -   [`135d9c7`](https://github.com/stdlib-js/stdlib/commit/135d9c70248a7cf101481bd3a80cb704088782b0) - **docs:** re-enable lint rule _(by Karan Anand)_
