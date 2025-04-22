@@ -599,6 +599,7 @@ This release closes the following issue:
 
 ##### Bug Fixes
 
+-   [`8ce04f0`](https://github.com/stdlib-js/stdlib/commit/8ce04f0e2e054342e76a16f584de929b15c93f9f) - correct `FLOAT32_MAX_SAFE_NTH_DOUBLE_FACTORIAL`
 -   [`16aae9b`](https://github.com/stdlib-js/stdlib/commit/16aae9bff9543b7247f7fad0ed892161d1aae6d7) - move header file from `float64` to `float32` directory [(#6445)](https://github.com/stdlib-js/stdlib/pull/6445)
 
 </section>
@@ -1243,6 +1244,7 @@ A total of 12 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`8ce04f0`](https://github.com/stdlib-js/stdlib/commit/8ce04f0e2e054342e76a16f584de929b15c93f9f) - **fix:** correct `FLOAT32_MAX_SAFE_NTH_DOUBLE_FACTORIAL` _(by Karan Anand)_
 -   [`ba45bb5`](https://github.com/stdlib-js/stdlib/commit/ba45bb5784a790f936aa504978b5cbe3878f5752) - **feat:** add `constants/float32/max-nth-double-factorial` _(by Karan Anand)_
 -   [`9da756f`](https://github.com/stdlib-js/stdlib/commit/9da756fc7693aabf8ccb8e8af1a444372253f4f4) - **chore:** update test messages in `constants/float32` [(#6772)](https://github.com/stdlib-js/stdlib/pull/6772) _(by Harsh)_
 -   [`9b9c746`](https://github.com/stdlib-js/stdlib/commit/9b9c7468b6c0c0d2575bbeedbee96c9bcee64b26) - **chore:** update test messages in `constants/float32` [(#6773)](https://github.com/stdlib-js/stdlib/pull/6773) _(by Harsh)_
