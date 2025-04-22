@@ -513,6 +513,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-max-nth-double-factorial-unreleased">
+
+#### [@stdlib/constants/float32/max-nth-double-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-nth-double-factorial)
+
+<details>
+
+<section class="features">
+
+##### Features
+
+-   [`ba45bb5`](https://github.com/stdlib-js/stdlib/commit/ba45bb5784a790f936aa504978b5cbe3878f5752) - add `constants/float32/max-nth-double-factorial`
+
+</section>
+
+<!-- /.features -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-max-nth-factorial-unreleased">
 
 #### [@stdlib/constants/float32/max-nth-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-nth-factorial)
@@ -1221,6 +1243,7 @@ A total of 12 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`ba45bb5`](https://github.com/stdlib-js/stdlib/commit/ba45bb5784a790f936aa504978b5cbe3878f5752) - **feat:** add `constants/float32/max-nth-double-factorial` _(by Karan Anand)_
 -   [`9da756f`](https://github.com/stdlib-js/stdlib/commit/9da756fc7693aabf8ccb8e8af1a444372253f4f4) - **chore:** update test messages in `constants/float32` [(#6772)](https://github.com/stdlib-js/stdlib/pull/6772) _(by Harsh)_
 -   [`9b9c746`](https://github.com/stdlib-js/stdlib/commit/9b9c7468b6c0c0d2575bbeedbee96c9bcee64b26) - **chore:** update test messages in `constants/float32` [(#6773)](https://github.com/stdlib-js/stdlib/pull/6773) _(by Harsh)_
 -   [`2e8998e`](https://github.com/stdlib-js/stdlib/commit/2e8998ee67be12caff9a99df3ba3256c55b167a2) - **chore:** update test messages in `constants/float16` [(#6774)](https://github.com/stdlib-js/stdlib/pull/6774) _(by Harsh)_
