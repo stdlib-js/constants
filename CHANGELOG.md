@@ -589,6 +589,28 @@ This release closes the following issue:
 
 <!-- /.package -->
 
+<section class="package" id="constants-float32-max-safe-nth-factorial-unreleased">
+
+#### [@stdlib/constants/float32/max-safe-nth-factorial](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-nth-factorial)
+
+<details>
+
+<section class="bug-fixes">
+
+##### Bug Fixes
+
+-   [`43cd244`](https://github.com/stdlib-js/stdlib/commit/43cd244790fb505f69250a7ff28e31e5d901c5fd) - correct `FLOAT32_MAX_SAFE_NTH_FACTORIAL`
+
+</section>
+
+<!-- /.bug-fixes -->
+
+</details>
+
+</section>
+
+<!-- /.package -->
+
 <section class="package" id="constants-float32-max-safe-nth-lucas-unreleased">
 
 #### [@stdlib/constants/float32/max-safe-nth-lucas](https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/constants/float32/max-safe-nth-lucas)
@@ -1199,6 +1221,7 @@ A total of 12 people contributed to this release. Thank you to the following con
 
 <details>
 
+-   [`43cd244`](https://github.com/stdlib-js/stdlib/commit/43cd244790fb505f69250a7ff28e31e5d901c5fd) - **fix:** correct `FLOAT32_MAX_SAFE_NTH_FACTORIAL` _(by Karan Anand)_
 -   [`135d9c7`](https://github.com/stdlib-js/stdlib/commit/135d9c70248a7cf101481bd3a80cb704088782b0) - **docs:** re-enable lint rule _(by Karan Anand)_
 -   [`b4a5ede`](https://github.com/stdlib-js/stdlib/commit/b4a5ede4150565c8d410d8e114e6d182af4231c3) - **feat:** add `constants/float32/max-nth-factorial` _(by Karan Anand)_
 -   [`170ed65`](https://github.com/stdlib-js/stdlib/commit/170ed65bcf933f7a7642bd735e1d376cbc0ecb6d) - **fix:** correct `FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL` _(by Karan Anand)_
