@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-08)
+## Unreleased (2025-05-26)
 
 <section class="features">
 
@@ -59,6 +59,7 @@
 
 ### Bug Fixes
 
+-   [`9a41c60`](https://github.com/stdlib-js/stdlib/commit/9a41c60577db195a819cbc161bf41961343f7cfb) - correct `FLOAT32_GAMMA_LANCZOS_G`
 -   [`8ce04f0`](https://github.com/stdlib-js/stdlib/commit/8ce04f0e2e054342e76a16f584de929b15c93f9f) - correct `FLOAT32_MAX_SAFE_NTH_DOUBLE_FACTORIAL`
 -   [`43cd244`](https://github.com/stdlib-js/stdlib/commit/43cd244790fb505f69250a7ff28e31e5d901c5fd) - correct `FLOAT32_MAX_SAFE_NTH_FACTORIAL`
 -   [`170ed65`](https://github.com/stdlib-js/stdlib/commit/170ed65bcf933f7a7642bd735e1d376cbc0ecb6d) - correct `FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL`
@@ -91,6 +92,7 @@ A total of 16 issues were closed in this release:
 
 <details>
 
+-   [`9a41c60`](https://github.com/stdlib-js/stdlib/commit/9a41c60577db195a819cbc161bf41961343f7cfb) - **fix:** correct `FLOAT32_GAMMA_LANCZOS_G` _(by Karan Anand)_
 -   [`d184af8`](https://github.com/stdlib-js/stdlib/commit/d184af8e708f060929ad52eaa1917dbd61abc7e3) - **chore:** fix EditorConfig lint errors [(#6945)](https://github.com/stdlib-js/stdlib/pull/6945) _(by zhanggy)_
 -   [`8ce04f0`](https://github.com/stdlib-js/stdlib/commit/8ce04f0e2e054342e76a16f584de929b15c93f9f) - **fix:** correct `FLOAT32_MAX_SAFE_NTH_DOUBLE_FACTORIAL` _(by Karan Anand)_
 -   [`ba45bb5`](https://github.com/stdlib-js/stdlib/commit/ba45bb5784a790f936aa504978b5cbe3878f5752) - **feat:** add `constants/float32/max-nth-double-factorial` _(by Karan Anand)_
