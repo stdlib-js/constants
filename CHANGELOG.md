@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-05-26)
+## Unreleased (2025-06-26)
 
 <section class="features">
 
@@ -93,6 +93,8 @@ A total of 16 issues were closed in this release:
 
 <details>
 
+-   [`004ecc4`](https://github.com/stdlib-js/stdlib/commit/004ecc463270148af73d11dc328038de4a47bce6) - **docs:** minor clean-up _(by Philipp Burckhardt)_
+-   [`46ff8ea`](https://github.com/stdlib-js/stdlib/commit/46ff8ea7761ae438c4718681c5890f146fb0985e) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`4b68ef4`](https://github.com/stdlib-js/stdlib/commit/4b68ef463823ebbe3d4bede1629c04ca00a6a19f) - **docs:** remove references section _(by Karan Anand)_
 -   [`cf54782`](https://github.com/stdlib-js/stdlib/commit/cf547821b6bf3dff9f59d177eb99394c70402882) - **fix:** rename constant to follow `float32` naming conventions _(by Karan Anand)_
 -   [`9a41c60`](https://github.com/stdlib-js/stdlib/commit/9a41c60577db195a819cbc161bf41961343f7cfb) - **fix:** correct `FLOAT32_GAMMA_LANCZOS_G` _(by Karan Anand)_
