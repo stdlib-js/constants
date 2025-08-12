@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-06-26)
+## Unreleased (2025-08-12)
 
 <section class="features">
 
@@ -93,6 +93,9 @@ A total of 16 issues were closed in this release:
 
 <details>
 
+-   [`0f7607a`](https://github.com/stdlib-js/stdlib/commit/0f7607a1d5bc88b5ee38d5091725678eafd304f6) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
+-   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
+-   [`2c927e4`](https://github.com/stdlib-js/stdlib/commit/2c927e403da0ed8841b6ce19296262a88c9856e0) - **docs:** fix example code in TS declaration files _(by Philipp Burckhardt)_
 -   [`004ecc4`](https://github.com/stdlib-js/stdlib/commit/004ecc463270148af73d11dc328038de4a47bce6) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`46ff8ea`](https://github.com/stdlib-js/stdlib/commit/46ff8ea7761ae438c4718681c5890f146fb0985e) - **docs:** minor clean-up _(by Philipp Burckhardt)_
 -   [`4b68ef4`](https://github.com/stdlib-js/stdlib/commit/4b68ef463823ebbe3d4bede1629c04ca00a6a19f) - **docs:** remove references section _(by Karan Anand)_
