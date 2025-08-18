@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-12)
+## Unreleased (2025-08-18)
 
 <section class="features">
 
@@ -93,6 +93,8 @@ A total of 16 issues were closed in this release:
 
 <details>
 
+-   [`8cea287`](https://github.com/stdlib-js/stdlib/commit/8cea2870cc30848a616b76259b3274caae387b10) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
+-   [`f9651e6`](https://github.com/stdlib-js/stdlib/commit/f9651e6411b4ebd3c95dcc6b46c02e6d5be009fa) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`0f7607a`](https://github.com/stdlib-js/stdlib/commit/0f7607a1d5bc88b5ee38d5091725678eafd304f6) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
 -   [`77867ac`](https://github.com/stdlib-js/stdlib/commit/77867ac1767a186023f633dea30ddf860962aaed) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
 -   [`2c927e4`](https://github.com/stdlib-js/stdlib/commit/2c927e403da0ed8841b6ce19296262a88c9856e0) - **docs:** fix example code in TS declaration files _(by Philipp Burckhardt)_
