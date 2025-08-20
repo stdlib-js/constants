@@ -347,6 +347,26 @@ setReadOnly( constants, 'MAX_BASE10_EXPONENT_SUBNORMAL', require( './../../float
 setReadOnly( constants, 'MAX_LN', require( './../../float64/max-ln' ) );
 
 /**
+* @name MAX_NTH_DOUBLE_FACTORIAL
+* @memberof constants
+* @readonly
+* @constant
+* @type {number}
+* @see {@link module:@stdlib/constants/float64/max-nth-double-factorial}
+*/
+setReadOnly( constants, 'MAX_NTH_DOUBLE_FACTORIAL', require( './../../float64/max-nth-double-factorial' ) );
+
+/**
+* @name MAX_NTH_FACTORIAL
+* @memberof constants
+* @readonly
+* @constant
+* @type {number}
+* @see {@link module:@stdlib/constants/float64/max-nth-factorial}
+*/
+setReadOnly( constants, 'MAX_NTH_FACTORIAL', require( './../../float64/max-nth-factorial' ) );
+
+/**
 * @name MAX_SAFE_FIBONACCI
 * @memberof constants
 * @readonly
@@ -377,6 +397,26 @@ setReadOnly( constants, 'MAX_SAFE_INTEGER', require( './../../float64/max-safe-i
 setReadOnly( constants, 'MAX_SAFE_LUCAS', require( './../../float64/max-safe-lucas' ) );
 
 /**
+* @name MAX_SAFE_NTH_DOUBLE_FACTORIAL
+* @memberof constants
+* @readonly
+* @constant
+* @type {number}
+* @see {@link module:@stdlib/constants/float64/max-safe-nth-double-factorial}
+*/
+setReadOnly( constants, 'MAX_SAFE_NTH_DOUBLE_FACTORIAL', require( './../../float64/max-safe-nth-double-factorial' ) );
+
+/**
+* @name MAX_SAFE_NTH_FACTORIAL
+* @memberof constants
+* @readonly
+* @constant
+* @type {number}
+* @see {@link module:@stdlib/constants/float64/max-safe-nth-factorial}
+*/
+setReadOnly( constants, 'MAX_SAFE_NTH_FACTORIAL', require( './../../float64/max-safe-nth-factorial' ) );
+
+/**
 * @name MAX_SAFE_NTH_FIBONACCI
 * @memberof constants
 * @readonly
@@ -395,6 +435,16 @@ setReadOnly( constants, 'MAX_SAFE_NTH_FIBONACCI', require( './../../float64/max-
 * @see {@link module:@stdlib/constants/float64/max-safe-nth-lucas}
 */
 setReadOnly( constants, 'MAX_SAFE_NTH_LUCAS', require( './../../float64/max-safe-nth-lucas' ) );
+
+/**
+* @name MAX_SAFE_NTH_TRIBONACCI
+* @memberof constants
+* @readonly
+* @constant
+* @type {number}
+* @see {@link module:@stdlib/constants/float64/max-safe-nth-tribonacci}
+*/
+setReadOnly( constants, 'MAX_SAFE_NTH_TRIBONACCI', require( './../../float64/max-safe-nth-tribonacci' ) );
 
 /**
 * @name MIN_BASE2_EXPONENT
@@ -485,6 +535,16 @@ setReadOnly( constants, 'NINF', require( './../../float64/ninf' ) );
 * @see {@link module:@stdlib/constants/float64/num-bytes}
 */
 setReadOnly( constants, 'NUM_BYTES', require( './../../float64/num-bytes' ) );
+
+/**
+* @name NUM_HIGH_WORD_SIGNIFICAND_BITS
+* @memberof constants
+* @readonly
+* @constant
+* @type {number}
+* @see {@link module:@stdlib/constants/float64/num-high-word-significand-bits}
+*/
+setReadOnly( constants, 'NUM_HIGH_WORD_SIGNIFICAND_BITS', require( './../../float64/num-high-word-significand-bits' ) );
 
 /**
 * @name PHI
