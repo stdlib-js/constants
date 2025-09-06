@@ -4,14 +4,14 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-08-20)
+## Unreleased (2025-09-06)
 
 <section class="features">
 
 ### Features
 
 -   [`37446e4`](https://github.com/stdlib-js/stdlib/commit/37446e44fbb830ab833c7786c7da13b2eaea27d5) - add constants to `float32` namespace
--   [`154ff94`](https://github.com/stdlib-js/stdlib/commit/154ff94132f2435ab70bfdf2ebf661c6441a040c) - add constants to \`float64\` namespace
+-   [`154ff94`](https://github.com/stdlib-js/stdlib/commit/154ff94132f2435ab70bfdf2ebf661c6441a040c) - add constants to `float64` namespace
 -   [`ba45bb5`](https://github.com/stdlib-js/stdlib/commit/ba45bb5784a790f936aa504978b5cbe3878f5752) - add `constants/float32/max-nth-double-factorial`
 -   [`b4a5ede`](https://github.com/stdlib-js/stdlib/commit/b4a5ede4150565c8d410d8e114e6d182af4231c3) - add `constants/float32/max-nth-factorial`
 -   [`efef831`](https://github.com/stdlib-js/stdlib/commit/efef83155872e1f55ca49df03a0c7485409c25e5) - add `constants/float64/max-nth-double-factorial`
@@ -95,8 +95,9 @@ A total of 16 issues were closed in this release:
 
 <details>
 
+-   [`b44e0a7`](https://github.com/stdlib-js/stdlib/commit/b44e0a71e52944270193e56c6cff4507bb085144) - **docs:** clean-up TSDoc examples _(by Philipp Burckhardt)_
 -   [`37446e4`](https://github.com/stdlib-js/stdlib/commit/37446e44fbb830ab833c7786c7da13b2eaea27d5) - **feat:** add constants to `float32` namespace _(by Philipp Burckhardt)_
--   [`154ff94`](https://github.com/stdlib-js/stdlib/commit/154ff94132f2435ab70bfdf2ebf661c6441a040c) - **feat:** add constants to \`float64\` namespace _(by Philipp Burckhardt)_
+-   [`154ff94`](https://github.com/stdlib-js/stdlib/commit/154ff94132f2435ab70bfdf2ebf661c6441a040c) - **feat:** add constants to `float64` namespace _(by Philipp Burckhardt)_
 -   [`8cea287`](https://github.com/stdlib-js/stdlib/commit/8cea2870cc30848a616b76259b3274caae387b10) - **docs:** fix return annotation values _(by Philipp Burckhardt)_
 -   [`f9651e6`](https://github.com/stdlib-js/stdlib/commit/f9651e6411b4ebd3c95dcc6b46c02e6d5be009fa) - **test:** use .strictEqual() instead of .equal() and fix lint errors _(by Philipp Burckhardt)_
 -   [`0f7607a`](https://github.com/stdlib-js/stdlib/commit/0f7607a1d5bc88b5ee38d5091725678eafd304f6) - **docs:** remove trailing whitespace _(by Philipp Burckhardt)_
