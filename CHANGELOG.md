@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-10-15)
+## Unreleased (2025-11-07)
 
 <section class="features">
 
@@ -97,6 +97,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`345429d`](https://github.com/stdlib-js/stdlib/commit/345429db65e8f31d94686b07f664a065a763f12f) - **chore:** fix JavaScript lint errors [(#8220)](https://github.com/stdlib-js/stdlib/pull/8220) _(by Jenish, Athan Reines)_
 -   [`33941e4`](https://github.com/stdlib-js/stdlib/commit/33941e4d49527ce81311cb4db55b14dc020ae308) - **docs:** clean-up TSDoc example code _(by Philipp Burckhardt)_
 -   [`6d30bc1`](https://github.com/stdlib-js/stdlib/commit/6d30bc1b30f336c04a75fd66359d35b33d3927d9) - **feat:** update `constants/float32` TypeScript declarations _(by Philipp Burckhardt)_
@@ -114,12 +115,12 @@ A total of 17 issues were closed in this release:
 -   [`4b68ef4`](https://github.com/stdlib-js/stdlib/commit/4b68ef463823ebbe3d4bede1629c04ca00a6a19f) - **docs:** remove references section _(by Karan Anand)_
 -   [`cf54782`](https://github.com/stdlib-js/stdlib/commit/cf547821b6bf3dff9f59d177eb99394c70402882) - **fix:** rename constant to follow `float32` naming conventions _(by Karan Anand)_
 -   [`9a41c60`](https://github.com/stdlib-js/stdlib/commit/9a41c60577db195a819cbc161bf41961343f7cfb) - **fix:** correct `FLOAT32_GAMMA_LANCZOS_G` _(by Karan Anand)_
--   [`d184af8`](https://github.com/stdlib-js/stdlib/commit/d184af8e708f060929ad52eaa1917dbd61abc7e3) - **chore:** fix EditorConfig lint errors [(#6945)](https://github.com/stdlib-js/stdlib/pull/6945) _(by zhanggy)_
+-   [`d184af8`](https://github.com/stdlib-js/stdlib/commit/d184af8e708f060929ad52eaa1917dbd61abc7e3) - **chore:** fix EditorConfig lint errors [(#6945)](https://github.com/stdlib-js/stdlib/pull/6945) _(by Geo Daoyu)_
 -   [`8ce04f0`](https://github.com/stdlib-js/stdlib/commit/8ce04f0e2e054342e76a16f584de929b15c93f9f) - **fix:** correct `FLOAT32_MAX_SAFE_NTH_DOUBLE_FACTORIAL` _(by Karan Anand)_
 -   [`ba45bb5`](https://github.com/stdlib-js/stdlib/commit/ba45bb5784a790f936aa504978b5cbe3878f5752) - **feat:** add `constants/float32/max-nth-double-factorial` _(by Karan Anand)_
--   [`9da756f`](https://github.com/stdlib-js/stdlib/commit/9da756fc7693aabf8ccb8e8af1a444372253f4f4) - **chore:** update test messages in `constants/float32` [(#6772)](https://github.com/stdlib-js/stdlib/pull/6772) _(by Harsh)_
--   [`9b9c746`](https://github.com/stdlib-js/stdlib/commit/9b9c7468b6c0c0d2575bbeedbee96c9bcee64b26) - **chore:** update test messages in `constants/float32` [(#6773)](https://github.com/stdlib-js/stdlib/pull/6773) _(by Harsh)_
--   [`2e8998e`](https://github.com/stdlib-js/stdlib/commit/2e8998ee67be12caff9a99df3ba3256c55b167a2) - **chore:** update test messages in `constants/float16` [(#6774)](https://github.com/stdlib-js/stdlib/pull/6774) _(by Harsh)_
+-   [`9da756f`](https://github.com/stdlib-js/stdlib/commit/9da756fc7693aabf8ccb8e8af1a444372253f4f4) - **chore:** update test messages in `constants/float32` [(#6772)](https://github.com/stdlib-js/stdlib/pull/6772) _(by Harsh Yadav)_
+-   [`9b9c746`](https://github.com/stdlib-js/stdlib/commit/9b9c7468b6c0c0d2575bbeedbee96c9bcee64b26) - **chore:** update test messages in `constants/float32` [(#6773)](https://github.com/stdlib-js/stdlib/pull/6773) _(by Harsh Yadav)_
+-   [`2e8998e`](https://github.com/stdlib-js/stdlib/commit/2e8998ee67be12caff9a99df3ba3256c55b167a2) - **chore:** update test messages in `constants/float16` [(#6774)](https://github.com/stdlib-js/stdlib/pull/6774) _(by Harsh Yadav)_
 -   [`43cd244`](https://github.com/stdlib-js/stdlib/commit/43cd244790fb505f69250a7ff28e31e5d901c5fd) - **fix:** correct `FLOAT32_MAX_SAFE_NTH_FACTORIAL` _(by Karan Anand)_
 -   [`135d9c7`](https://github.com/stdlib-js/stdlib/commit/135d9c70248a7cf101481bd3a80cb704088782b0) - **docs:** re-enable lint rule _(by Karan Anand)_
 -   [`b4a5ede`](https://github.com/stdlib-js/stdlib/commit/b4a5ede4150565c8d410d8e114e6d182af4231c3) - **feat:** add `constants/float32/max-nth-factorial` _(by Karan Anand)_
@@ -127,23 +128,23 @@ A total of 17 issues were closed in this release:
 -   [`efef831`](https://github.com/stdlib-js/stdlib/commit/efef83155872e1f55ca49df03a0c7485409c25e5) - **feat:** add `constants/float64/max-nth-double-factorial` _(by Karan Anand)_
 -   [`70369dc`](https://github.com/stdlib-js/stdlib/commit/70369dce75e32d97f337b26e79fcb5a412acb337) - **docs:** fix examples _(by Karan Anand)_
 -   [`4b8eae7`](https://github.com/stdlib-js/stdlib/commit/4b8eae7701fc8b4a877181bd048866d5e0a397e5) - **docs:** fix examples _(by Athan Reines)_
--   [`0c37cb3`](https://github.com/stdlib-js/stdlib/commit/0c37cb30a51bf5c1e026bf66719c7a4f2b3b2be9) - **chore:** update test messages in `constants/float64` [(#6749)](https://github.com/stdlib-js/stdlib/pull/6749) _(by Harsh)_
--   [`294d60a`](https://github.com/stdlib-js/stdlib/commit/294d60af4131dbdbc9b717708e407cc07de14ebc) - **chore:** update test messages in `constants/float64` [(#6748)](https://github.com/stdlib-js/stdlib/pull/6748) _(by Harsh, hrshya)_
--   [`6847363`](https://github.com/stdlib-js/stdlib/commit/68473633e18bf94b785faa26992986552f6ead2c) - **chore:** update test messages in `constants/float64` [(#6747)](https://github.com/stdlib-js/stdlib/pull/6747) _(by Harsh, hrshya)_
+-   [`0c37cb3`](https://github.com/stdlib-js/stdlib/commit/0c37cb30a51bf5c1e026bf66719c7a4f2b3b2be9) - **chore:** update test messages in `constants/float64` [(#6749)](https://github.com/stdlib-js/stdlib/pull/6749) _(by Harsh Yadav)_
+-   [`294d60a`](https://github.com/stdlib-js/stdlib/commit/294d60af4131dbdbc9b717708e407cc07de14ebc) - **chore:** update test messages in `constants/float64` [(#6748)](https://github.com/stdlib-js/stdlib/pull/6748) _(by Harsh Yadav, hrshya)_
+-   [`6847363`](https://github.com/stdlib-js/stdlib/commit/68473633e18bf94b785faa26992986552f6ead2c) - **chore:** update test messages in `constants/float64` [(#6747)](https://github.com/stdlib-js/stdlib/pull/6747) _(by Harsh Yadav, hrshya)_
 -   [`a41f30e`](https://github.com/stdlib-js/stdlib/commit/a41f30e05539ab23eaa1b2e9ca7581029ea8b0aa) - **fix:** correct `FLOAT64_MAX_SAFE_NTH_FACTORIAL` _(by Karan Anand)_
 -   [`6647a76`](https://github.com/stdlib-js/stdlib/commit/6647a76f9353e27b0e3647f5087fba1edcd68f61) - **feat:** add `constants/float64/max-nth-factorial` _(by Karan Anand)_
--   [`3275ec2`](https://github.com/stdlib-js/stdlib/commit/3275ec2fd4cadcb50d5191fda88ffa78fbf3b831) - **chore:** update test messages in `constants/float64` [(#6728)](https://github.com/stdlib-js/stdlib/pull/6728) _(by Harsh)_
--   [`0d59526`](https://github.com/stdlib-js/stdlib/commit/0d59526ec7c6746cb57e7ffcab2f197769caafb6) - **feat:** add `constants/float32/max-safe-lucas` [(#6374)](https://github.com/stdlib-js/stdlib/pull/6374) _(by Harsh, Athan Reines, Gunj Joshi)_
+-   [`3275ec2`](https://github.com/stdlib-js/stdlib/commit/3275ec2fd4cadcb50d5191fda88ffa78fbf3b831) - **chore:** update test messages in `constants/float64` [(#6728)](https://github.com/stdlib-js/stdlib/pull/6728) _(by Harsh Yadav)_
+-   [`0d59526`](https://github.com/stdlib-js/stdlib/commit/0d59526ec7c6746cb57e7ffcab2f197769caafb6) - **feat:** add `constants/float32/max-safe-lucas` [(#6374)](https://github.com/stdlib-js/stdlib/pull/6374) _(by Harsh Yadav, Athan Reines, Gunj Joshi)_
 -   [`8436708`](https://github.com/stdlib-js/stdlib/commit/8436708f7e36433f7d74fdaef41c6c9a6469de45) - **feat:** add `constants/float32/catalan` [(#6203)](https://github.com/stdlib-js/stdlib/pull/6203) _(by Neeraj Pathak, Athan Reines)_
--   [`a83525e`](https://github.com/stdlib-js/stdlib/commit/a83525e1139aed64b91bb3642dc05adaf08f0567) - **feat:** add `constants/float32/max-ln` [(#6256)](https://github.com/stdlib-js/stdlib/pull/6256) _(by Harsh, Athan Reines)_
--   [`40ba86d`](https://github.com/stdlib-js/stdlib/commit/40ba86d3364cd477cea23197d16b5f5e3ae6575f) - **feat:** add `constants/float32/min-ln` [(#6261)](https://github.com/stdlib-js/stdlib/pull/6261) _(by Harsh, Athan Reines)_
+-   [`a83525e`](https://github.com/stdlib-js/stdlib/commit/a83525e1139aed64b91bb3642dc05adaf08f0567) - **feat:** add `constants/float32/max-ln` [(#6256)](https://github.com/stdlib-js/stdlib/pull/6256) _(by Harsh Yadav, Athan Reines)_
+-   [`40ba86d`](https://github.com/stdlib-js/stdlib/commit/40ba86d3364cd477cea23197d16b5f5e3ae6575f) - **feat:** add `constants/float32/min-ln` [(#6261)](https://github.com/stdlib-js/stdlib/pull/6261) _(by Harsh Yadav, Athan Reines)_
 -   [`baf9f87`](https://github.com/stdlib-js/stdlib/commit/baf9f873657db1f99a83c844349c07a3e6b6aa7f) - **feat:** add `constants/float32/eulergamma` [(#6209)](https://github.com/stdlib-js/stdlib/pull/6209) _(by Neeraj Pathak, Athan Reines)_
--   [`67d1bf8`](https://github.com/stdlib-js/stdlib/commit/67d1bf8fc43e54949fb1b68256cde552919d3e6d) - **feat:** add `constants/float32/fourth-root-eps` [(#6373)](https://github.com/stdlib-js/stdlib/pull/6373) _(by Harsh, Athan Reines)_
+-   [`67d1bf8`](https://github.com/stdlib-js/stdlib/commit/67d1bf8fc43e54949fb1b68256cde552919d3e6d) - **feat:** add `constants/float32/fourth-root-eps` [(#6373)](https://github.com/stdlib-js/stdlib/pull/6373) _(by Harsh Yadav, Athan Reines)_
 -   [`16aae9b`](https://github.com/stdlib-js/stdlib/commit/16aae9bff9543b7247f7fad0ed892161d1aae6d7) - **fix:** move header file from `float64` to `float32` directory [(#6445)](https://github.com/stdlib-js/stdlib/pull/6445) _(by Karan Anand)_
 -   [`c7d839f`](https://github.com/stdlib-js/stdlib/commit/c7d839fc6720542b68d30a871e3a3704aa54a885) - **feat:** add `constants/float32/max-safe-nth-double-factorial` [(#6364)](https://github.com/stdlib-js/stdlib/pull/6364) _(by Karan Anand, stdlib-bot)_
 -   [`7a824b1`](https://github.com/stdlib-js/stdlib/commit/7a824b1fee5300e447dcf8278a2397b6ad3a9f1c) - **fix:** correct `FLOAT64_MAX_SAFE_NTH_DOUBLE_FACTORIAL` [(#6379)](https://github.com/stdlib-js/stdlib/pull/6379) _(by Karan Anand)_
 -   [`a77fb9e`](https://github.com/stdlib-js/stdlib/commit/a77fb9eba6a9649654a8913e431501fde6bf04da) - **feat:** add `constants/float32/pi-squared` [(#6069)](https://github.com/stdlib-js/stdlib/pull/6069) _(by Neeraj Pathak)_
--   [`56b84a4`](https://github.com/stdlib-js/stdlib/commit/56b84a447b139f4fd8bc768237a8fa228fb7a0a0) - **feat:** add `constants/float32/num-significand-bits` [(#6284)](https://github.com/stdlib-js/stdlib/pull/6284) _(by Harsh)_
+-   [`56b84a4`](https://github.com/stdlib-js/stdlib/commit/56b84a447b139f4fd8bc768237a8fa228fb7a0a0) - **feat:** add `constants/float32/num-significand-bits` [(#6284)](https://github.com/stdlib-js/stdlib/pull/6284) _(by Harsh Yadav)_
 -   [`8fa89e3`](https://github.com/stdlib-js/stdlib/commit/8fa89e374bde1d6aba5d589229d3150f27289658) - **feat:** add `constants/float32/apery` [(#6304)](https://github.com/stdlib-js/stdlib/pull/6304) _(by Neeraj Pathak, Athan Reines)_
 -   [`0901e47`](https://github.com/stdlib-js/stdlib/commit/0901e47081951f23dde4aaf458bf4e09588e030e) - **docs:** add missing period _(by Athan Reines)_
 -   [`7519044`](https://github.com/stdlib-js/stdlib/commit/75190443b320958771420fe6411199708a9a4825) - **feat:** add `constants/float32/log10-e` [(#6230)](https://github.com/stdlib-js/stdlib/pull/6230) _(by Neeraj Pathak)_
@@ -221,22 +222,21 @@ A total of 17 issues were closed in this release:
 
 ### Contributors
 
-A total of 14 people contributed to this release. Thank you to the following contributors:
+A total of 13 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
 -   Gautam sharma
+-   Geo Daoyu
 -   Gunj Joshi
 -   Gururaj Gurram
--   Harsh
+-   Harsh Yadav
 -   Jenish
 -   Karan Anand
 -   Manvith M
 -   Neeraj Pathak
 -   Philipp Burckhardt
 -   Vivek Maurya
--   hrshya
--   zhanggy
 
 </section>
 
