@@ -10,6 +10,8 @@
 
 ### Features
 
+-   [`b9bbf54`](https://github.com/stdlib-js/stdlib/commit/b9bbf54d4729a5b085a805245cec76eb0a88b2f8) - add `constants/float16/num-significand-bits` [(#8771)](https://github.com/stdlib-js/stdlib/pull/8771)
+-   [`7975dcf`](https://github.com/stdlib-js/stdlib/commit/7975dcf1649d00074564adcb22ca33ecd2ab59cc) - add `constants/float16/sign-mask` [(#8743)](https://github.com/stdlib-js/stdlib/pull/8743)
 -   [`5fb9924`](https://github.com/stdlib-js/stdlib/commit/5fb9924ccc39c7d94899734767f671fd94cc4b66) - add `constants/float16/significand-mask` [(#8744)](https://github.com/stdlib-js/stdlib/pull/8744)
 -   [`8888a89`](https://github.com/stdlib-js/stdlib/commit/8888a894f1734a0cedda9a9bcf1eacb06cb49e3c) - add `constants/float16/exponent-mask` [(#8745)](https://github.com/stdlib-js/stdlib/pull/8745)
 -   [`6d30bc1`](https://github.com/stdlib-js/stdlib/commit/6d30bc1b30f336c04a75fd66359d35b33d3927d9) - update `constants/float32` TypeScript declarations
@@ -99,6 +101,8 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`b9bbf54`](https://github.com/stdlib-js/stdlib/commit/b9bbf54d4729a5b085a805245cec76eb0a88b2f8) - **feat:** add `constants/float16/num-significand-bits` [(#8771)](https://github.com/stdlib-js/stdlib/pull/8771) _(by Gururaj Gurram)_
+-   [`7975dcf`](https://github.com/stdlib-js/stdlib/commit/7975dcf1649d00074564adcb22ca33ecd2ab59cc) - **feat:** add `constants/float16/sign-mask` [(#8743)](https://github.com/stdlib-js/stdlib/pull/8743) _(by Gururaj Gurram, Athan Reines)_
 -   [`358d5c7`](https://github.com/stdlib-js/stdlib/commit/358d5c767fb742f8f9350e29721da1cd85306719) - **test:** fix incorrect value in test comment _(by Philipp Burckhardt)_
 -   [`5fb9924`](https://github.com/stdlib-js/stdlib/commit/5fb9924ccc39c7d94899734767f671fd94cc4b66) - **feat:** add `constants/float16/significand-mask` [(#8744)](https://github.com/stdlib-js/stdlib/pull/8744) _(by Gururaj Gurram)_
 -   [`8888a89`](https://github.com/stdlib-js/stdlib/commit/8888a894f1734a0cedda9a9bcf1eacb06cb49e3c) - **feat:** add `constants/float16/exponent-mask` [(#8745)](https://github.com/stdlib-js/stdlib/pull/8745) _(by Gururaj Gurram)_
