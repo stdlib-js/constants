@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`5fb9924`](https://github.com/stdlib-js/stdlib/commit/5fb9924ccc39c7d94899734767f671fd94cc4b66) - add `constants/float16/significand-mask` [(#8744)](https://github.com/stdlib-js/stdlib/pull/8744)
 -   [`8888a89`](https://github.com/stdlib-js/stdlib/commit/8888a894f1734a0cedda9a9bcf1eacb06cb49e3c) - add `constants/float16/exponent-mask` [(#8745)](https://github.com/stdlib-js/stdlib/pull/8745)
 -   [`6d30bc1`](https://github.com/stdlib-js/stdlib/commit/6d30bc1b30f336c04a75fd66359d35b33d3927d9) - update `constants/float32` TypeScript declarations
 -   [`07aa01c`](https://github.com/stdlib-js/stdlib/commit/07aa01c797be713dc34e3b4ea8c551cbea56aa14) - update `constants/float64` TypeScript declarations
@@ -98,6 +99,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`5fb9924`](https://github.com/stdlib-js/stdlib/commit/5fb9924ccc39c7d94899734767f671fd94cc4b66) - **feat:** add `constants/float16/significand-mask` [(#8744)](https://github.com/stdlib-js/stdlib/pull/8744) _(by Gururaj Gurram)_
 -   [`8888a89`](https://github.com/stdlib-js/stdlib/commit/8888a894f1734a0cedda9a9bcf1eacb06cb49e3c) - **feat:** add `constants/float16/exponent-mask` [(#8745)](https://github.com/stdlib-js/stdlib/pull/8745) _(by Gururaj Gurram)_
 -   [`5f5bb2d`](https://github.com/stdlib-js/stdlib/commit/5f5bb2d4277a24000b57fb07bc28d821500cd7e8) - **docs:** update namespace table of contents [(#8425)](https://github.com/stdlib-js/stdlib/pull/8425) _(by stdlib-bot, Athan Reines)_
 -   [`345429d`](https://github.com/stdlib-js/stdlib/commit/345429db65e8f31d94686b07f664a065a763f12f) - **chore:** fix JavaScript lint errors [(#8220)](https://github.com/stdlib-js/stdlib/pull/8220) _(by Jenish, Athan Reines)_
