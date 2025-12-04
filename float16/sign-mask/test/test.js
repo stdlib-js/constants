@@ -23,28 +23,28 @@
 var tape = require( 'tape' );
 var toBinaryString = require( '@stdlib/number/uint16/base/to-binary-string' );
 var toWord = require( '@stdlib/number/float16/base/to-word' );
-var FLOAT16_EXPONENT_MASK = require( './../lib' );
+var FLOAT16_SIGN_MASK = require( './../lib' );
 
 
 // TESTS //
 
 tape( 'main export is a number', function test( t ) {
 	t.ok( true, __filename );
-	t.strictEqual( typeof FLOAT16_EXPONENT_MASK, 'number', 'main export is a number' );
+	t.strictEqual( typeof FLOAT16_SIGN_MASK, 'number', 'main export is a number' );
 	t.end();
 });
 
-tape( 'the exported value can be used to mask off all bits except for the exponent bits', function test( t ) {
+tape( 'the exported value can be used to mask off all bits except for the sign bit', function test( t ) {
 	var expected;
 	var actual;
 	var w;
 	var x;
 
-	x = 33.8;
-	w = toWord( x ); // 20538 => 0 10100 0000111010
+	x = -33.8;
+	w = toWord( x ); // 53306 => 1 10100 0000111010
 
-	actual = w & FLOAT16_EXPONENT_MASK; // 20480 => 0 10100 0000000000
-	expected = '0101000000000000';
+	actual = (w & FLOAT16_SIGN_MASK)>>>0; // 32768 => 1 00000 0000000000
+	expected = '1000000000000000';
 
 	t.strictEqual( toBinaryString( actual ), expected );
 
