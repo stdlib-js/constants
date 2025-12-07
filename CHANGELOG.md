@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-04)
+## Unreleased (2025-12-07)
 
 <section class="features">
 
 ### Features
 
+-   [`f7a6216`](https://github.com/stdlib-js/stdlib/commit/f7a6216dadc01830a95e814ef25c22590f56edd3) - add `constants/float16/fourth-pi` [(#8859)](https://github.com/stdlib-js/stdlib/pull/8859)
 -   [`10e390d`](https://github.com/stdlib-js/stdlib/commit/10e390d5c195e99e5e34ed13f5c28c4d2077ad00) - add `constants/float16/num-exponent-bits` [(#8777)](https://github.com/stdlib-js/stdlib/pull/8777)
 -   [`b9bbf54`](https://github.com/stdlib-js/stdlib/commit/b9bbf54d4729a5b085a805245cec76eb0a88b2f8) - add `constants/float16/num-significand-bits` [(#8771)](https://github.com/stdlib-js/stdlib/pull/8771)
 -   [`7975dcf`](https://github.com/stdlib-js/stdlib/commit/7975dcf1649d00074564adcb22ca33ecd2ab59cc) - add `constants/float16/sign-mask` [(#8743)](https://github.com/stdlib-js/stdlib/pull/8743)
@@ -102,6 +103,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`f7a6216`](https://github.com/stdlib-js/stdlib/commit/f7a6216dadc01830a95e814ef25c22590f56edd3) - **feat:** add `constants/float16/fourth-pi` [(#8859)](https://github.com/stdlib-js/stdlib/pull/8859) _(by Neeraj Pathak)_
 -   [`10e390d`](https://github.com/stdlib-js/stdlib/commit/10e390d5c195e99e5e34ed13f5c28c4d2077ad00) - **feat:** add `constants/float16/num-exponent-bits` [(#8777)](https://github.com/stdlib-js/stdlib/pull/8777) _(by Gururaj Gurram, Athan Reines)_
 -   [`b9bbf54`](https://github.com/stdlib-js/stdlib/commit/b9bbf54d4729a5b085a805245cec76eb0a88b2f8) - **feat:** add `constants/float16/num-significand-bits` [(#8771)](https://github.com/stdlib-js/stdlib/pull/8771) _(by Gururaj Gurram)_
 -   [`7975dcf`](https://github.com/stdlib-js/stdlib/commit/7975dcf1649d00074564adcb22ca33ecd2ab59cc) - **feat:** add `constants/float16/sign-mask` [(#8743)](https://github.com/stdlib-js/stdlib/pull/8743) _(by Gururaj Gurram, Athan Reines)_
