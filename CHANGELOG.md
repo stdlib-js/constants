@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`fea0656`](https://github.com/stdlib-js/stdlib/commit/fea0656961ebe7b36ce35e6f13145b9c4d4c975d) - add `constants/float32/glaisher-kinkelin` [(#6145)](https://github.com/stdlib-js/stdlib/pull/6145)
 -   [`f7a6216`](https://github.com/stdlib-js/stdlib/commit/f7a6216dadc01830a95e814ef25c22590f56edd3) - add `constants/float16/fourth-pi` [(#8859)](https://github.com/stdlib-js/stdlib/pull/8859)
 -   [`10e390d`](https://github.com/stdlib-js/stdlib/commit/10e390d5c195e99e5e34ed13f5c28c4d2077ad00) - add `constants/float16/num-exponent-bits` [(#8777)](https://github.com/stdlib-js/stdlib/pull/8777)
 -   [`b9bbf54`](https://github.com/stdlib-js/stdlib/commit/b9bbf54d4729a5b085a805245cec76eb0a88b2f8) - add `constants/float16/num-significand-bits` [(#8771)](https://github.com/stdlib-js/stdlib/pull/8771)
@@ -103,6 +104,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`fea0656`](https://github.com/stdlib-js/stdlib/commit/fea0656961ebe7b36ce35e6f13145b9c4d4c975d) - **feat:** add `constants/float32/glaisher-kinkelin` [(#6145)](https://github.com/stdlib-js/stdlib/pull/6145) _(by Neeraj Pathak, stdlib-bot)_
 -   [`f7a6216`](https://github.com/stdlib-js/stdlib/commit/f7a6216dadc01830a95e814ef25c22590f56edd3) - **feat:** add `constants/float16/fourth-pi` [(#8859)](https://github.com/stdlib-js/stdlib/pull/8859) _(by Neeraj Pathak)_
 -   [`10e390d`](https://github.com/stdlib-js/stdlib/commit/10e390d5c195e99e5e34ed13f5c28c4d2077ad00) - **feat:** add `constants/float16/num-exponent-bits` [(#8777)](https://github.com/stdlib-js/stdlib/pull/8777) _(by Gururaj Gurram, Athan Reines)_
 -   [`b9bbf54`](https://github.com/stdlib-js/stdlib/commit/b9bbf54d4729a5b085a805245cec76eb0a88b2f8) - **feat:** add `constants/float16/num-significand-bits` [(#8771)](https://github.com/stdlib-js/stdlib/pull/8771) _(by Gururaj Gurram)_
