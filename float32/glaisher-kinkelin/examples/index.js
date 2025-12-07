@@ -20,5 +20,5 @@
 
 var FLOAT32_GLAISHER = require( './../lib' );
 
-console.log( 'Glaisher\'s constant: %f', FLOAT32_GLAISHER );
-// => 1.2824270725250244
+console.log( 'Glaisher\'s constant: %d', FLOAT32_GLAISHER );
+// => 'Glaisher\'s constant: 1.2824270725250244'
