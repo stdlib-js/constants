@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-07)
+## Unreleased (2025-12-08)
 
 <section class="features">
 
 ### Features
 
+-   [`aaace48`](https://github.com/stdlib-js/stdlib/commit/aaace4875d83fe10756c162cd64de8b506461e3e) - add `constants/float16/catalan` [(#8856)](https://github.com/stdlib-js/stdlib/pull/8856)
 -   [`fea0656`](https://github.com/stdlib-js/stdlib/commit/fea0656961ebe7b36ce35e6f13145b9c4d4c975d) - add `constants/float32/glaisher-kinkelin` [(#6145)](https://github.com/stdlib-js/stdlib/pull/6145)
 -   [`f7a6216`](https://github.com/stdlib-js/stdlib/commit/f7a6216dadc01830a95e814ef25c22590f56edd3) - add `constants/float16/fourth-pi` [(#8859)](https://github.com/stdlib-js/stdlib/pull/8859)
 -   [`10e390d`](https://github.com/stdlib-js/stdlib/commit/10e390d5c195e99e5e34ed13f5c28c4d2077ad00) - add `constants/float16/num-exponent-bits` [(#8777)](https://github.com/stdlib-js/stdlib/pull/8777)
@@ -104,6 +105,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`aaace48`](https://github.com/stdlib-js/stdlib/commit/aaace4875d83fe10756c162cd64de8b506461e3e) - **feat:** add `constants/float16/catalan` [(#8856)](https://github.com/stdlib-js/stdlib/pull/8856) _(by Neeraj Pathak)_
 -   [`29e738e`](https://github.com/stdlib-js/stdlib/commit/29e738ee833defc955ae61c3c7d5334b5973d40f) - **docs:** fix return annotation _(by Athan Reines)_
 -   [`fea0656`](https://github.com/stdlib-js/stdlib/commit/fea0656961ebe7b36ce35e6f13145b9c4d4c975d) - **feat:** add `constants/float32/glaisher-kinkelin` [(#6145)](https://github.com/stdlib-js/stdlib/pull/6145) _(by Neeraj Pathak, stdlib-bot)_
 -   [`f7a6216`](https://github.com/stdlib-js/stdlib/commit/f7a6216dadc01830a95e814ef25c22590f56edd3) - **feat:** add `constants/float16/fourth-pi` [(#8859)](https://github.com/stdlib-js/stdlib/pull/8859) _(by Neeraj Pathak)_
