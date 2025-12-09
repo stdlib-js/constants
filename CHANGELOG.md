@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`5a38aef`](https://github.com/stdlib-js/stdlib/commit/5a38aefe0daf3b00ab7bf5ade0aaba88f3847cd9) - add `constants/float16/min-ln` [(#8870)](https://github.com/stdlib-js/stdlib/pull/8870)
 -   [`aaace48`](https://github.com/stdlib-js/stdlib/commit/aaace4875d83fe10756c162cd64de8b506461e3e) - add `constants/float16/catalan` [(#8856)](https://github.com/stdlib-js/stdlib/pull/8856)
 -   [`fea0656`](https://github.com/stdlib-js/stdlib/commit/fea0656961ebe7b36ce35e6f13145b9c4d4c975d) - add `constants/float32/glaisher-kinkelin` [(#6145)](https://github.com/stdlib-js/stdlib/pull/6145)
 -   [`f7a6216`](https://github.com/stdlib-js/stdlib/commit/f7a6216dadc01830a95e814ef25c22590f56edd3) - add `constants/float16/fourth-pi` [(#8859)](https://github.com/stdlib-js/stdlib/pull/8859)
@@ -106,6 +107,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`5a38aef`](https://github.com/stdlib-js/stdlib/commit/5a38aefe0daf3b00ab7bf5ade0aaba88f3847cd9) - **feat:** add `constants/float16/min-ln` [(#8870)](https://github.com/stdlib-js/stdlib/pull/8870) _(by Neeraj Pathak, Athan Reines)_
 -   [`7251add`](https://github.com/stdlib-js/stdlib/commit/7251add18b81221e293930e6197d8d359791940a) - **fix:** address typo in variable name [(#8888)](https://github.com/stdlib-js/stdlib/pull/8888) _(by Neeraj Pathak)_
 -   [`aaace48`](https://github.com/stdlib-js/stdlib/commit/aaace4875d83fe10756c162cd64de8b506461e3e) - **feat:** add `constants/float16/catalan` [(#8856)](https://github.com/stdlib-js/stdlib/pull/8856) _(by Neeraj Pathak)_
 -   [`29e738e`](https://github.com/stdlib-js/stdlib/commit/29e738ee833defc955ae61c3c7d5334b5973d40f) - **docs:** fix return annotation _(by Athan Reines)_
