@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-08)
+## Unreleased (2025-12-09)
 
 <section class="features">
 
@@ -71,6 +71,7 @@
 
 ### Bug Fixes
 
+-   [`7251add`](https://github.com/stdlib-js/stdlib/commit/7251add18b81221e293930e6197d8d359791940a) - address typo in variable name [(#8888)](https://github.com/stdlib-js/stdlib/pull/8888)
 -   [`cf54782`](https://github.com/stdlib-js/stdlib/commit/cf547821b6bf3dff9f59d177eb99394c70402882) - rename constant to follow `float32` naming conventions
 -   [`9a41c60`](https://github.com/stdlib-js/stdlib/commit/9a41c60577db195a819cbc161bf41961343f7cfb) - correct `FLOAT32_GAMMA_LANCZOS_G`
 -   [`8ce04f0`](https://github.com/stdlib-js/stdlib/commit/8ce04f0e2e054342e76a16f584de929b15c93f9f) - correct `FLOAT32_MAX_SAFE_NTH_DOUBLE_FACTORIAL`
@@ -105,6 +106,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`7251add`](https://github.com/stdlib-js/stdlib/commit/7251add18b81221e293930e6197d8d359791940a) - **fix:** address typo in variable name [(#8888)](https://github.com/stdlib-js/stdlib/pull/8888) _(by Neeraj Pathak)_
 -   [`aaace48`](https://github.com/stdlib-js/stdlib/commit/aaace4875d83fe10756c162cd64de8b506461e3e) - **feat:** add `constants/float16/catalan` [(#8856)](https://github.com/stdlib-js/stdlib/pull/8856) _(by Neeraj Pathak)_
 -   [`29e738e`](https://github.com/stdlib-js/stdlib/commit/29e738ee833defc955ae61c3c7d5334b5973d40f) - **docs:** fix return annotation _(by Athan Reines)_
 -   [`fea0656`](https://github.com/stdlib-js/stdlib/commit/fea0656961ebe7b36ce35e6f13145b9c4d4c975d) - **feat:** add `constants/float32/glaisher-kinkelin` [(#6145)](https://github.com/stdlib-js/stdlib/pull/6145) _(by Neeraj Pathak, stdlib-bot)_
