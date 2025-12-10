@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-09)
+## Unreleased (2025-12-10)
 
 <section class="features">
 
 ### Features
 
+-   [`caa76c4`](https://github.com/stdlib-js/stdlib/commit/caa76c47f3b7f7055578c19a682838715fc90783) - add `constants/float16/pi` [(#8918)](https://github.com/stdlib-js/stdlib/pull/8918)
 -   [`54a317d`](https://github.com/stdlib-js/stdlib/commit/54a317d2826a5ded1ef811ecd23430de87b8a2fa) - add `constants/float16/max-ln` [(#8913)](https://github.com/stdlib-js/stdlib/pull/8913)
 -   [`054fe95`](https://github.com/stdlib-js/stdlib/commit/054fe95067de7f6cab526daa14fda6208fcc9347) - add `constants/float16/min-base2-exponent` [(#8912)](https://github.com/stdlib-js/stdlib/pull/8912)
 -   [`aa055d5`](https://github.com/stdlib-js/stdlib/commit/aa055d5bbcfaec711cb139243084b4d5a3411c46) - add `constants/float16/max-base2-exponent` [(#8889)](https://github.com/stdlib-js/stdlib/pull/8889)
@@ -110,6 +111,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`caa76c4`](https://github.com/stdlib-js/stdlib/commit/caa76c47f3b7f7055578c19a682838715fc90783) - **feat:** add `constants/float16/pi` [(#8918)](https://github.com/stdlib-js/stdlib/pull/8918) _(by Divyanshu, Athan Reines)_
 -   [`54a317d`](https://github.com/stdlib-js/stdlib/commit/54a317d2826a5ded1ef811ecd23430de87b8a2fa) - **feat:** add `constants/float16/max-ln` [(#8913)](https://github.com/stdlib-js/stdlib/pull/8913) _(by Neeraj Pathak, Athan Reines)_
 -   [`054fe95`](https://github.com/stdlib-js/stdlib/commit/054fe95067de7f6cab526daa14fda6208fcc9347) - **feat:** add `constants/float16/min-base2-exponent` [(#8912)](https://github.com/stdlib-js/stdlib/pull/8912) _(by Neeraj Pathak)_
 -   [`1e07403`](https://github.com/stdlib-js/stdlib/commit/1e074034dfc14ccc5ec31573fa52678f72b707cf) - **chore:** minor clean-up _(by Philipp Burckhardt)_
@@ -251,10 +253,11 @@ A total of 17 issues were closed in this release:
 
 ### Contributors
 
-A total of 13 people contributed to this release. Thank you to the following contributors:
+A total of 14 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Athan Reines
+-   Divyanshu
 -   Gautam sharma
 -   Geo Daoyu
 -   Gunj Joshi
