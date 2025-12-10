@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`9d65971`](https://github.com/stdlib-js/stdlib/commit/9d6597132f873920933580dc0e7b6b7aed8f5ff5) - add `constants/float16/half-pi` [(#8919)](https://github.com/stdlib-js/stdlib/pull/8919)
 -   [`5e4bacd`](https://github.com/stdlib-js/stdlib/commit/5e4bacd57a2a2a9de32e1c0f42b09849d8f1c0d2) - add `constants/float16/two-pi` [(#8920)](https://github.com/stdlib-js/stdlib/pull/8920)
 -   [`caa76c4`](https://github.com/stdlib-js/stdlib/commit/caa76c47f3b7f7055578c19a682838715fc90783) - add `constants/float16/pi` [(#8918)](https://github.com/stdlib-js/stdlib/pull/8918)
 -   [`54a317d`](https://github.com/stdlib-js/stdlib/commit/54a317d2826a5ded1ef811ecd23430de87b8a2fa) - add `constants/float16/max-ln` [(#8913)](https://github.com/stdlib-js/stdlib/pull/8913)
@@ -112,6 +113,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`9d65971`](https://github.com/stdlib-js/stdlib/commit/9d6597132f873920933580dc0e7b6b7aed8f5ff5) - **feat:** add `constants/float16/half-pi` [(#8919)](https://github.com/stdlib-js/stdlib/pull/8919) _(by Divyanshu, Athan Reines)_
 -   [`5e4bacd`](https://github.com/stdlib-js/stdlib/commit/5e4bacd57a2a2a9de32e1c0f42b09849d8f1c0d2) - **feat:** add `constants/float16/two-pi` [(#8920)](https://github.com/stdlib-js/stdlib/pull/8920) _(by Divyanshu)_
 -   [`caa76c4`](https://github.com/stdlib-js/stdlib/commit/caa76c47f3b7f7055578c19a682838715fc90783) - **feat:** add `constants/float16/pi` [(#8918)](https://github.com/stdlib-js/stdlib/pull/8918) _(by Divyanshu, Athan Reines)_
 -   [`54a317d`](https://github.com/stdlib-js/stdlib/commit/54a317d2826a5ded1ef811ecd23430de87b8a2fa) - **feat:** add `constants/float16/max-ln` [(#8913)](https://github.com/stdlib-js/stdlib/pull/8913) _(by Neeraj Pathak, Athan Reines)_
