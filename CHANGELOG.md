@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-10)
+## Unreleased (2025-12-11)
 
 <section class="features">
 
 ### Features
 
+-   [`f4301d5`](https://github.com/stdlib-js/stdlib/commit/f4301d5917e391ed9aa4ad3a89d055709e37bce7) - add `constants/float16/pi-squared` [(#8928)](https://github.com/stdlib-js/stdlib/pull/8928)
 -   [`9d65971`](https://github.com/stdlib-js/stdlib/commit/9d6597132f873920933580dc0e7b6b7aed8f5ff5) - add `constants/float16/half-pi` [(#8919)](https://github.com/stdlib-js/stdlib/pull/8919)
 -   [`5e4bacd`](https://github.com/stdlib-js/stdlib/commit/5e4bacd57a2a2a9de32e1c0f42b09849d8f1c0d2) - add `constants/float16/two-pi` [(#8920)](https://github.com/stdlib-js/stdlib/pull/8920)
 -   [`caa76c4`](https://github.com/stdlib-js/stdlib/commit/caa76c47f3b7f7055578c19a682838715fc90783) - add `constants/float16/pi` [(#8918)](https://github.com/stdlib-js/stdlib/pull/8918)
@@ -113,6 +114,8 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`53d181b`](https://github.com/stdlib-js/stdlib/commit/53d181b5581a10bee3ebe924a54f137544d309e4) - **chore:** minor clean-up _(by Philipp Burckhardt)_
+-   [`f4301d5`](https://github.com/stdlib-js/stdlib/commit/f4301d5917e391ed9aa4ad3a89d055709e37bce7) - **feat:** add `constants/float16/pi-squared` [(#8928)](https://github.com/stdlib-js/stdlib/pull/8928) _(by Divyanshu)_
 -   [`9d65971`](https://github.com/stdlib-js/stdlib/commit/9d6597132f873920933580dc0e7b6b7aed8f5ff5) - **feat:** add `constants/float16/half-pi` [(#8919)](https://github.com/stdlib-js/stdlib/pull/8919) _(by Divyanshu, Athan Reines)_
 -   [`5e4bacd`](https://github.com/stdlib-js/stdlib/commit/5e4bacd57a2a2a9de32e1c0f42b09849d8f1c0d2) - **feat:** add `constants/float16/two-pi` [(#8920)](https://github.com/stdlib-js/stdlib/pull/8920) _(by Divyanshu)_
 -   [`caa76c4`](https://github.com/stdlib-js/stdlib/commit/caa76c47f3b7f7055578c19a682838715fc90783) - **feat:** add `constants/float16/pi` [(#8918)](https://github.com/stdlib-js/stdlib/pull/8918) _(by Divyanshu, Athan Reines)_
