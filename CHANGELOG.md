@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`b33ccca`](https://github.com/stdlib-js/stdlib/commit/b33ccca258a5d17690c56d675deca2e7b8f304a2) - add `constants/float16/sqrt-two` [(#9021)](https://github.com/stdlib-js/stdlib/pull/9021)
 -   [`54a6835`](https://github.com/stdlib-js/stdlib/commit/54a683591b36e6d00380d0f23ac6870c1e15dd43) - add `constants/float16/e` [(#8996)](https://github.com/stdlib-js/stdlib/pull/8996)
 -   [`37b6669`](https://github.com/stdlib-js/stdlib/commit/37b666921afc3997337f954b45083da117dd0d30) - add `constants/float16/apery` [(#8997)](https://github.com/stdlib-js/stdlib/pull/8997)
 -   [`4061bd8`](https://github.com/stdlib-js/stdlib/commit/4061bd82bd160d12a5533c72d51ef012c6a2f998) - add `constants/float16/eulergamma` [(#9002)](https://github.com/stdlib-js/stdlib/pull/9002)
@@ -118,6 +119,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`b33ccca`](https://github.com/stdlib-js/stdlib/commit/b33ccca258a5d17690c56d675deca2e7b8f304a2) - **feat:** add `constants/float16/sqrt-two` [(#9021)](https://github.com/stdlib-js/stdlib/pull/9021) _(by Krishna Awasthi)_
 -   [`54a6835`](https://github.com/stdlib-js/stdlib/commit/54a683591b36e6d00380d0f23ac6870c1e15dd43) - **feat:** add `constants/float16/e` [(#8996)](https://github.com/stdlib-js/stdlib/pull/8996) _(by Aman Singh, Philipp Burckhardt)_
 -   [`37b6669`](https://github.com/stdlib-js/stdlib/commit/37b666921afc3997337f954b45083da117dd0d30) - **feat:** add `constants/float16/apery` [(#8997)](https://github.com/stdlib-js/stdlib/pull/8997) _(by Aman Singh, Philipp Burckhardt)_
 -   [`4061bd8`](https://github.com/stdlib-js/stdlib/commit/4061bd82bd160d12a5533c72d51ef012c6a2f998) - **feat:** add `constants/float16/eulergamma` [(#9002)](https://github.com/stdlib-js/stdlib/pull/9002) _(by Aman Singh)_
@@ -268,7 +270,7 @@ A total of 17 issues were closed in this release:
 
 ### Contributors
 
-A total of 15 people contributed to this release. Thank you to the following contributors:
+A total of 16 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Aman Singh
@@ -281,6 +283,7 @@ A total of 15 people contributed to this release. Thank you to the following con
 -   Harsh Yadav
 -   Jenish
 -   Karan Anand
+-   Krishna Awasthi
 -   Manvith M
 -   Neeraj Pathak
 -   Philipp Burckhardt
