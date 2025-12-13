@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`8269957`](https://github.com/stdlib-js/stdlib/commit/82699579802de8122195c814e880d8ff3b3d1676) - add `constants/float16/gamma-lanczos-g` [(#9022)](https://github.com/stdlib-js/stdlib/pull/9022)
 -   [`b33ccca`](https://github.com/stdlib-js/stdlib/commit/b33ccca258a5d17690c56d675deca2e7b8f304a2) - add `constants/float16/sqrt-two` [(#9021)](https://github.com/stdlib-js/stdlib/pull/9021)
 -   [`54a6835`](https://github.com/stdlib-js/stdlib/commit/54a683591b36e6d00380d0f23ac6870c1e15dd43) - add `constants/float16/e` [(#8996)](https://github.com/stdlib-js/stdlib/pull/8996)
 -   [`37b6669`](https://github.com/stdlib-js/stdlib/commit/37b666921afc3997337f954b45083da117dd0d30) - add `constants/float16/apery` [(#8997)](https://github.com/stdlib-js/stdlib/pull/8997)
@@ -119,6 +120,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`8269957`](https://github.com/stdlib-js/stdlib/commit/82699579802de8122195c814e880d8ff3b3d1676) - **feat:** add `constants/float16/gamma-lanczos-g` [(#9022)](https://github.com/stdlib-js/stdlib/pull/9022) _(by Aman Singh, Philipp Burckhardt)_
 -   [`b33ccca`](https://github.com/stdlib-js/stdlib/commit/b33ccca258a5d17690c56d675deca2e7b8f304a2) - **feat:** add `constants/float16/sqrt-two` [(#9021)](https://github.com/stdlib-js/stdlib/pull/9021) _(by Krishna Awasthi)_
 -   [`54a6835`](https://github.com/stdlib-js/stdlib/commit/54a683591b36e6d00380d0f23ac6870c1e15dd43) - **feat:** add `constants/float16/e` [(#8996)](https://github.com/stdlib-js/stdlib/pull/8996) _(by Aman Singh, Philipp Burckhardt)_
 -   [`37b6669`](https://github.com/stdlib-js/stdlib/commit/37b666921afc3997337f954b45083da117dd0d30) - **feat:** add `constants/float16/apery` [(#8997)](https://github.com/stdlib-js/stdlib/pull/8997) _(by Aman Singh, Philipp Burckhardt)_
