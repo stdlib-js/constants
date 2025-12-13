@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-11)
+## Unreleased (2025-12-13)
 
 <section class="features">
 
 ### Features
 
+-   [`6e7fa3e`](https://github.com/stdlib-js/stdlib/commit/6e7fa3e2f5a8b51b2c268e898ba3055b1d5caf84) - add `constants/float16/phi` [(#9001)](https://github.com/stdlib-js/stdlib/pull/9001)
 -   [`f4301d5`](https://github.com/stdlib-js/stdlib/commit/f4301d5917e391ed9aa4ad3a89d055709e37bce7) - add `constants/float16/pi-squared` [(#8928)](https://github.com/stdlib-js/stdlib/pull/8928)
 -   [`9d65971`](https://github.com/stdlib-js/stdlib/commit/9d6597132f873920933580dc0e7b6b7aed8f5ff5) - add `constants/float16/half-pi` [(#8919)](https://github.com/stdlib-js/stdlib/pull/8919)
 -   [`5e4bacd`](https://github.com/stdlib-js/stdlib/commit/5e4bacd57a2a2a9de32e1c0f42b09849d8f1c0d2) - add `constants/float16/two-pi` [(#8920)](https://github.com/stdlib-js/stdlib/pull/8920)
@@ -114,6 +115,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`6e7fa3e`](https://github.com/stdlib-js/stdlib/commit/6e7fa3e2f5a8b51b2c268e898ba3055b1d5caf84) - **feat:** add `constants/float16/phi` [(#9001)](https://github.com/stdlib-js/stdlib/pull/9001) _(by Aman Singh)_
 -   [`53d181b`](https://github.com/stdlib-js/stdlib/commit/53d181b5581a10bee3ebe924a54f137544d309e4) - **chore:** minor clean-up _(by Philipp Burckhardt)_
 -   [`f4301d5`](https://github.com/stdlib-js/stdlib/commit/f4301d5917e391ed9aa4ad3a89d055709e37bce7) - **feat:** add `constants/float16/pi-squared` [(#8928)](https://github.com/stdlib-js/stdlib/pull/8928) _(by Divyanshu)_
 -   [`9d65971`](https://github.com/stdlib-js/stdlib/commit/9d6597132f873920933580dc0e7b6b7aed8f5ff5) - **feat:** add `constants/float16/half-pi` [(#8919)](https://github.com/stdlib-js/stdlib/pull/8919) _(by Divyanshu, Athan Reines)_
@@ -260,9 +262,10 @@ A total of 17 issues were closed in this release:
 
 ### Contributors
 
-A total of 14 people contributed to this release. Thank you to the following contributors:
+A total of 15 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
+-   Aman Singh
 -   Athan Reines
 -   Divyanshu
 -   Gautam sharma
