@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`54a6835`](https://github.com/stdlib-js/stdlib/commit/54a683591b36e6d00380d0f23ac6870c1e15dd43) - add `constants/float16/e` [(#8996)](https://github.com/stdlib-js/stdlib/pull/8996)
 -   [`37b6669`](https://github.com/stdlib-js/stdlib/commit/37b666921afc3997337f954b45083da117dd0d30) - add `constants/float16/apery` [(#8997)](https://github.com/stdlib-js/stdlib/pull/8997)
 -   [`4061bd8`](https://github.com/stdlib-js/stdlib/commit/4061bd82bd160d12a5533c72d51ef012c6a2f998) - add `constants/float16/eulergamma` [(#9002)](https://github.com/stdlib-js/stdlib/pull/9002)
 -   [`6e7fa3e`](https://github.com/stdlib-js/stdlib/commit/6e7fa3e2f5a8b51b2c268e898ba3055b1d5caf84) - add `constants/float16/phi` [(#9001)](https://github.com/stdlib-js/stdlib/pull/9001)
@@ -117,6 +118,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`54a6835`](https://github.com/stdlib-js/stdlib/commit/54a683591b36e6d00380d0f23ac6870c1e15dd43) - **feat:** add `constants/float16/e` [(#8996)](https://github.com/stdlib-js/stdlib/pull/8996) _(by Aman Singh, Philipp Burckhardt)_
 -   [`37b6669`](https://github.com/stdlib-js/stdlib/commit/37b666921afc3997337f954b45083da117dd0d30) - **feat:** add `constants/float16/apery` [(#8997)](https://github.com/stdlib-js/stdlib/pull/8997) _(by Aman Singh, Philipp Burckhardt)_
 -   [`4061bd8`](https://github.com/stdlib-js/stdlib/commit/4061bd82bd160d12a5533c72d51ef012c6a2f998) - **feat:** add `constants/float16/eulergamma` [(#9002)](https://github.com/stdlib-js/stdlib/pull/9002) _(by Aman Singh)_
 -   [`6e7fa3e`](https://github.com/stdlib-js/stdlib/commit/6e7fa3e2f5a8b51b2c268e898ba3055b1d5caf84) - **feat:** add `constants/float16/phi` [(#9001)](https://github.com/stdlib-js/stdlib/pull/9001) _(by Aman Singh)_
