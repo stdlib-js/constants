@@ -18,7 +18,7 @@
 
 'use strict';
 
-var FLOAT16_GAMMA_LANCZOS_G = require( './../lib' );
+var FLOAT16_MAX_BASE10_EXPONENT = require( './../lib' );
 
-console.log( FLOAT16_GAMMA_LANCZOS_G );
-// => 4.7421875
+console.log( FLOAT16_MAX_BASE10_EXPONENT );
+// => 4

@@ -16,7 +16,7 @@
 * limitations under the License.
 */
 
-import FLOAT16_GAMMA_LANCZOS_G = require( './index' );
+import FLOAT16_MAX_BASE10_EXPONENT = require( './index' );
 
 
 // TESTS //
@@ -24,5 +24,5 @@ import FLOAT16_GAMMA_LANCZOS_G = require( './index' );
 // The export is a number...
 {
 	// eslint-disable-next-line @typescript-eslint/no-unused-expressions
-	FLOAT16_GAMMA_LANCZOS_G; // $ExpectType number
+	FLOAT16_MAX_BASE10_EXPONENT; // $ExpectType number
 }

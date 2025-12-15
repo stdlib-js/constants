@@ -1,7 +1,7 @@
 {
-  "name": "@stdlib/constants/float16/gamma-lanczos-g",
+  "name": "@stdlib/constants/float16/max-base10-exponent",
   "version": "0.0.0",
-  "description": "Arbitrary constant `g` to be used in Lanczos approximation functions.",
+  "description": "The maximum base 10 exponent for a half-precision floating-point number.",
   "license": "Apache-2.0",
   "author": {
     "name": "The Stdlib Authors",
@@ -17,6 +17,7 @@
   "directories": {
     "doc": "./docs",
     "example": "./examples",
+    "include": "./include",
     "lib": "./lib",
     "test": "./test"
   },
@@ -54,12 +55,13 @@
     "const",
     "mathematics",
     "math",
-    "gamma",
-    "lanczos",
-    "approximation",
-    "ieee754",
-    "float",
+    "half",
     "floating-point",
-    "float16"
+    "float",
+    "ieee754",
+    "exponent",
+    "max",
+    "maximum",
+    "base 10"
   ]
 }

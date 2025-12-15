@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-13)
+## Unreleased (2025-12-15)
 
 <section class="features">
 
 ### Features
 
+-   [`786d001`](https://github.com/stdlib-js/stdlib/commit/786d0015188efd47726139fe620b04e65ed7aff9) - add `constants/float16/max-base10-exponent` [(#8929)](https://github.com/stdlib-js/stdlib/pull/8929)
 -   [`8269957`](https://github.com/stdlib-js/stdlib/commit/82699579802de8122195c814e880d8ff3b3d1676) - add `constants/float16/gamma-lanczos-g` [(#9022)](https://github.com/stdlib-js/stdlib/pull/9022)
 -   [`b33ccca`](https://github.com/stdlib-js/stdlib/commit/b33ccca258a5d17690c56d675deca2e7b8f304a2) - add `constants/float16/sqrt-two` [(#9021)](https://github.com/stdlib-js/stdlib/pull/9021)
 -   [`54a6835`](https://github.com/stdlib-js/stdlib/commit/54a683591b36e6d00380d0f23ac6870c1e15dd43) - add `constants/float16/e` [(#8996)](https://github.com/stdlib-js/stdlib/pull/8996)
@@ -102,6 +103,21 @@
 
 <!-- /.bug-fixes -->
 
+<section class="breaking-changes">
+
+### BREAKING CHANGES
+
+-   [`e2902df`](https://github.com/stdlib-js/stdlib/commit/e2902df5460328a80ddbf29dc8be46ae148f4e2e): remove `constants/float16/lanczos-gamma-g`
+
+    -   This feature was only recently added and has not been published.
+        As such, the impact of removing this constant should be negligible
+        for downstream users.
+        Ref: https://github.com/stdlib-js/stdlib/pull/9022
+
+</section>
+
+<!-- /.breaking-changes -->
+
 <section class="issues">
 
 ### Closed Issues
@@ -120,6 +136,10 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`786d001`](https://github.com/stdlib-js/stdlib/commit/786d0015188efd47726139fe620b04e65ed7aff9) - **feat:** add `constants/float16/max-base10-exponent` [(#8929)](https://github.com/stdlib-js/stdlib/pull/8929) _(by Neeraj Pathak)_
+-   [`e2902df`](https://github.com/stdlib-js/stdlib/commit/e2902df5460328a80ddbf29dc8be46ae148f4e2e) - **remove:** remove `constants/float16/lanczos-gamma-g` _(by Athan Reines)_
+-   [`39fc49d`](https://github.com/stdlib-js/stdlib/commit/39fc49d6130c8c7481c561ae93ae47f57104da18) - **chore:** fix name to match conventions in `float64` and `float32` _(by Athan Reines)_
+-   [`e43918d`](https://github.com/stdlib-js/stdlib/commit/e43918de6c28a088781f25aa3b745560417b9b20) - **docs:** remove note _(by Athan Reines)_
 -   [`8269957`](https://github.com/stdlib-js/stdlib/commit/82699579802de8122195c814e880d8ff3b3d1676) - **feat:** add `constants/float16/gamma-lanczos-g` [(#9022)](https://github.com/stdlib-js/stdlib/pull/9022) _(by Aman Singh, Philipp Burckhardt)_
 -   [`b33ccca`](https://github.com/stdlib-js/stdlib/commit/b33ccca258a5d17690c56d675deca2e7b8f304a2) - **feat:** add `constants/float16/sqrt-two` [(#9021)](https://github.com/stdlib-js/stdlib/pull/9021) _(by Krishna Awasthi)_
 -   [`54a6835`](https://github.com/stdlib-js/stdlib/commit/54a683591b36e6d00380d0f23ac6870c1e15dd43) - **feat:** add `constants/float16/e` [(#8996)](https://github.com/stdlib-js/stdlib/pull/8996) _(by Aman Singh, Philipp Burckhardt)_

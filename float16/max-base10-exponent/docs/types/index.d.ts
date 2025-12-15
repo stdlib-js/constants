@@ -1,4 +1,4 @@
-/**
+/*
 * @license Apache-2.0
 *
 * Copyright (c) 2025 The Stdlib Authors.
@@ -16,32 +16,18 @@
 * limitations under the License.
 */
 
-'use strict';
+// TypeScript Version: 4.1
 
 /**
-* Arbitrary constant `g` to be used in Lanczos approximation functions.
-*
-* @module @stdlib/constants/float16/gamma-lanczos-g
-* @type {number}
+* The maximum base 10 exponent for a half-precision floating-point number.
 *
 * @example
-* var FLOAT16_GAMMA_LANCZOS_G = require( '@stdlib/constants/float16/gamma-lanczos-g' );
-* // returns 4.7421875
+* var exp = FLOAT16_MAX_BASE10_EXPONENT;
+* // returns 4
 */
-
-// MAIN //
-
-/**
-* Arbitrary constant `g` to be used in Lanczos approximation functions.
-*
-* @constant
-* @type {number}
-* @default 4.7421875
-* @see [Lanczos Approximation]{@link https://en.wikipedia.org/wiki/Lanczos_approximation}
-*/
-var FLOAT16_GAMMA_LANCZOS_G = 4.7421875;
+declare const FLOAT16_MAX_BASE10_EXPONENT: number;
 
 
 // EXPORTS //
 
-module.exports = FLOAT16_GAMMA_LANCZOS_G;
+export = FLOAT16_MAX_BASE10_EXPONENT;

@@ -18,21 +18,31 @@
 
 'use strict';
 
-// MODULES //
+/**
+* The maximum base 10 exponent for a half-precision floating-point number.
+*
+* @module @stdlib/constants/float16/max-base10-exponent
+* @type {integer32}
+*
+* @example
+* var FLOAT16_MAX_BASE10_EXPONENT = require( '@stdlib/constants/float16/max-base10-exponent' );
+* // returns 4
+*/
 
-var tape = require( 'tape' );
-var FLOAT16_GAMMA_LANCZOS_G = require( './../lib' );
+
+// MAIN //
+
+/**
+* The maximum base 10 exponent for a half-precision floating-point number.
+*
+* @constant
+* @type {integer32}
+* @default 4
+* @see [IEEE 754]{@link https://en.wikipedia.org/wiki/IEEE_754-1985}
+*/
+var FLOAT16_MAX_BASE10_EXPONENT = 4|0; // asm type annotation
 
 
-// TESTS //
+// EXPORTS //
 
-tape( 'main export is a number', function test( t ) {
-	t.ok( true, __filename );
-	t.strictEqual( typeof FLOAT16_GAMMA_LANCZOS_G, 'number', 'main export is a number' );
-	t.end();
-});
-
-tape( 'export is a half-precision floating-point number equal to 4.7421875', function test( t ) {
-	t.strictEqual( FLOAT16_GAMMA_LANCZOS_G, 4.7421875, 'returns expected value' );
-	t.end();
-});
+module.exports = FLOAT16_MAX_BASE10_EXPONENT;

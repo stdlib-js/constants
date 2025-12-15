@@ -1,4 +1,4 @@
-/*
+/**
 * @license Apache-2.0
 *
 * Copyright (c) 2025 The Stdlib Authors.
@@ -16,18 +16,12 @@
 * limitations under the License.
 */
 
-// TypeScript Version: 4.1
+#ifndef STDLIB_CONSTANTS_FLOAT16_MAX_BASE10_EXPONENT_H
+#define STDLIB_CONSTANTS_FLOAT16_MAX_BASE10_EXPONENT_H
 
 /**
-* The Euler–Mascheroni constant `γ`.
-*
-* @example
-* var val = FLOAT16_EULERGAMMA;
-* // returns 0.5771484375
+* Macro for the maximum base 10 exponent for a half-precision floating-point number.
 */
-declare const FLOAT16_EULERGAMMA: number;
+#define STDLIB_CONSTANT_FLOAT16_MAX_BASE10_EXPONENT 4
 
-
-// EXPORTS //
-
-export = FLOAT16_EULERGAMMA;
+#endif // !STDLIB_CONSTANTS_FLOAT16_MAX_BASE10_EXPONENT_H

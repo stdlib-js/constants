@@ -1,4 +1,4 @@
-/*
+/**
 * @license Apache-2.0
 *
 * Copyright (c) 2025 The Stdlib Authors.
@@ -16,18 +16,23 @@
 * limitations under the License.
 */
 
-// TypeScript Version: 4.1
+'use strict';
 
-/**
-* Arbitrary constant `g` to be used in Lanczos approximation functions.
-*
-* @example
-* var val = FLOAT16_GAMMA_LANCZOS_G;
-* // returns 4.7421875
-*/
-declare const FLOAT16_GAMMA_LANCZOS_G: number;
+// MODULES //
+
+var tape = require( 'tape' );
+var FLOAT16_MAX_BASE10_EXPONENT = require( './../lib' );
 
 
-// EXPORTS //
+// TESTS //
 
-export = FLOAT16_GAMMA_LANCZOS_G;
+tape( 'main export is a number', function test( t ) {
+	t.ok( true, __filename );
+	t.strictEqual( typeof FLOAT16_MAX_BASE10_EXPONENT, 'number', 'main export is a number' );
+	t.end();
+});
+
+tape( 'the exported value is `4`', function test( t ) {
+	t.strictEqual( FLOAT16_MAX_BASE10_EXPONENT, 4, 'returns expected value' );
+	t.end();
+});
