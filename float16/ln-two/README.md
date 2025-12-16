@@ -60,10 +60,6 @@ console.log( FLOAT16_LN2 );
 
 <!-- /.examples -->
 
-<section class="examples">
-
-</section>
-
 <!-- Section for related `stdlib` packages. Do not manually edit this section, as it is automatically populated. -->
 
 <section class="related">

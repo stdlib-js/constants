@@ -26,7 +26,7 @@
 *
 * @example
 * var FLOAT16_LN10 = require( '@stdlib/constants/float16/ln-ten' );
-* // returns  2.302734375
+* // returns 2.302734375
 */
 
 

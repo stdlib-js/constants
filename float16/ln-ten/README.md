@@ -55,12 +55,10 @@ var bool = ( FLOAT16_LN10 === 2.302734375 );
 var FLOAT16_LN10 = require( '@stdlib/constants/float16/ln-ten' );
 
 console.log( FLOAT16_LN10 );
-// =>  2.302734375
+// => 2.302734375
 ```
 
 </section>
-
-<!-- /.examples -->
 
 <!-- /.examples -->
 

@@ -38,7 +38,7 @@
 * @type {number}
 * @default 0.434326171875
 * @see [OEIS]{@link https://oeis.org/A001113}
-* @see [Wikipedia]{@link https://en.wikipedia.org/wiki/E_%27mathematical_constant%28}
+* @see [Wikipedia]{@link https://en.wikipedia.org/wiki/E_%28mathematical_constant%29}
 */
 var FLOAT16_LOG10E = 0.434326171875;
 
