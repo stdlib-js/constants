@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`772e753`](https://github.com/stdlib-js/stdlib/commit/772e7536e6d316d980e12bf57cec78b7a5538332) - add `constants/float16/sqrt-three` [(#8986)](https://github.com/stdlib-js/stdlib/pull/8986)
 -   [`8f18bd7`](https://github.com/stdlib-js/stdlib/commit/8f18bd782f1305bf8bcb083ad3b8e90f72f35423) - add `constants/float16/ln-pi` [(#8977)](https://github.com/stdlib-js/stdlib/pull/8977)
 -   [`49f1398`](https://github.com/stdlib-js/stdlib/commit/49f1398c28bac3a2a5322cb36a03dd941ccd7a25) - add `constants/float16/half-ln-two` [(#8974)](https://github.com/stdlib-js/stdlib/pull/8974)
 -   [`85b8126`](https://github.com/stdlib-js/stdlib/commit/85b812601fb71fef1cd2854ac3222379725a7344) - add `constants/float16/ln-ten` [(#8973)](https://github.com/stdlib-js/stdlib/pull/8973)
@@ -146,6 +147,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`772e753`](https://github.com/stdlib-js/stdlib/commit/772e7536e6d316d980e12bf57cec78b7a5538332) - **feat:** add `constants/float16/sqrt-three` [(#8986)](https://github.com/stdlib-js/stdlib/pull/8986) _(by Aman Singh, Athan Reines)_
 -   [`8f18bd7`](https://github.com/stdlib-js/stdlib/commit/8f18bd782f1305bf8bcb083ad3b8e90f72f35423) - **feat:** add `constants/float16/ln-pi` [(#8977)](https://github.com/stdlib-js/stdlib/pull/8977) _(by Divyanshu, Athan Reines)_
 -   [`49f1398`](https://github.com/stdlib-js/stdlib/commit/49f1398c28bac3a2a5322cb36a03dd941ccd7a25) - **feat:** add `constants/float16/half-ln-two` [(#8974)](https://github.com/stdlib-js/stdlib/pull/8974) _(by Divyanshu, Athan Reines)_
 -   [`ae4e7fc`](https://github.com/stdlib-js/stdlib/commit/ae4e7fc708b4d447b1a9b793990b74da5ace3518) - **docs:** fix desc _(by Athan Reines)_
