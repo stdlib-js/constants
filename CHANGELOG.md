@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`075f9ca`](https://github.com/stdlib-js/stdlib/commit/075f9caa49d0783dd7844d946c94a1129e1c187e) - add `constants/float16/sqrt-half` [(#8965)](https://github.com/stdlib-js/stdlib/pull/8965)
 -   [`55822b6`](https://github.com/stdlib-js/stdlib/commit/55822b6df7dcedceddc9eb8709ea45eed51c4a2e) - add `constants/float16/sqrt-two-pi` [(#8963)](https://github.com/stdlib-js/stdlib/pull/8963)
 -   [`cb8dd72`](https://github.com/stdlib-js/stdlib/commit/cb8dd721f7bfcc6b8668106583674a4dd8fdf53d) - add `constants/float16/min-base2-exponent-subnormal` [(#8967)](https://github.com/stdlib-js/stdlib/pull/8967)
 -   [`c8d6b73`](https://github.com/stdlib-js/stdlib/commit/c8d6b73287926c502cc6074eec1fae473aa6eeac) - add `constants/float16/min-base10-exponent` [(#8966)](https://github.com/stdlib-js/stdlib/pull/8966)
@@ -140,6 +141,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`075f9ca`](https://github.com/stdlib-js/stdlib/commit/075f9caa49d0783dd7844d946c94a1129e1c187e) - **feat:** add `constants/float16/sqrt-half` [(#8965)](https://github.com/stdlib-js/stdlib/pull/8965) _(by Aman Singh, Athan Reines)_
 -   [`55822b6`](https://github.com/stdlib-js/stdlib/commit/55822b6df7dcedceddc9eb8709ea45eed51c4a2e) - **feat:** add `constants/float16/sqrt-two-pi` [(#8963)](https://github.com/stdlib-js/stdlib/pull/8963) _(by Sagar Ratna Chaudhary, Athan Reines, Neeraj Pathak)_
 -   [`f8b1f0b`](https://github.com/stdlib-js/stdlib/commit/f8b1f0bf51df7eb96e04b06853b0bc0e0a0f2cf7) - **docs:** fix desc _(by Athan Reines)_
 -   [`64a30aa`](https://github.com/stdlib-js/stdlib/commit/64a30aa6bfb2915ddbbe8781c0b8279ad19077fc) - **docs:** fix desc _(by Athan Reines)_
