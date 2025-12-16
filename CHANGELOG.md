@@ -139,6 +139,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`f8b1f0b`](https://github.com/stdlib-js/stdlib/commit/f8b1f0bf51df7eb96e04b06853b0bc0e0a0f2cf7) - **docs:** fix desc _(by Athan Reines)_
 -   [`64a30aa`](https://github.com/stdlib-js/stdlib/commit/64a30aa6bfb2915ddbbe8781c0b8279ad19077fc) - **docs:** fix desc _(by Athan Reines)_
 -   [`09bf08d`](https://github.com/stdlib-js/stdlib/commit/09bf08d28a3ac34b2957e275b7e380f9331ed420) - **docs:** fix desc _(by Athan Reines)_
 -   [`cb8dd72`](https://github.com/stdlib-js/stdlib/commit/cb8dd721f7bfcc6b8668106583674a4dd8fdf53d) - **feat:** add `constants/float16/min-base2-exponent-subnormal` [(#8967)](https://github.com/stdlib-js/stdlib/pull/8967) _(by Neeraj Pathak)_
