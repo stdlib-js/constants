@@ -1,6 +1,6 @@
 
 {{alias}}
-    Square root of the mathematical constant `π` times `2` as single-precision
+    Square root of the mathematical constant `π` times `2` as a single-precision
     floating-point number.
 
     Examples
