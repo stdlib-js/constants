@@ -144,6 +144,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`ae4e7fc`](https://github.com/stdlib-js/stdlib/commit/ae4e7fc708b4d447b1a9b793990b74da5ace3518) - **docs:** fix desc _(by Athan Reines)_
 -   [`85b8126`](https://github.com/stdlib-js/stdlib/commit/85b812601fb71fef1cd2854ac3222379725a7344) - **feat:** add `constants/float16/ln-ten` [(#8973)](https://github.com/stdlib-js/stdlib/pull/8973) _(by Divyanshu)_
 -   [`7f8b6e7`](https://github.com/stdlib-js/stdlib/commit/7f8b6e710a2c5b51f2bfd11a28126a3afb216b75) - **feat:** add `constants/float16/ln-two` [(#8972)](https://github.com/stdlib-js/stdlib/pull/8972) _(by Divyanshu, Athan Reines)_
 -   [`c7a61ab`](https://github.com/stdlib-js/stdlib/commit/c7a61abd1ff705b295e75d8cde4f7aa9e633a02e) - **feat:** add `constants/float16/ln-half` [(#8971)](https://github.com/stdlib-js/stdlib/pull/8971) _(by Divyanshu)_
