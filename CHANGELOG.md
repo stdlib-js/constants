@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`0684012`](https://github.com/stdlib-js/stdlib/commit/06840123ab111e318121c28f717633d28f0add91) - add `constants/float16/ln-two-pi` [(#8988)](https://github.com/stdlib-js/stdlib/pull/8988)
 -   [`423a0ae`](https://github.com/stdlib-js/stdlib/commit/423a0ae550e9c1678d5b580c58db60bfddc51da5) - add `constants/float16/ln-sqrt-two-pi` [(#8989)](https://github.com/stdlib-js/stdlib/pull/8989)
 -   [`772e753`](https://github.com/stdlib-js/stdlib/commit/772e7536e6d316d980e12bf57cec78b7a5538332) - add `constants/float16/sqrt-three` [(#8986)](https://github.com/stdlib-js/stdlib/pull/8986)
 -   [`8f18bd7`](https://github.com/stdlib-js/stdlib/commit/8f18bd782f1305bf8bcb083ad3b8e90f72f35423) - add `constants/float16/ln-pi` [(#8977)](https://github.com/stdlib-js/stdlib/pull/8977)
@@ -148,6 +149,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`0684012`](https://github.com/stdlib-js/stdlib/commit/06840123ab111e318121c28f717633d28f0add91) - **feat:** add `constants/float16/ln-two-pi` [(#8988)](https://github.com/stdlib-js/stdlib/pull/8988) _(by Divyanshu)_
 -   [`423a0ae`](https://github.com/stdlib-js/stdlib/commit/423a0ae550e9c1678d5b580c58db60bfddc51da5) - **feat:** add `constants/float16/ln-sqrt-two-pi` [(#8989)](https://github.com/stdlib-js/stdlib/pull/8989) _(by Divyanshu)_
 -   [`772e753`](https://github.com/stdlib-js/stdlib/commit/772e7536e6d316d980e12bf57cec78b7a5538332) - **feat:** add `constants/float16/sqrt-three` [(#8986)](https://github.com/stdlib-js/stdlib/pull/8986) _(by Aman Singh, Athan Reines)_
 -   [`8f18bd7`](https://github.com/stdlib-js/stdlib/commit/8f18bd782f1305bf8bcb083ad3b8e90f72f35423) - **feat:** add `constants/float16/ln-pi` [(#8977)](https://github.com/stdlib-js/stdlib/pull/8977) _(by Divyanshu, Athan Reines)_
