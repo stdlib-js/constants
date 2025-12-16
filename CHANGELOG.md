@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`cb8dd72`](https://github.com/stdlib-js/stdlib/commit/cb8dd721f7bfcc6b8668106583674a4dd8fdf53d) - add `constants/float16/min-base2-exponent-subnormal` [(#8967)](https://github.com/stdlib-js/stdlib/pull/8967)
 -   [`c8d6b73`](https://github.com/stdlib-js/stdlib/commit/c8d6b73287926c502cc6074eec1fae473aa6eeac) - add `constants/float16/min-base10-exponent` [(#8966)](https://github.com/stdlib-js/stdlib/pull/8966)
 -   [`aca91ba`](https://github.com/stdlib-js/stdlib/commit/aca91ba0597b23b3c5cc8231013e4475da528bcc) - add `constants/float16/max-base2-exponent-subnormal` [(#8969)](https://github.com/stdlib-js/stdlib/pull/8969)
 -   [`786d001`](https://github.com/stdlib-js/stdlib/commit/786d0015188efd47726139fe620b04e65ed7aff9) - add `constants/float16/max-base10-exponent` [(#8929)](https://github.com/stdlib-js/stdlib/pull/8929)
@@ -138,6 +139,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`cb8dd72`](https://github.com/stdlib-js/stdlib/commit/cb8dd721f7bfcc6b8668106583674a4dd8fdf53d) - **feat:** add `constants/float16/min-base2-exponent-subnormal` [(#8967)](https://github.com/stdlib-js/stdlib/pull/8967) _(by Neeraj Pathak)_
 -   [`c8d6b73`](https://github.com/stdlib-js/stdlib/commit/c8d6b73287926c502cc6074eec1fae473aa6eeac) - **feat:** add `constants/float16/min-base10-exponent` [(#8966)](https://github.com/stdlib-js/stdlib/pull/8966) _(by Neeraj Pathak, stdlib-bot)_
 -   [`aca91ba`](https://github.com/stdlib-js/stdlib/commit/aca91ba0597b23b3c5cc8231013e4475da528bcc) - **feat:** add `constants/float16/max-base2-exponent-subnormal` [(#8969)](https://github.com/stdlib-js/stdlib/pull/8969) _(by Neeraj Pathak)_
 -   [`786d001`](https://github.com/stdlib-js/stdlib/commit/786d0015188efd47726139fe620b04e65ed7aff9) - **feat:** add `constants/float16/max-base10-exponent` [(#8929)](https://github.com/stdlib-js/stdlib/pull/8929) _(by Neeraj Pathak)_
