@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`498cdcf`](https://github.com/stdlib-js/stdlib/commit/498cdcf88cd46f9b9d72069bd10943b0d02fbd57) - add `constants/float16/log10-e` [(#8993)](https://github.com/stdlib-js/stdlib/pull/8993)
 -   [`ecb25d7`](https://github.com/stdlib-js/stdlib/commit/ecb25d78e4f80742c347a0f4297590a9b49834a2) - add `constants/float16/log2-e` [(#8991)](https://github.com/stdlib-js/stdlib/pull/8991)
 -   [`0684012`](https://github.com/stdlib-js/stdlib/commit/06840123ab111e318121c28f717633d28f0add91) - add `constants/float16/ln-two-pi` [(#8988)](https://github.com/stdlib-js/stdlib/pull/8988)
 -   [`423a0ae`](https://github.com/stdlib-js/stdlib/commit/423a0ae550e9c1678d5b580c58db60bfddc51da5) - add `constants/float16/ln-sqrt-two-pi` [(#8989)](https://github.com/stdlib-js/stdlib/pull/8989)
@@ -150,6 +151,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`498cdcf`](https://github.com/stdlib-js/stdlib/commit/498cdcf88cd46f9b9d72069bd10943b0d02fbd57) - **feat:** add `constants/float16/log10-e` [(#8993)](https://github.com/stdlib-js/stdlib/pull/8993) _(by Divyanshu)_
 -   [`ecb25d7`](https://github.com/stdlib-js/stdlib/commit/ecb25d78e4f80742c347a0f4297590a9b49834a2) - **feat:** add `constants/float16/log2-e` [(#8991)](https://github.com/stdlib-js/stdlib/pull/8991) _(by Divyanshu)_
 -   [`0684012`](https://github.com/stdlib-js/stdlib/commit/06840123ab111e318121c28f717633d28f0add91) - **feat:** add `constants/float16/ln-two-pi` [(#8988)](https://github.com/stdlib-js/stdlib/pull/8988) _(by Divyanshu)_
 -   [`423a0ae`](https://github.com/stdlib-js/stdlib/commit/423a0ae550e9c1678d5b580c58db60bfddc51da5) - **feat:** add `constants/float16/ln-sqrt-two-pi` [(#8989)](https://github.com/stdlib-js/stdlib/pull/8989) _(by Divyanshu)_
