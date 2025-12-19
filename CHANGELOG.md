@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`a74bbd2`](https://github.com/stdlib-js/stdlib/commit/a74bbd2daa62552702d22abace25b18e0341ecbf) - add `constants/float16/max-base10-exponent-subnormal` [(#9245)](https://github.com/stdlib-js/stdlib/pull/9245)
 -   [`b5fed93`](https://github.com/stdlib-js/stdlib/commit/b5fed93e3a9d169eaf611c7955e45ed468c01750) - add `constants/float16/abs-mask` [(#9206)](https://github.com/stdlib-js/stdlib/pull/9206)
 -   [`498cdcf`](https://github.com/stdlib-js/stdlib/commit/498cdcf88cd46f9b9d72069bd10943b0d02fbd57) - add `constants/float16/log10-e` [(#8993)](https://github.com/stdlib-js/stdlib/pull/8993)
 -   [`ecb25d7`](https://github.com/stdlib-js/stdlib/commit/ecb25d78e4f80742c347a0f4297590a9b49834a2) - add `constants/float16/log2-e` [(#8991)](https://github.com/stdlib-js/stdlib/pull/8991)
@@ -152,6 +153,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`a74bbd2`](https://github.com/stdlib-js/stdlib/commit/a74bbd2daa62552702d22abace25b18e0341ecbf) - **feat:** add `constants/float16/max-base10-exponent-subnormal` [(#9245)](https://github.com/stdlib-js/stdlib/pull/9245) _(by piyxsh31, Athan Reines)_
 -   [`b5fed93`](https://github.com/stdlib-js/stdlib/commit/b5fed93e3a9d169eaf611c7955e45ed468c01750) - **feat:** add `constants/float16/abs-mask` [(#9206)](https://github.com/stdlib-js/stdlib/pull/9206) _(by Aman Singh, Athan Reines)_
 -   [`6a11b5d`](https://github.com/stdlib-js/stdlib/commit/6a11b5d1d4f6b4752865d25d5ae3f937236efb3c) - **docs:** fix note _(by Athan Reines)_
 -   [`a7b75d8`](https://github.com/stdlib-js/stdlib/commit/a7b75d8641edc1199962a76217660d179462204d) - **chore:** fix README sections and return annotations spacing _(by Philipp Burckhardt)_
@@ -331,7 +333,7 @@ A total of 17 issues were closed in this release:
 
 ### Contributors
 
-A total of 17 people contributed to this release. Thank you to the following contributors:
+A total of 18 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Aman Singh
@@ -350,6 +352,7 @@ A total of 17 people contributed to this release. Thank you to the following con
 -   Philipp Burckhardt
 -   Sagar Ratna Chaudhary
 -   Vivek Maurya
+-   piyxsh31
 
 </section>
 
