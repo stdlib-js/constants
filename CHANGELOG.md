@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`b5fed93`](https://github.com/stdlib-js/stdlib/commit/b5fed93e3a9d169eaf611c7955e45ed468c01750) - add `constants/float16/abs-mask` [(#9206)](https://github.com/stdlib-js/stdlib/pull/9206)
 -   [`498cdcf`](https://github.com/stdlib-js/stdlib/commit/498cdcf88cd46f9b9d72069bd10943b0d02fbd57) - add `constants/float16/log10-e` [(#8993)](https://github.com/stdlib-js/stdlib/pull/8993)
 -   [`ecb25d7`](https://github.com/stdlib-js/stdlib/commit/ecb25d78e4f80742c347a0f4297590a9b49834a2) - add `constants/float16/log2-e` [(#8991)](https://github.com/stdlib-js/stdlib/pull/8991)
 -   [`0684012`](https://github.com/stdlib-js/stdlib/commit/06840123ab111e318121c28f717633d28f0add91) - add `constants/float16/ln-two-pi` [(#8988)](https://github.com/stdlib-js/stdlib/pull/8988)
@@ -151,6 +152,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`b5fed93`](https://github.com/stdlib-js/stdlib/commit/b5fed93e3a9d169eaf611c7955e45ed468c01750) - **feat:** add `constants/float16/abs-mask` [(#9206)](https://github.com/stdlib-js/stdlib/pull/9206) _(by Aman Singh, Athan Reines)_
 -   [`6a11b5d`](https://github.com/stdlib-js/stdlib/commit/6a11b5d1d4f6b4752865d25d5ae3f937236efb3c) - **docs:** fix note _(by Athan Reines)_
 -   [`a7b75d8`](https://github.com/stdlib-js/stdlib/commit/a7b75d8641edc1199962a76217660d179462204d) - **chore:** fix README sections and return annotations spacing _(by Philipp Burckhardt)_
 -   [`7cb1664`](https://github.com/stdlib-js/stdlib/commit/7cb1664000b4d7d1ecf09d94731beec48dfff241) - **docs:** fix link _(by Philipp Burckhardt)_
