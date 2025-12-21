@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-19)
+## Unreleased (2025-12-21)
 
 <section class="features">
 
 ### Features
 
+-   [`3ae1091`](https://github.com/stdlib-js/stdlib/commit/3ae109196ed33d85c0e392302895c31fc198e7b1) - add C API for `constants/float16/exponent-bias` [(#9297)](https://github.com/stdlib-js/stdlib/pull/9297)
 -   [`a74bbd2`](https://github.com/stdlib-js/stdlib/commit/a74bbd2daa62552702d22abace25b18e0341ecbf) - add `constants/float16/max-base10-exponent-subnormal` [(#9245)](https://github.com/stdlib-js/stdlib/pull/9245)
 -   [`b5fed93`](https://github.com/stdlib-js/stdlib/commit/b5fed93e3a9d169eaf611c7955e45ed468c01750) - add `constants/float16/abs-mask` [(#9206)](https://github.com/stdlib-js/stdlib/pull/9206)
 -   [`498cdcf`](https://github.com/stdlib-js/stdlib/commit/498cdcf88cd46f9b9d72069bd10943b0d02fbd57) - add `constants/float16/log10-e` [(#8993)](https://github.com/stdlib-js/stdlib/pull/8993)
@@ -153,6 +154,7 @@ A total of 17 issues were closed in this release:
 
 <details>
 
+-   [`3ae1091`](https://github.com/stdlib-js/stdlib/commit/3ae109196ed33d85c0e392302895c31fc198e7b1) - **feat:** add C API for `constants/float16/exponent-bias` [(#9297)](https://github.com/stdlib-js/stdlib/pull/9297) _(by Gururaj Gurram, Athan Reines)_
 -   [`a74bbd2`](https://github.com/stdlib-js/stdlib/commit/a74bbd2daa62552702d22abace25b18e0341ecbf) - **feat:** add `constants/float16/max-base10-exponent-subnormal` [(#9245)](https://github.com/stdlib-js/stdlib/pull/9245) _(by piyxsh31, Athan Reines)_
 -   [`b5fed93`](https://github.com/stdlib-js/stdlib/commit/b5fed93e3a9d169eaf611c7955e45ed468c01750) - **feat:** add `constants/float16/abs-mask` [(#9206)](https://github.com/stdlib-js/stdlib/pull/9206) _(by Aman Singh, Athan Reines)_
 -   [`6a11b5d`](https://github.com/stdlib-js/stdlib/commit/6a11b5d1d4f6b4752865d25d5ae3f937236efb3c) - **docs:** fix note _(by Athan Reines)_
