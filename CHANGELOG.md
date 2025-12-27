@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-25)
+## Unreleased (2025-12-27)
 
 <section class="features">
 
 ### Features
 
+-   [`adaa0e9`](https://github.com/stdlib-js/stdlib/commit/adaa0e95789c4ac9f14fddab422888d680323eff) - `add constants/float16/nan` [(#9265)](https://github.com/stdlib-js/stdlib/pull/9265)
 -   [`3ae1091`](https://github.com/stdlib-js/stdlib/commit/3ae109196ed33d85c0e392302895c31fc198e7b1) - add C API for `constants/float16/exponent-bias` [(#9297)](https://github.com/stdlib-js/stdlib/pull/9297)
 -   [`a74bbd2`](https://github.com/stdlib-js/stdlib/commit/a74bbd2daa62552702d22abace25b18e0341ecbf) - add `constants/float16/max-base10-exponent-subnormal` [(#9245)](https://github.com/stdlib-js/stdlib/pull/9245)
 -   [`b5fed93`](https://github.com/stdlib-js/stdlib/commit/b5fed93e3a9d169eaf611c7955e45ed468c01750) - add `constants/float16/abs-mask` [(#9206)](https://github.com/stdlib-js/stdlib/pull/9206)
@@ -154,6 +155,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`adaa0e9`](https://github.com/stdlib-js/stdlib/commit/adaa0e95789c4ac9f14fddab422888d680323eff) - **feat:** `add constants/float16/nan` [(#9265)](https://github.com/stdlib-js/stdlib/pull/9265) _(by Md Aqudam Azimee, Athan Reines, Divyanshu Chandra, stdlib-bot)_
 -   [`8c61391`](https://github.com/stdlib-js/stdlib/commit/8c613911043f76c6b41f0d3943163cd0237578f3) - **chore:** fix JavaScript lint errors [(#9337)](https://github.com/stdlib-js/stdlib/pull/9337) _(by DivitJain26, Athan Reines)_
 -   [`3ae1091`](https://github.com/stdlib-js/stdlib/commit/3ae109196ed33d85c0e392302895c31fc198e7b1) - **feat:** add C API for `constants/float16/exponent-bias` [(#9297)](https://github.com/stdlib-js/stdlib/pull/9297) _(by Gururaj Gurram, Athan Reines)_
 -   [`a74bbd2`](https://github.com/stdlib-js/stdlib/commit/a74bbd2daa62552702d22abace25b18e0341ecbf) - **feat:** add `constants/float16/max-base10-exponent-subnormal` [(#9245)](https://github.com/stdlib-js/stdlib/pull/9245) _(by piyxsh31, Athan Reines)_
@@ -336,13 +338,14 @@ A total of 18 issues were closed in this release:
 
 ### Contributors
 
-A total of 19 people contributed to this release. Thank you to the following contributors:
+A total of 21 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Aman Singh
 -   Athan Reines
 -   DivitJain26
 -   Divyanshu
+-   Divyanshu Chandra
 -   Gautam sharma
 -   Geo Daoyu
 -   Gunj Joshi
@@ -352,6 +355,7 @@ A total of 19 people contributed to this release. Thank you to the following con
 -   Karan Anand
 -   Krishna Awasthi
 -   Manvith M
+-   Md Aqudam Azimee
 -   Neeraj Pathak
 -   Philipp Burckhardt
 -   Sagar Ratna Chaudhary
