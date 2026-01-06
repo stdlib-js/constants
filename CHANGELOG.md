@@ -10,6 +10,7 @@
 
 ### Features
 
+-   [`e19e323`](https://github.com/stdlib-js/stdlib/commit/e19e323575c6413702679045e005fcb1572eb1d9) - add `constants/float16/min-base10-exponent-subnormal` [(#9275)](https://github.com/stdlib-js/stdlib/pull/9275)
 -   [`939e2d5`](https://github.com/stdlib-js/stdlib/commit/939e2d5e564a3f4015135894e4764d44e97b76ce) - add `constants/float32/num-exponent-bits` [(#9551)](https://github.com/stdlib-js/stdlib/pull/9551)
 -   [`adaa0e9`](https://github.com/stdlib-js/stdlib/commit/adaa0e95789c4ac9f14fddab422888d680323eff) - `add constants/float16/nan` [(#9265)](https://github.com/stdlib-js/stdlib/pull/9265)
 -   [`3ae1091`](https://github.com/stdlib-js/stdlib/commit/3ae109196ed33d85c0e392302895c31fc198e7b1) - add C API for `constants/float16/exponent-bias` [(#9297)](https://github.com/stdlib-js/stdlib/pull/9297)
@@ -156,6 +157,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`e19e323`](https://github.com/stdlib-js/stdlib/commit/e19e323575c6413702679045e005fcb1572eb1d9) - **feat:** add `constants/float16/min-base10-exponent-subnormal` [(#9275)](https://github.com/stdlib-js/stdlib/pull/9275) _(by Samarth Kolarkar, Athan Reines, stdlib-bot)_
 -   [`939e2d5`](https://github.com/stdlib-js/stdlib/commit/939e2d5e564a3f4015135894e4764d44e97b76ce) - **feat:** add `constants/float32/num-exponent-bits` [(#9551)](https://github.com/stdlib-js/stdlib/pull/9551) _(by Shubham, Athan Reines, Neeraj Pathak)_
 -   [`adaa0e9`](https://github.com/stdlib-js/stdlib/commit/adaa0e95789c4ac9f14fddab422888d680323eff) - **feat:** `add constants/float16/nan` [(#9265)](https://github.com/stdlib-js/stdlib/pull/9265) _(by Md Aqudam Azimee, Athan Reines, Divyanshu Chandra, stdlib-bot)_
 -   [`8c61391`](https://github.com/stdlib-js/stdlib/commit/8c613911043f76c6b41f0d3943163cd0237578f3) - **chore:** fix JavaScript lint errors [(#9337)](https://github.com/stdlib-js/stdlib/pull/9337) _(by DivitJain26, Athan Reines)_
@@ -340,7 +342,7 @@ A total of 19 issues were closed in this release:
 
 ### Contributors
 
-A total of 22 people contributed to this release. Thank you to the following contributors:
+A total of 23 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Aman Singh
@@ -361,6 +363,7 @@ A total of 22 people contributed to this release. Thank you to the following con
 -   Neeraj Pathak
 -   Philipp Burckhardt
 -   Sagar Ratna Chaudhary
+-   Samarth Kolarkar
 -   Shubham
 -   Vivek Maurya
 -   piyxsh31
