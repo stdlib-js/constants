@@ -4,12 +4,13 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2025-12-27)
+## Unreleased (2026-01-06)
 
 <section class="features">
 
 ### Features
 
+-   [`939e2d5`](https://github.com/stdlib-js/stdlib/commit/939e2d5e564a3f4015135894e4764d44e97b76ce) - add `constants/float32/num-exponent-bits` [(#9551)](https://github.com/stdlib-js/stdlib/pull/9551)
 -   [`adaa0e9`](https://github.com/stdlib-js/stdlib/commit/adaa0e95789c4ac9f14fddab422888d680323eff) - `add constants/float16/nan` [(#9265)](https://github.com/stdlib-js/stdlib/pull/9265)
 -   [`3ae1091`](https://github.com/stdlib-js/stdlib/commit/3ae109196ed33d85c0e392302895c31fc198e7b1) - add C API for `constants/float16/exponent-bias` [(#9297)](https://github.com/stdlib-js/stdlib/pull/9297)
 -   [`a74bbd2`](https://github.com/stdlib-js/stdlib/commit/a74bbd2daa62552702d22abace25b18e0341ecbf) - add `constants/float16/max-base10-exponent-subnormal` [(#9245)](https://github.com/stdlib-js/stdlib/pull/9245)
@@ -141,9 +142,9 @@
 
 ### Closed Issues
 
-A total of 18 issues were closed in this release:
+A total of 19 issues were closed in this release:
 
-[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3343](https://github.com/stdlib-js/stdlib/issues/3343), [#3344](https://github.com/stdlib-js/stdlib/issues/3344), [#6050](https://github.com/stdlib-js/stdlib/issues/6050), [#6070](https://github.com/stdlib-js/stdlib/issues/6070), [#6072](https://github.com/stdlib-js/stdlib/issues/6072), [#6076](https://github.com/stdlib-js/stdlib/issues/6076), [#6097](https://github.com/stdlib-js/stdlib/issues/6097), [#6222](https://github.com/stdlib-js/stdlib/issues/6222), [#6942](https://github.com/stdlib-js/stdlib/issues/6942), [#8200](https://github.com/stdlib-js/stdlib/issues/8200), [#9334](https://github.com/stdlib-js/stdlib/issues/9334)
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3343](https://github.com/stdlib-js/stdlib/issues/3343), [#3344](https://github.com/stdlib-js/stdlib/issues/3344), [#6050](https://github.com/stdlib-js/stdlib/issues/6050), [#6070](https://github.com/stdlib-js/stdlib/issues/6070), [#6072](https://github.com/stdlib-js/stdlib/issues/6072), [#6076](https://github.com/stdlib-js/stdlib/issues/6076), [#6097](https://github.com/stdlib-js/stdlib/issues/6097), [#6222](https://github.com/stdlib-js/stdlib/issues/6222), [#6942](https://github.com/stdlib-js/stdlib/issues/6942), [#8200](https://github.com/stdlib-js/stdlib/issues/8200), [#9334](https://github.com/stdlib-js/stdlib/issues/9334), [#9550](https://github.com/stdlib-js/stdlib/issues/9550)
 
 </section>
 
@@ -155,6 +156,7 @@ A total of 18 issues were closed in this release:
 
 <details>
 
+-   [`939e2d5`](https://github.com/stdlib-js/stdlib/commit/939e2d5e564a3f4015135894e4764d44e97b76ce) - **feat:** add `constants/float32/num-exponent-bits` [(#9551)](https://github.com/stdlib-js/stdlib/pull/9551) _(by Shubham, Athan Reines, Neeraj Pathak)_
 -   [`adaa0e9`](https://github.com/stdlib-js/stdlib/commit/adaa0e95789c4ac9f14fddab422888d680323eff) - **feat:** `add constants/float16/nan` [(#9265)](https://github.com/stdlib-js/stdlib/pull/9265) _(by Md Aqudam Azimee, Athan Reines, Divyanshu Chandra, stdlib-bot)_
 -   [`8c61391`](https://github.com/stdlib-js/stdlib/commit/8c613911043f76c6b41f0d3943163cd0237578f3) - **chore:** fix JavaScript lint errors [(#9337)](https://github.com/stdlib-js/stdlib/pull/9337) _(by DivitJain26, Athan Reines)_
 -   [`3ae1091`](https://github.com/stdlib-js/stdlib/commit/3ae109196ed33d85c0e392302895c31fc198e7b1) - **feat:** add C API for `constants/float16/exponent-bias` [(#9297)](https://github.com/stdlib-js/stdlib/pull/9297) _(by Gururaj Gurram, Athan Reines)_
@@ -338,7 +340,7 @@ A total of 18 issues were closed in this release:
 
 ### Contributors
 
-A total of 21 people contributed to this release. Thank you to the following contributors:
+A total of 22 people contributed to this release. Thank you to the following contributors:
 
 -   Aayush Khanna
 -   Aman Singh
@@ -359,6 +361,7 @@ A total of 21 people contributed to this release. Thank you to the following con
 -   Neeraj Pathak
 -   Philipp Burckhardt
 -   Sagar Ratna Chaudhary
+-   Shubham
 -   Vivek Maurya
 -   piyxsh31
 
