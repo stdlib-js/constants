@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-06)
+## Unreleased (2026-01-16)
 
 <section class="features">
 
@@ -157,6 +157,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`0472076`](https://github.com/stdlib-js/stdlib/commit/04720767c484e6277ad9411dff3dc5a116c31378) - **docs:** remove duplicated words in documentation and comments _(by Philipp Burckhardt)_
 -   [`e19e323`](https://github.com/stdlib-js/stdlib/commit/e19e323575c6413702679045e005fcb1572eb1d9) - **feat:** add `constants/float16/min-base10-exponent-subnormal` [(#9275)](https://github.com/stdlib-js/stdlib/pull/9275) _(by Samarth Kolarkar, Athan Reines, stdlib-bot)_
 -   [`939e2d5`](https://github.com/stdlib-js/stdlib/commit/939e2d5e564a3f4015135894e4764d44e97b76ce) - **feat:** add `constants/float32/num-exponent-bits` [(#9551)](https://github.com/stdlib-js/stdlib/pull/9551) _(by Shubham, Athan Reines, Neeraj Pathak)_
 -   [`adaa0e9`](https://github.com/stdlib-js/stdlib/commit/adaa0e95789c4ac9f14fddab422888d680323eff) - **feat:** `add constants/float16/nan` [(#9265)](https://github.com/stdlib-js/stdlib/pull/9265) _(by Md Aqudam Azimee, Athan Reines, Divyanshu Chandra, stdlib-bot)_
