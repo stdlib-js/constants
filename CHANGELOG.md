@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-01-16)
+## Unreleased (2026-02-24)
 
 <section class="features">
 
@@ -107,6 +107,7 @@
 
 ### Bug Fixes
 
+-   [`d65bf73`](https://github.com/stdlib-js/stdlib/commit/d65bf7356a9f65e0e512ac1a6809e731528a09a9) - rename incorrect manifest file name in `constants/float32/max-ln` [(#10167)](https://github.com/stdlib-js/stdlib/pull/10167)
 -   [`7251add`](https://github.com/stdlib-js/stdlib/commit/7251add18b81221e293930e6197d8d359791940a) - address typo in variable name [(#8888)](https://github.com/stdlib-js/stdlib/pull/8888)
 -   [`cf54782`](https://github.com/stdlib-js/stdlib/commit/cf547821b6bf3dff9f59d177eb99394c70402882) - rename constant to follow `float32` naming conventions
 -   [`9a41c60`](https://github.com/stdlib-js/stdlib/commit/9a41c60577db195a819cbc161bf41961343f7cfb) - correct `FLOAT32_GAMMA_LANCZOS_G`
@@ -143,9 +144,9 @@
 
 ### Closed Issues
 
-A total of 19 issues were closed in this release:
+A total of 20 issues were closed in this release:
 
-[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3343](https://github.com/stdlib-js/stdlib/issues/3343), [#3344](https://github.com/stdlib-js/stdlib/issues/3344), [#6050](https://github.com/stdlib-js/stdlib/issues/6050), [#6070](https://github.com/stdlib-js/stdlib/issues/6070), [#6072](https://github.com/stdlib-js/stdlib/issues/6072), [#6076](https://github.com/stdlib-js/stdlib/issues/6076), [#6097](https://github.com/stdlib-js/stdlib/issues/6097), [#6222](https://github.com/stdlib-js/stdlib/issues/6222), [#6942](https://github.com/stdlib-js/stdlib/issues/6942), [#8200](https://github.com/stdlib-js/stdlib/issues/8200), [#9334](https://github.com/stdlib-js/stdlib/issues/9334), [#9550](https://github.com/stdlib-js/stdlib/issues/9550)
+[#3090](https://github.com/stdlib-js/stdlib/issues/3090), [#3093](https://github.com/stdlib-js/stdlib/issues/3093), [#3094](https://github.com/stdlib-js/stdlib/issues/3094), [#3325](https://github.com/stdlib-js/stdlib/issues/3325), [#3327](https://github.com/stdlib-js/stdlib/issues/3327), [#3332](https://github.com/stdlib-js/stdlib/issues/3332), [#3336](https://github.com/stdlib-js/stdlib/issues/3336), [#3343](https://github.com/stdlib-js/stdlib/issues/3343), [#3344](https://github.com/stdlib-js/stdlib/issues/3344), [#6050](https://github.com/stdlib-js/stdlib/issues/6050), [#6070](https://github.com/stdlib-js/stdlib/issues/6070), [#6072](https://github.com/stdlib-js/stdlib/issues/6072), [#6076](https://github.com/stdlib-js/stdlib/issues/6076), [#6097](https://github.com/stdlib-js/stdlib/issues/6097), [#6222](https://github.com/stdlib-js/stdlib/issues/6222), [#6942](https://github.com/stdlib-js/stdlib/issues/6942), [#8200](https://github.com/stdlib-js/stdlib/issues/8200), [#9334](https://github.com/stdlib-js/stdlib/issues/9334), [#9550](https://github.com/stdlib-js/stdlib/issues/9550), [#10166](https://github.com/stdlib-js/stdlib/issues/10166)
 
 </section>
 
@@ -157,6 +158,7 @@ A total of 19 issues were closed in this release:
 
 <details>
 
+-   [`d65bf73`](https://github.com/stdlib-js/stdlib/commit/d65bf7356a9f65e0e512ac1a6809e731528a09a9) - **fix:** rename incorrect manifest file name in `constants/float32/max-ln` [(#10167)](https://github.com/stdlib-js/stdlib/pull/10167) _(by Shubham)_
 -   [`0472076`](https://github.com/stdlib-js/stdlib/commit/04720767c484e6277ad9411dff3dc5a116c31378) - **docs:** remove duplicated words in documentation and comments _(by Philipp Burckhardt)_
 -   [`e19e323`](https://github.com/stdlib-js/stdlib/commit/e19e323575c6413702679045e005fcb1572eb1d9) - **feat:** add `constants/float16/min-base10-exponent-subnormal` [(#9275)](https://github.com/stdlib-js/stdlib/pull/9275) _(by Samarth Kolarkar, Athan Reines, stdlib-bot)_
 -   [`939e2d5`](https://github.com/stdlib-js/stdlib/commit/939e2d5e564a3f4015135894e4764d44e97b76ce) - **feat:** add `constants/float32/num-exponent-bits` [(#9551)](https://github.com/stdlib-js/stdlib/pull/9551) _(by Shubham, Athan Reines, Neeraj Pathak)_
