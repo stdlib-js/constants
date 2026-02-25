@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-02-24)
+## Unreleased (2026-02-25)
 
 <section class="features">
 
@@ -158,6 +158,8 @@ A total of 20 issues were closed in this release:
 
 <details>
 
+-   [`8101713`](https://github.com/stdlib-js/stdlib/commit/810171368ca80b1d10b4782987cb509a5be2c869) - **docs:** add missing C examples sections in `constants/float32` README files _(by Philipp Burckhardt)_
+-   [`4fb4995`](https://github.com/stdlib-js/stdlib/commit/4fb49958095bee6d0cfee8b5d63fcfdf94f87e6e) - **docs:** fix missing and malformed section tags in README files _(by Philipp Burckhardt)_
 -   [`d65bf73`](https://github.com/stdlib-js/stdlib/commit/d65bf7356a9f65e0e512ac1a6809e731528a09a9) - **fix:** rename incorrect manifest file name in `constants/float32/max-ln` [(#10167)](https://github.com/stdlib-js/stdlib/pull/10167) _(by Shubham)_
 -   [`0472076`](https://github.com/stdlib-js/stdlib/commit/04720767c484e6277ad9411dff3dc5a116c31378) - **docs:** remove duplicated words in documentation and comments _(by Philipp Burckhardt)_
 -   [`e19e323`](https://github.com/stdlib-js/stdlib/commit/e19e323575c6413702679045e005fcb1572eb1d9) - **feat:** add `constants/float16/min-base10-exponent-subnormal` [(#9275)](https://github.com/stdlib-js/stdlib/pull/9275) _(by Samarth Kolarkar, Athan Reines, stdlib-bot)_
