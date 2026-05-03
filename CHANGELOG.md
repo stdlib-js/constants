@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-01)
+## Unreleased (2026-05-03)
 
 <section class="features">
 
@@ -158,6 +158,7 @@ A total of 20 issues were closed in this release:
 
 <details>
 
+-   [`c2b92b4`](https://github.com/stdlib-js/stdlib/commit/c2b92b4e7c4840bb859808dc0dacd97833019549) - **chore:** propagate fixes to sibling packages [(#11892)](https://github.com/stdlib-js/stdlib/pull/11892) _(by Philipp Burckhardt)_
 -   [`e67e59e`](https://github.com/stdlib-js/stdlib/commit/e67e59e60a49c76c8feeafc3c400d29d477b679f) - **docs:** add missing period and align keywords in `constants/float16` [(#11849)](https://github.com/stdlib-js/stdlib/pull/11849) _(by Philipp Burckhardt)_
 -   [`7442c80`](https://github.com/stdlib-js/stdlib/commit/7442c80a194a19e0784a8093afb743146dd3a668) - **docs:** update namespace table of contents [(#11789)](https://github.com/stdlib-js/stdlib/pull/11789) _(by stdlib-bot, Philipp Burckhardt)_
 -   [`cc0ab62`](https://github.com/stdlib-js/stdlib/commit/cc0ab62448395c0044c20fa8de044752a4edace2) - **docs:** add missing trailing periods in README descriptions [(#11751)](https://github.com/stdlib-js/stdlib/pull/11751) _(by Philipp Burckhardt)_
