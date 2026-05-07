@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-06)
+## Unreleased (2026-05-07)
 
 <section class="features">
 
@@ -158,6 +158,7 @@ A total of 20 issues were closed in this release:
 
 <details>
 
+-   [`6c6ac62`](https://github.com/stdlib-js/stdlib/commit/6c6ac629e785f620df16599efbacb2ab0ee71b56) - **docs:** improve doctests for complex number typed arrays in `constants` [(#11979)](https://github.com/stdlib-js/stdlib/pull/11979) _(by Karan Anand)_
 -   [`e7f93b6`](https://github.com/stdlib-js/stdlib/commit/e7f93b6d4af09ad035409619bd4c3e97b8a0800f) - **chore:** correct float64 keyword leftovers in `@stdlib/constants/float32` packages [(#11964)](https://github.com/stdlib-js/stdlib/pull/11964) _(by Philipp Burckhardt)_
 -   [`7d465f0`](https://github.com/stdlib-js/stdlib/commit/7d465f0dc899cfdadffdced8ed9a2ae6ec97acda) - **chore:** update package entry point to reflect convention [(#11909)](https://github.com/stdlib-js/stdlib/pull/11909) _(by Philipp Burckhardt)_
 -   [`c2b92b4`](https://github.com/stdlib-js/stdlib/commit/c2b92b4e7c4840bb859808dc0dacd97833019549) - **chore:** propagate fixes to sibling packages [(#11892)](https://github.com/stdlib-js/stdlib/pull/11892) _(by Philipp Burckhardt)_
