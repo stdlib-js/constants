@@ -40,6 +40,7 @@ var ns = {};
 * @name DELIMITER
 * @memberof ns
 * @readonly
+* @constant
 * @type {string}
 * @see {@link module:@stdlib/constants/path/delimiter}
 */
@@ -49,6 +50,7 @@ setReadOnly( ns, 'DELIMITER', require( './../../path/delimiter' ) );
 * @name DELIMITER_POSIX
 * @memberof ns
 * @readonly
+* @constant
 * @type {string}
 * @see {@link module:@stdlib/constants/path/delimiter-posix}
 */
@@ -58,6 +60,7 @@ setReadOnly( ns, 'DELIMITER_POSIX', require( './../../path/delimiter-posix' ) );
 * @name DELIMITER_WIN32
 * @memberof ns
 * @readonly
+* @constant
 * @type {string}
 * @see {@link module:@stdlib/constants/path/delimiter-win32}
 */
@@ -67,6 +70,7 @@ setReadOnly( ns, 'DELIMITER_WIN32', require( './../../path/delimiter-win32' ) );
 * @name SEP
 * @memberof ns
 * @readonly
+* @constant
 * @type {string}
 * @see {@link module:@stdlib/constants/path/sep}
 */
@@ -76,6 +80,7 @@ setReadOnly( ns, 'SEP', require( './../../path/sep' ) );
 * @name SEP_POSIX
 * @memberof ns
 * @readonly
+* @constant
 * @type {string}
 * @see {@link module:@stdlib/constants/path/sep-posix}
 */
@@ -85,6 +90,7 @@ setReadOnly( ns, 'SEP_POSIX', require( './../../path/sep-posix' ) );
 * @name SEP_WIN32
 * @memberof ns
 * @readonly
+* @constant
 * @type {string}
 * @see {@link module:@stdlib/constants/path/sep-win32}
 */
