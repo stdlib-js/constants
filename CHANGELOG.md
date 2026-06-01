@@ -158,6 +158,7 @@ A total of 20 issues were closed in this release:
 
 <details>
 
+-   [`8879b1d`](https://github.com/stdlib-js/stdlib/commit/8879b1d32513bce3f1cc083787d3ca504f7673a4) - **docs:** tidy doc and C macro drift in `@stdlib/constants/float32` [(#12432)](https://github.com/stdlib-js/stdlib/pull/12432) _(by Philipp Burckhardt)_
 -   [`9dd3df6`](https://github.com/stdlib-js/stdlib/commit/9dd3df6b9e0735d6ffe28d6475e1181ac645f2de) - **docs:** update namespace table of contents [(#12416)](https://github.com/stdlib-js/stdlib/pull/12416) _(by stdlib-bot)_
 -   [`313aca0`](https://github.com/stdlib-js/stdlib/commit/313aca0ca68e3b4aa57e9b1147e7245799c08f3a) - **docs:** tidy JSDoc and README drift in `@stdlib/constants` [(#12389)](https://github.com/stdlib-js/stdlib/pull/12389) _(by Philipp Burckhardt)_
 -   [`0955e33`](https://github.com/stdlib-js/stdlib/commit/0955e33c604c44b355a19de7bfce761869922d96) - **style:** add missing section comments [(#12158)](https://github.com/stdlib-js/stdlib/pull/12158) _(by Philipp Burckhardt)_
