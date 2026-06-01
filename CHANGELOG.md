@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-05-31)
+## Unreleased (2026-06-01)
 
 <section class="features">
 
@@ -158,6 +158,7 @@ A total of 20 issues were closed in this release:
 
 <details>
 
+-   [`9dd3df6`](https://github.com/stdlib-js/stdlib/commit/9dd3df6b9e0735d6ffe28d6475e1181ac645f2de) - **docs:** update namespace table of contents [(#12416)](https://github.com/stdlib-js/stdlib/pull/12416) _(by stdlib-bot)_
 -   [`313aca0`](https://github.com/stdlib-js/stdlib/commit/313aca0ca68e3b4aa57e9b1147e7245799c08f3a) - **docs:** tidy JSDoc and README drift in `@stdlib/constants` [(#12389)](https://github.com/stdlib-js/stdlib/pull/12389) _(by Philipp Burckhardt)_
 -   [`0955e33`](https://github.com/stdlib-js/stdlib/commit/0955e33c604c44b355a19de7bfce761869922d96) - **style:** add missing section comments [(#12158)](https://github.com/stdlib-js/stdlib/pull/12158) _(by Philipp Burckhardt)_
 -   [`6c6ac62`](https://github.com/stdlib-js/stdlib/commit/6c6ac629e785f620df16599efbacb2ab0ee71b56) - **docs:** improve doctests for complex number typed arrays in `constants` [(#11979)](https://github.com/stdlib-js/stdlib/pull/11979) _(by Karan Anand)_
