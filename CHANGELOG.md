@@ -4,7 +4,19 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-06-27)
+## Unreleased (2026-07-06)
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#11209](https://github.com/stdlib-js/stdlib/issues/11209)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +24,7 @@
 
 <details>
 
+-   [`1396582`](https://github.com/stdlib-js/stdlib/commit/1396582a1c2c075d60f79d72115145b5ee2dd245) - **chore:** fix JavaScript lint errors [(#11211)](https://github.com/stdlib-js/stdlib/pull/11211) _(by Jean Carlos Vargas, Athan Reines)_
 -   [`e478830`](https://github.com/stdlib-js/stdlib/commit/e478830dbde462b7feb1d37b4e44a384d2a28c91) - **test:** fix precision qualifier in test descriptions [(#13172)](https://github.com/stdlib-js/stdlib/pull/13172) _(by Philipp Burckhardt)_
 -   [`75fa3bf`](https://github.com/stdlib-js/stdlib/commit/75fa3bfd4969f4453369d4f5d8e32be7ec32e8cd) - **docs:** update descriptions and example [(#13059)](https://github.com/stdlib-js/stdlib/pull/13059) _(by Philipp Burckhardt)_
 -   [`4154fdc`](https://github.com/stdlib-js/stdlib/commit/4154fdcb3d19ce74a7210ddb494dd662bdb1f012) - **chore:** update examples and add keyword [(#12967)](https://github.com/stdlib-js/stdlib/pull/12967) _(by Philipp Burckhardt)_
@@ -27,8 +40,10 @@
 
 ### Contributors
 
-A total of 1 person contributed to this release. Thank you to this contributor:
+A total of 3 people contributed to this release. Thank you to the following contributors:
 
+-   Athan Reines
+-   Jean Carlos Vargas
 -   Philipp Burckhardt
 
 </section>
