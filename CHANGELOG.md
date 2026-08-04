@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-07-30)
+## Unreleased (2026-08-04)
 
 <section class="issues">
 
@@ -24,6 +24,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`ab689bf`](https://github.com/stdlib-js/stdlib/commit/ab689bf12a998b539382b89f7e5d8acd81d81d0f) - **docs:** add asm type annotation [(#13905)](https://github.com/stdlib-js/stdlib/pull/13905) _(by Philipp Burckhardt)_
 -   [`7a57356`](https://github.com/stdlib-js/stdlib/commit/7a57356495ab73262b3740e1117555eb1791c2a6) - **docs:** update aliases [(#13490)](https://github.com/stdlib-js/stdlib/pull/13490) _(by Philipp Burckhardt)_
 -   [`d743f2c`](https://github.com/stdlib-js/stdlib/commit/d743f2c4da7566ebebe2e35cc953a3897c7e2570) - **docs:** rename variable [(#13469)](https://github.com/stdlib-js/stdlib/pull/13469) _(by Philipp Burckhardt)_
 -   [`a9ded39`](https://github.com/stdlib-js/stdlib/commit/a9ded39203d2cbc9ff79b0cc96f0fbd2a962b36f) - **chore:** clean-up [(#12446)](https://github.com/stdlib-js/stdlib/pull/12446) _(by Philipp Burckhardt, Athan Reines)_
