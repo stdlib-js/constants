@@ -4,7 +4,17 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-19)
+## Unreleased (2026-09-30)
+
+<section class="bug-fixes">
+
+### Bug Fixes
+
+-   [`fb5ec21`](https://github.com/stdlib-js/stdlib/commit/fb5ec210035434f3734e3e0c16f1b9365880eefa) - add parentheses to NaN macros [(#15676)](https://github.com/stdlib-js/stdlib/pull/15676)
+
+</section>
+
+<!-- /.bug-fixes -->
 
 <section class="issues">
 
@@ -24,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fb5ec21`](https://github.com/stdlib-js/stdlib/commit/fb5ec210035434f3734e3e0c16f1b9365880eefa) - **fix:** add parentheses to NaN macros [(#15676)](https://github.com/stdlib-js/stdlib/pull/15676) _(by Karan Anand)_
 -   [`39fe031`](https://github.com/stdlib-js/stdlib/commit/39fe0312c0f91bafc29f62de92b02a8a4f02645b) - **docs:** update descriptions [(#15207)](https://github.com/stdlib-js/stdlib/pull/15207) _(by Philipp Burckhardt)_
 -   [`f10ea71`](https://github.com/stdlib-js/stdlib/commit/f10ea71b1b7528348cdda654baa4a7541c6a0ba2) - **chore:** add keyword [(#14976)](https://github.com/stdlib-js/stdlib/pull/14976) _(by Philipp Burckhardt)_
 -   [`a0ddbae`](https://github.com/stdlib-js/stdlib/commit/a0ddbae6d3f4bb2b9f95ff2e249202a5d3c95e82) - **docs:** fix description and add missing spaces [(#14202)](https://github.com/stdlib-js/stdlib/pull/14202) _(by Philipp Burckhardt)_
@@ -48,10 +59,11 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Jean Carlos Vargas
+-   Karan Anand
 -   Philipp Burckhardt
 
 </section>
