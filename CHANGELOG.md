@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-09-30)
+## Unreleased (2026-10-11)
 
 <section class="bug-fixes">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`3560347`](https://github.com/stdlib-js/stdlib/commit/3560347e7c8e720b4fa1fab2a97315f5ee4c188b) - **test:** migrate `constants/float32/ln-ten` to ULP-based assertions [(#16059)](https://github.com/stdlib-js/stdlib/pull/16059) _(by Philipp Burckhardt, Athan Reines)_
 -   [`fb5ec21`](https://github.com/stdlib-js/stdlib/commit/fb5ec210035434f3734e3e0c16f1b9365880eefa) - **fix:** add parentheses to NaN macros [(#15676)](https://github.com/stdlib-js/stdlib/pull/15676) _(by Karan Anand)_
 -   [`39fe031`](https://github.com/stdlib-js/stdlib/commit/39fe0312c0f91bafc29f62de92b02a8a4f02645b) - **docs:** update descriptions [(#15207)](https://github.com/stdlib-js/stdlib/pull/15207) _(by Philipp Burckhardt)_
 -   [`f10ea71`](https://github.com/stdlib-js/stdlib/commit/f10ea71b1b7528348cdda654baa4a7541c6a0ba2) - **chore:** add keyword [(#14976)](https://github.com/stdlib-js/stdlib/pull/14976) _(by Philipp Burckhardt)_
