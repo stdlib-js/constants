@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`07bed02`](https://github.com/stdlib-js/stdlib/commit/07bed027eb6fc795417b23eedbde10aa9ffa1ba3) - **test:** migrate `constants/float32/ln-two-pi` to ULP-based assertions [(#16081)](https://github.com/stdlib-js/stdlib/pull/16081) _(by Philipp Burckhardt)_
 -   [`ea7863e`](https://github.com/stdlib-js/stdlib/commit/ea7863e40d091327a8d46dd43f4fc58c59b089c2) - **test:** migrate `constants/float32/half-ln-two` to ULP-based assertions [(#16071)](https://github.com/stdlib-js/stdlib/pull/16071) _(by Athan Reines)_
 -   [`3560347`](https://github.com/stdlib-js/stdlib/commit/3560347e7c8e720b4fa1fab2a97315f5ee4c188b) - **test:** migrate `constants/float32/ln-ten` to ULP-based assertions [(#16059)](https://github.com/stdlib-js/stdlib/pull/16059) _(by Philipp Burckhardt, Athan Reines)_
 -   [`fb5ec21`](https://github.com/stdlib-js/stdlib/commit/fb5ec210035434f3734e3e0c16f1b9365880eefa) - **fix:** add parentheses to NaN macros [(#15676)](https://github.com/stdlib-js/stdlib/pull/15676) _(by Karan Anand)_
