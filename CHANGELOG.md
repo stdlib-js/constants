@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-12)
+## Unreleased (2026-10-13)
 
 <section class="bug-fixes">
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`30ad8ec`](https://github.com/stdlib-js/stdlib/commit/30ad8ec0d36d5bf031538573371e21eb65176f74) - **test:** migrate `constants/float64/half-ln-two` to ULP-based assertions [(#16098)](https://github.com/stdlib-js/stdlib/pull/16098) _(by Athan Reines)_
 -   [`29c6c92`](https://github.com/stdlib-js/stdlib/commit/29c6c92b23eaba5dbcb2f6e2f54de47262ef9ff5) - **test:** migrate `constants/float64/ln-two-pi` to ULP-based assertions [(#15855)](https://github.com/stdlib-js/stdlib/pull/15855) _(by Philipp Burckhardt, Athan Reines)_
 -   [`07bed02`](https://github.com/stdlib-js/stdlib/commit/07bed027eb6fc795417b23eedbde10aa9ffa1ba3) - **test:** migrate `constants/float32/ln-two-pi` to ULP-based assertions [(#16081)](https://github.com/stdlib-js/stdlib/pull/16081) _(by Philipp Burckhardt)_
 -   [`ea7863e`](https://github.com/stdlib-js/stdlib/commit/ea7863e40d091327a8d46dd43f4fc58c59b089c2) - **test:** migrate `constants/float32/half-ln-two` to ULP-based assertions [(#16071)](https://github.com/stdlib-js/stdlib/pull/16071) _(by Athan Reines)_
