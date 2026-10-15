@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`fa0bc59`](https://github.com/stdlib-js/stdlib/commit/fa0bc59095b8411b20a29faa3453b15f35d46399) - **test:** migrate `constants/float64/ln-ten` to ULP-based assertions [(#16177)](https://github.com/stdlib-js/stdlib/pull/16177) _(by Athan Reines)_
 -   [`cd798a3`](https://github.com/stdlib-js/stdlib/commit/cd798a391f5286cd335e4bd342d3d5229fc80dec) - **test:** migrate `constants/float16/ln-half` to ULP-based assertions [(#16173)](https://github.com/stdlib-js/stdlib/pull/16173) _(by Athan Reines)_
 -   [`71017b3`](https://github.com/stdlib-js/stdlib/commit/71017b38fb05a0008d1e777e80904349653d5787) - **test:** migrate `constants/float16/pi-squared` to ULP-based assertions [(#16170)](https://github.com/stdlib-js/stdlib/pull/16170) _(by Athan Reines)_
 -   [`9f36f33`](https://github.com/stdlib-js/stdlib/commit/9f36f33f6f3a05630bcef1938b90f3469fd3dc81) - **test:** migrate `constants/float32/ln-sqrt-two-pi` to ULP-based assertions [(#16155)](https://github.com/stdlib-js/stdlib/pull/16155) _(by Athan Reines)_
