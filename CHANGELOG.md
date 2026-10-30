@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-10-24)
+## Unreleased (2026-10-30)
 
 <section class="bug-fixes">
 
@@ -20,9 +20,9 @@
 
 ### Closed Issues
 
-This release closes the following issue:
+A total of 2 issues were closed in this release:
 
-[#11209](https://github.com/stdlib-js/stdlib/issues/11209)
+[#11209](https://github.com/stdlib-js/stdlib/issues/11209), [#16332](https://github.com/stdlib-js/stdlib/issues/16332)
 
 </section>
 
@@ -34,6 +34,7 @@ This release closes the following issue:
 
 <details>
 
+-   [`43a6e68`](https://github.com/stdlib-js/stdlib/commit/43a6e68eb642adc5335a9710b01142c35b329e87) - **chore:** fix JavaScript lint errors [(#16337)](https://github.com/stdlib-js/stdlib/pull/16337) _(by AKULA MANOJ)_
 -   [`ebd2121`](https://github.com/stdlib-js/stdlib/commit/ebd212174e604051293d344d39be1c6d8374a767) - **test:** migrate `constants/float64/ln-half` to ULP-based assertions [(#16181)](https://github.com/stdlib-js/stdlib/pull/16181) _(by Athan Reines)_
 -   [`685bf82`](https://github.com/stdlib-js/stdlib/commit/685bf820e417041661cc3fc3552fdbb69a05fea8) - **test:** migrate `constants/float16/ln-two-pi` to ULP-based assertions [(#16185)](https://github.com/stdlib-js/stdlib/pull/16185) _(by Athan Reines)_
 -   [`9d2e90e`](https://github.com/stdlib-js/stdlib/commit/9d2e90eb81237e374dbe3b2ce247130ac67d3651) - **test:** migrate `constants/float64/pi-squared` to ULP-based assertions [(#16253)](https://github.com/stdlib-js/stdlib/pull/16253) _(by Athan Reines)_
@@ -80,8 +81,9 @@ This release closes the following issue:
 
 ### Contributors
 
-A total of 4 people contributed to this release. Thank you to the following contributors:
+A total of 5 people contributed to this release. Thank you to the following contributors:
 
+-   AKULA MANOJ
 -   Athan Reines
 -   Jean Carlos Vargas
 -   Karan Anand
