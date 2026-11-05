@@ -4,7 +4,7 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-11-03)
+## Unreleased (2026-11-05)
 
 <section class="bug-fixes">
 
@@ -34,6 +34,7 @@ A total of 2 issues were closed in this release:
 
 <details>
 
+-   [`78ad2fa`](https://github.com/stdlib-js/stdlib/commit/78ad2fa5dbb12ce808dec93197d5343745ff91b8) - **docs:** normalize trailing newlines in REPL help texts [(#16420)](https://github.com/stdlib-js/stdlib/pull/16420) _(by Philipp Burckhardt)_
 -   [`fef28cc`](https://github.com/stdlib-js/stdlib/commit/fef28cc62d12992a883f8d85de099677447fe1d3) - **docs:** add missing `@see` tags [(#16474)](https://github.com/stdlib-js/stdlib/pull/16474) _(by Philipp Burckhardt)_
 -   [`4610233`](https://github.com/stdlib-js/stdlib/commit/46102338dc4b490af0e03c7698d44f0f2e87eb6e) - **chore:** fix lint errors [(#16385)](https://github.com/stdlib-js/stdlib/pull/16385) _(by Philipp Burckhardt)_
 -   [`43a6e68`](https://github.com/stdlib-js/stdlib/commit/43a6e68eb642adc5335a9710b01142c35b329e87) - **chore:** fix JavaScript lint errors [(#16337)](https://github.com/stdlib-js/stdlib/pull/16337) _(by AKULA MANOJ)_
